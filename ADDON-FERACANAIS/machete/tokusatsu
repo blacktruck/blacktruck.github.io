@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ULTRAMAN" tvg-name="ULTRAMAN" tvg-logo="https://i.ibb.co/P1pfjcv/ULTRAMAN.png" group-title="TOKUSATSU",ULTRAMAN
+http://archive.org/download/witflixtokusatsus/Tokusatsus/Ultraman.m3u
+
+#EXTINF:-1 tvg-id="JASPION" tvg-name="JASPION" tvg-logo="https://i.ibb.co/5jhWd1k/JASPION.png" group-title="TOKUSATSU",JASPION
+http://archive.org/download/witflixtokusatsus/Tokusatsus/Jaspion.m3u
+
+#EXTINF:-1 tvg-id="SPIELVAN" tvg-name="SPIELVAN" tvg-logo="https://i.ibb.co/48N3PB7/SPIELVAN.png" group-title="TOKUSATSU",GUERREIRO DIMENSIONAL SPIELVAN
+http://archive.org/download/j2ep0/J2ep0.m3u
+			
+#EXTINF:-1 tvg-id="JIBAN" tvg-name="JIBAN" tvg-logo="https://i.ibb.co/g7v4z0Y/JIBAN.png" group-title="TOKUSATSU",JIBAN
+http://archive.org/download/pj0_20200415/PJ0.m3u
+
+#EXTINF:-1 tvg-id="JIRAYA" tvg-name="JIRAYA" tvg-logo="https://i.ibb.co/ZcKNjWK/JIRAYA.png" group-title="TOKUSATSU",JIRAYA
+http://archive.org/download/witflixtokusatsus/Tokusatsus/Jiraya.m3u
+
+
+
+
+
+
+
+
+
+
+
+

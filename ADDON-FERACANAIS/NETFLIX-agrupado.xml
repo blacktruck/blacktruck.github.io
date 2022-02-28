@@ -1,0 +1,21 @@
+################################################################### NETFLIX ##########################################################
+<channels>
+<channel>
+<name>[B][COLOR white] | [B]FILMES[/COLOR] [COLOR red]NETFLIX[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/JrGkFKw/FILMES-NET.png</thumbnail>
+<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/FILMES-NETFLIX.xml</externallink>
+<fanart>https://logospng.org/wp-content/uploads/netflix.jpg</fanart>
+<info>
+</channel>
+</channels>
+#################################################################### SERIES NETFLIX ###########################################################
+
+<channels>
+<channel>
+<name>[B][COLOR white] | SERIES[/COLOR] [COLOR red]NETFLIX[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/8sR21KF/SERIES-NET.png</thumbnail>
+<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/SERIES-NETFLIX.xml</externallink>
+<fanart>https://logospng.org/wp-content/uploads/netflix.jpg</fanart>
+<info>
+</channel>
+</channels>

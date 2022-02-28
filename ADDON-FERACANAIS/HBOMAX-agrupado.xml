@@ -1,0 +1,22 @@
+############################################################ filmes hbomax
+<channels>
+<channel>
+<name>[B][COLOR white] | [B]FILMES[/COLOR] [COLOR orange]HBO MAX[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/FkQxV4K/HBO-FILMES.png</thumbnail>
+<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/FILMES%20HBOMAX.xml</externallink>
+<fanart>https://i.pinimg.com/originals/72/a0/f3/72a0f31819a2e0f6782489e39d6d998d.png</fanart>
+<info>
+</channel>
+</channels>
+
+############################################################ series hbomax
+
+<channels>
+<channel>
+<name>[B][COLOR white] | SERIES[/COLOR] [COLOR violet]HBO MAX[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/sjjY96D/HBO-SERIES.png</thumbnail>
+<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/SERIES%20HBOMAX.xml</externallink>
+<fanart>https://i.pinimg.com/originals/72/a0/f3/72a0f31819a2e0f6782489e39d6d998d.png</fanart>
+<info>
+</channel>
+</channels>

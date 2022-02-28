@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="YU YU HAKUSHO" tvg-name="YU YU HAKUSHO" tvg-logo="https://i.pinimg.com/564x/d7/74/1f/d7741f8ace24182cc004cc0666859c6b.jpg" group-title="ANIME 2",YU YU HAKUSHO
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E675B4D282A61DAB7732BE2FC9BD11765C081A20
+
+
+A

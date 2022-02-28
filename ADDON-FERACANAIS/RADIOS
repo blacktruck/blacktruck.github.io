@@ -1,0 +1,376 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="WEB RADIO NAVE" tvg-name="WEB RADIO NAVE" tvg-logo="https://i.ibb.co/gZJgRM3/RADIO-NAVE.png" group-title="NOTICIAS",WEB RADIO NAVE
+https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_24094_stream_779302420
+
+#EXTINF:-1 tvg-id="WEB RADIO EBN" tvg-name="WEB RADIO EBN" tvg-logo="https://i.ibb.co/Qpx4Rd4/EBN2.png" group-title="NOTICIAS",WEB RADIO EBN
+http://stream.zeno.fm/ushcmq7fk0quv
+
+
+#EXTINF:-1 tvg-id="SUPER RADIO TUPI" tvg-name="SUPER RADIO TUPI" tvg-logo="https://i.ibb.co/7tcfVzB/NOTICIAS.png" group-title="NOTICIAS",SUPER RADIO TUPI
+https://8923.brasilstream.com.br/stream?1617380823591
+
+#EXTINF:-1 tvg-id="RADIO JORNAL SERGIPE" tvg-name="RADIO JORNAL SERGIPE" tvg-logo="https://i.ibb.co/7tcfVzB/NOTICIAS.png" group-title="NOTICIAS",RADIO JORNAL SERGIPE
+http://13.stmip.net:9274/stream?1617644054487
+
+#EXTINF:-1 tvg-id="RADIO ROCK 89 GOIANIA" tvg-name="RADIO ROCK 89 GOIANIA" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",RADIO ROCK 89 GOIANIA
+https://f25.fabricahost.com.br/89aradiorockgo?f=1617386991N65cc6e46fe3545b897730ecae02705db
+
+#EXTINF:-1 tvg-id="ROCK ANTENE" tvg-name="ROCK ANTENE" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",ROCK ANTENE
+https://s5-webradio.rockantenne.de/heavy-metal/stream/mp3?aw_0_1st.playerid=radio.de
+
+#EXTINF:-1 tvg-id="91 ROCK CURITIBA" tvg-name="91 ROCK CURITIBA" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",91 ROCK CURITIBA
+https://servidor40.brlogic.com:8044/live?1617333840489
+
+#EXTINF:-1 tvg-id="ROCK LOVERS" tvg-name="ROCK LOVERS" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",ROCK LOVERS
+https://ssl.srvsh.com.br:6860/;
+
+#EXTINF:-1 tvg-id="ALTERNATIVE ROCK" tvg-name="ALTERNATIVE ROCK" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",ALTERNATIVE ROCK
+https://node-25.zeno.fm/f1uczdfd0mzuv.aac?rj-ttl=5&rj-tok=AAABeJAJEHgAKAsPhOGlA2JPag
+
+#EXTINF:-1 tvg-id="89FM ROCK" tvg-name="89FM ROCK" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",89FM ROCK
+https://21933.live.streamtheworld.com/RADIO_89FM_ADP.aac?dist=site-89fm
+
+#EXTINF:-1 tvg-id="METAL ROOTS" tvg-name="METAL ROOTS" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="METAL",METAL HOOTS
+http://server02.ouvir.radio.br:8050/stream?1617333560883
+
+#EXTINF:-1 tvg-id="RADIO THE HAWK" tvg-name="RADIO THE HAWK" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",RADIO THE HAWK
+http://15363.live.streamtheworld.com/KHKKFMAAC.aac?1617333619834
+
+#EXTINF:-1 tvg-id="KISS FM" tvg-name="KISS FM" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",KISS FM
+https://cloud2.cdnseguro.com:20000/stream
+
+
+#EXTINF:-1 tvg-id="ROCK FM BRASIL" tvg-name="ROCK FM BRASIL" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",ROCK FM BRASIL
+https://www.autodj.club:8000/stream
+
+#EXTINF:-1 tvg-id="HARD ROCK" tvg-name="HARD ROCK" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",HARD ROCK
+https://streaming.geracaoradios.com/hardrock
+
+#EXTINF:-1 tvg-id="ROCK NACIONL" tvg-name="ROCK NACIONAL" tvg-logo="https://i.ibb.co/kQFNpKw/ROCK.png" group-title="ROCK",ROCK NACIONAL
+https://streaming.geracaoradios.com/rocknacional
+
+#EXTINF:-1 tvg-id="FUNK" tvg-name="FUNK" tvg-logo="https://i.ibb.co/W059KcS/funk.png" group-title="FUNK",FUNK
+https://streaming.geracaoradios.com/funk
+
+#EXTINF:-1 tvg-id="HIP HOP" tvg-name="HIP HOP" tvg-logo="https://i.ibb.co/p3VmHyQ/hip-hop.png" group-title="HIP HOP",HIP HOP
+https://streaming.geracaoradios.com/rap
+
+#EXTINF:-1 tvg-id="KIDS" tvg-name="KIDS" tvg-logo="https://i.ibb.co/NCFwfT2/kids.png" group-title="KIDS",KIDS
+https://streaming.geracaoradios.com/kids
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/VgjgWVd/sertanejo-raiz.png" group-title="SERTANEJO",SERTANEJO RAIZ
+http://sc.radiocabrito.com:13386/;
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/VgjgWVd/sertanejo-raiz.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://centova5.transmissaodigital.com:20024/;
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/VgjgWVd/sertanejo-raiz.png" group-title="SERTANEJO",SERTANEJO RAIZ
+http://cast.midiaip.com.br:8330/;
+
+#EXTINF:-1 tvg-id="SERTANEJO RAIZ" tvg-name="SERTANEJO RAIZ" tvg-logo="https://i.ibb.co/VgjgWVd/sertanejo-raiz.png" group-title="SERTANEJO",SERTANEJO RAIZ
+https://streaming.geracaoradios.com/raiz
+
+#EXTINF:-1 tvg-id="SERTANEJO" tvg-name="SERTANEJO" tvg-logo="https://i.ibb.co/s6Pz96r/MOD-O.png" group-title="SERTANEJO",SERTANEJO
+https://r16.ciclano.io:15012/stream
+
+#EXTINF:-1 tvg-id="SERTANEJO" tvg-name="SERTANEJO" tvg-logo="https://i.ibb.co/s6Pz96r/MOD-O.png" group-title="SERTANEJO",SERTANEJO
+https://streaming.geracaoradios.com/sertaneja
+
+#EXTINF:-1 tvg-id="SERTANEJO" tvg-name="SERTANEJO" tvg-logo="https://i.ibb.co/s6Pz96r/MOD-O.png" group-title="SERTANEJO",SERTANEJO
+https://centova5.transmissaodigital.com:20024/stream/;stream.mp3
+
+#EXTINF:-1 tvg-id="SERTANEJO" tvg-name="SERTANEJO" tvg-logo="https://i.ibb.co/s6Pz96r/MOD-O.png" group-title="SERTANEJO",SERTANEJO
+https://sc1s.cdn.upx.com:9049/stream
+
+#EXTINF:-1 tvg-id="FORRÓ" tvg-name="FORÓ" tvg-logo="https://i.ibb.co/vYdx4t4/forr-radio.png" group-title="FORRÓ",FORRÓ
+https://forrotradicional.com.br/radio/8000/mp3
+
+#EXTINF:-1 tvg-id="FORRÓ" tvg-name="FORÓ" tvg-logo="https://i.ibb.co/vYdx4t4/forr-radio.png" group-title="FORRÓ",FORRÓ
+http://stm10.painelvox.com:8162/stream?1619795101844
+
+#EXTINF:-1 tvg-id="FORRÓ" tvg-name="FORÓ" tvg-logo="https://i.ibb.co/vYdx4t4/forr-radio.png" group-title="FORRÓ",FORRÓ
+https://ssl.srvsh.com.br:8260/stream
+
+#EXTINF:-1 tvg-id="FORRÓ" tvg-name="FORÓ" tvg-logo="https://i.ibb.co/vYdx4t4/forr-radio.png" group-title="FORRÓ",FORRÓ
+https://servidor34-4.brlogic.com:8130/live
+
+#EXTINF:-1 tvg-id="AXÉ" tvg-name="AXÉ" tvg-logo="https://i.ibb.co/NLRxmCZ/ax.png" group-title="AXÉ",AXÉ
+https://sc1s.cdn.upx.com:9893/stream
+
+#EXTINF:-1 tvg-id="AXÉ" tvg-name="AXÉ" tvg-logo="https://i.ibb.co/NLRxmCZ/ax.png" group-title="AXÉ",AXÉ
+https://streaming.geracaoradios.com/axe
+
+#EXTINF:-1 tvg-id="AXÉ" tvg-name="AXÉ" tvg-logo="https://i.ibb.co/NLRxmCZ/ax.png" group-title="AXÉ",AXÉ
+http://euroticast1.euroti.com.br:8070//;stream.mp3
+
+#EXTINF:-1 tvg-id="REGGAE" tvg-name="REGGAE" tvg-logo="https://i.ibb.co/2Z33pqh/REGGAE.png" group-title="REGGAE",REGGAE
+https://sc1s.cdn.upx.com:9972/stream
+
+#EXTINF:-1 tvg-id="REGGAE" tvg-name="REGGAE" tvg-logo="https://i.ibb.co/2Z33pqh/REGGAE.png" group-title="REGGAE",REGGAE
+https://streaming.geracaoradios.com/reggae
+
+#EXTINF:-1 tvg-id="REGGAE" tvg-name="REGGAE" tvg-logo="https://i.ibb.co/2Z33pqh/REGGAE.png" group-title="REGGAE",REGGAE
+http://streaming03.hstbr.net:8136/live
+
+#EXTINF:-1 tvg-id="REGGAE" tvg-name="REGGAE" tvg-logo="https://i.ibb.co/2Z33pqh/REGGAE.png" group-title="REGGAE",REGGAE
+http://streaming29.hstbr.net:8034/live
+
+#EXTINF:-1 tvg-id="REGGAE" tvg-name="REGGAE" tvg-logo="https://i.ibb.co/2Z33pqh/REGGAE.png" group-title="REGGAE",REGGAE
+https://casthttps.suaradionanet.net/13805/stream
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://radiojazz.stream.laut.fm/radiojazz?ref=radiode&t302=2021-04-03_15-15-57&uuid=890acb9e-c0ee-4ac0-ae8e-7b1a1b5c794a
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3?1617454489473
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://jazzblues.ice.infomaniak.ch/jazzblues-high
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://scdn.nrjaudio.fm/fr/30639/mp3_128.mp3?origine=radio.net&cdn_path=adswizz_lbs7&adws_out_b3
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://rocknblues.stream.laut.fm/rocknblues?ref=radiode&t302=2021-04-03_15-14-16&uuid=7e949ec7-92dc-42dc-8d80-901b0bc8530c
+
+#EXTINF:-1 tvg-id="BLUES E JAZZ" tvg-name="BLUES E JAZZ" tvg-logo="https://i.ibb.co/9tnKTTS/jazz.jpg" group-title="BLUES E JAZZ",BLUES E JAZZ
+https://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3
+
+
+
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+https://player.srvsh.com.br/proxy/6966
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+https://servidor27.brlogic.com:8124/live
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+http://maggie.torontocast.com:8112/stream
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+https://s19.maxcast.com.br:8014/live
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+https://f46.fabricahost.com.br/classicafm?f=1617388394N65cc6e46fe3545b897730ecae02705db
+
+#EXTINF:-1 tvg-id="ANOS 70" tvg-name="ANOS 70" tvg-logo="https://i.ibb.co/8d5GdSM/ANOS-70.png" group-title="ANOS 70",ANOS 70
+https://bigrradio.cdnstream1.com/5181_128
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/6NTkd0P/as-melho.png" group-title="ANOS 80",AS MELHORES DO FLASHBACK
+http://stream.zeno.fm/1h16tvucgv8uv
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://sc1s.cdn.upx.com:9059/stream
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://streaming.geracaoradios.com/80s
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://hits80s.stream.laut.fm/hits_80s?t302=2021-04-02_07-05-27&uuid=6ef8a6de-3269-4f97-8f7d-ae89f1dffa78
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://r2.ciclano.io:15007/stream
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://servidor27.brlogic.com:8124/live
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://cc1.streammaximum.com:2244/stream
+
+#EXTINF:-1 tvg-id="ANOS 80" tvg-name="ANOS 80" tvg-logo="https://i.ibb.co/cJHZmbs/anos-80.png" group-title="ANOS 80",ANOS 80
+https://node-15.zeno.fm/frhuew2xc0quv?rj-ttl=5&rj-tok=AAABeJEGCMMAnNHgEiMbM-mTLg
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90
+http://node-02.zeno.fm/6p61tgqh1xquv.aac?1617383256113=&rj-tok=AAABeJOXI3AAdlx5YskZ_798mQ&rj-ttl=5
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90
+https://sc1s.cdn.upx.com:9060/stream
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90
+http://server02.ouvir.radio.br:8050/stream?1617383499492
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90
+https://18573.live.streamtheworld.com/T_RAD_90S_S01_SC
+
+#EXTINF:-1 tvg-id="JB FM" tvg-name="JB FM" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",JB FM
+https://20793.live.streamtheworld.com/JBFMAAC1_SC
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90 DANCE
+http://node-18.zeno.fm/pdgmg8eu8k0uv?rj-ttl=5&rj-tok=AAABeJObUUIAUA6T8gUD0qlk3w
+
+#EXTINF:-1 tvg-id="ANOS 90" tvg-name="ANOS 90" tvg-logo="https://i.ibb.co/PCW29BN/anos-90.png" group-title="ANOS 90",ANOS 90 DANCE
+http://node-33.zeno.fm/bc7m6d2t5tzuv?rj-ttl=5&rj-tok=AAABeJOb-JcA9oSb84rm02LKjw
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",Love Songs FM
+http://stm10.xcast.com.br:7624/;
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",LOVETIMES Romantic Music Hits
+https://ssl1.transmissaodigital.com:2420/mp3
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",Mega Rádio Romântica
+http://node-19.zeno.fm/sfxf6d5u3gruv?rj-ttl=5&rj-tok=AAABeOnRytAAZNabQtFEpzwGgA
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",Cidade Ponto Love
+https://player-ssl.painelstream.net:10046/live
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",Love Songs FM
+http://stm10.xcast.com.br:7624/;
+
+#EXTINF:-1 tvg-id="LOVE RADIO" tvg-name="LOVE RADIO" tvg-logo="https://i.ibb.co/255MCkG/love.png" group-title="LOVE RADIO",Rádio Motel
+http://192.99.170.8:5580/;?1618830671184
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://sc1s.cdn.upx.com:9061/stream
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://sc1s.cdn.upx.com:9061/stream
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://shout35.crossradio.com.br:18086/stream/1/
+
+#EXTINF:-1 tvg-id="105FM" tvg-name="105FM" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",105 FM
+http://148.72.158.239:8010/live?1617381520888
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://cast2.hoost.com.br:20086/live
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+http://streaming.livecenterhost.com:8054/stream?type=http&nocache=45
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://node-26.zeno.fm/hfqaq0bhfg8uv.aac?rj-ttl=5&rj-tok=AAABeJD_DCYALpo7EUoWViEACw
+
+#EXTINF:-1 tvg-id="PAGODE" tvg-name="PAGODE" tvg-logo="https://i.ibb.co/j5jX79p/PAGODE.png" group-title="PAGODE",PAGODE
+https://player-ssl.kshost.com.br:8428/live
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+http://stm10.xcast.com.br:9056/stream?1617426400378
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://node-13.zeno.fm/08pzyh88azzuv?1617425899624=&rj-tok=AAABeJYsa4sAs6zWwRj3YQqrHQ&rj-ttl=5
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://player-ssl.kshost.com.br:8428/live
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://servidor33-3.brlogic.com:8020/live
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+http://62.171.150.163:26280/;stream.mp3
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://cdn-web.tunein.com/assets/media/blank.mp3
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://radiocinemaenovela.com.br:3010/stream
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+https://player-ssl.kshost.com.br:9556/live
+
+#EXTINF:-1 tvg-id="SAMBA" tvg-name="SAMBA" tvg-logo="https://i.ibb.co/svBknQB/SAMBA.jpg" group-title="SAMBA",SAMBA
+http://srv1.braudio.com.br:7308/;stream.nsv
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+https://sc1s.cdn.upx.com:9895/stream
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+https://sc1s.cdn.upx.com:9047/stream
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://stm20.conectastm.com:9552//;stream.mp3
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://maggie.torontocast.com:8046/stream
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://hts01.kshost.com.br:9752//;stream.mp3
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://209.133.210.170:8190//;stream.mp3
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://hazel.torontocast.com:1310/stream/;stream.mp3
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://s1.sonicabroadcast.com:7005/stream/1/
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+http://radio.centraldj.com.br:8000/centraldj
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+https://audio.97fm.com.br/energia
+
+#EXTINF:-1 tvg-id="MUSICA ELETRONICA" tvg-name="MUSICA ELETRONICA" tvg-logo="https://i.ibb.co/944bqs3/ELETRONIC.png" group-title="MUSICA ELETRONICA",MUSICA ELETRONICA
+https://ssl.srvstm.com:8212/;stream.mp3
+
+#EXTINF:-1 tvg-id="RADIO FRONTEIRA GOSPEL" tvg-name="RADIO FRONTEIRA GOSPEL" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO FRONTEIRA GOSPEL FOZ
+https://s45.maxcast.com.br:8120/live?1617413599997
+
+#EXTINF:-1 tvg-id="RADIO NOVO TEMPO SP" tvg-name="RADIO NOVO TEMPO SP" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO NOVO TEMPO SP
+https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="REDE ALELUIA PERNAMBUCO" tvg-name="REDE ALELUIA PERNAMBUCO" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",REDE ALELUIA PERNAMBUCO
+https://254398c.ha.azioncdn.net/primary/radio91fm.sdp/chunklist_cbf08b4c-fa1a-48e1-8dd1-bd579eeca269.m3u8
+
+#EXTINF:-1 tvg-id="SARA NOSSA TERRA" tvg-name="SARA NOSSA TERRA" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",SARA NOSSA TERRA
+https://player-ssl.kshost.com.br:8012/live
+
+#EXTINF:-1 tvg-id="RADIO GOSPEL CAMPINAS" tvg-name="RADIO GOSPEL CAMPINAS" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO GOSPEL CAMPINAS
+http://centova.nardele.com.br:4343/stream?1617382466371
+
+#EXTINF:-1 tvg-id="RADIO NOVA GERAÇÃO" tvg-name="RADIO NOVA GERAÇÃO" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO NOVA GERAÇÃO FM
+http://srv.smghosting.com.br:11416/;?1617382559016
+
+#EXTINF:-1 tvg-id="RADIO SEMEANDO O AMOR DE DEUS" tvg-name="RADIO SEMEANDO O AMOR DE DEUS" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO SEMEANDO O AMOR DE DEUS
+https://ssl.srvstm.com:8088/stream?1617382020762
+
+
+#EXTINF:-1 tvg-id="RADIO MISSIONARIA FILADELFIA" tvg-name="RADIO MISSIONARIA FILADELFIA" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO MISSIONARIA FILADELFIA
+http://74.63.241.108:8686/live?1617382681961
+
+
+#EXTINF:-1 tvg-id="RADIO EVANGELICA VIDA" tvg-name="RADIO EVANGELICA VIDA" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO EVANGELICA VIDA
+http://cast4.hoost.com.br:9871/stream?1617382736583
+
+#EXTINF:-1 tvg-id="RADIO ADORA FM" tvg-name="RADIO ADORA FM" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO ADORA FM
+http://stm.meuvox.top:7024/;?1617382812986
+
+#EXTINF:-1 tvg-id="RADIO ADORAEVANGELIZAR FM" tvg-name="RADIO EVANGELIZAR FM" tvg-logo="https://i.ibb.co/xDTMjHk/GOSPEL.png" group-title="MUSICA GOSPEL",RADIO EVANGELIZAR FM
+https://shout07.crossradio.com.br:18000/stream?1617382887342
+
+#EXTINF:-1 tvg-id="RADIO HUNTER FM" tvg-name="RADIO HUNTER FM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO HUNTER FM
+https://live.hunter.fm/pop_high?origin=/live
+
+#EXTINF:-1 tvg-id="RADIO MIX FM SP" tvg-name="RADIO MIX FM SP" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO MIX FM SP
+https://shout12.crossradio.com.br:18002/stream?1617386902987
+
+#EXTINF:-1 tvg-id="RADIO TROPICAL FM" tvg-name="RADIO TROPICAL FM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO TROPICAL FM
+http://cast3.hoost.com.br:9509/stream?1617388809016
+
+#EXTINF:-1 tvg-id="RADIO TEMPO FM" tvg-name="RADIO TEMPO FM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO TEMPO FM
+http://www.radiotempofm.com.br:8005/stream?1617402629055
+
+#EXTINF:-1 tvg-id="RADIO PROGRESSO JUAZEIRO" tvg-name="RADIO PROGRESSO JUAZEIRO" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO PROGRESSO JUAZEIRO
+http://stm2.unicast.net.br:9312/stream?1617643719830
+
+#EXTINF:-1 tvg-id="RADIO VALE FM" tvg-name="RADIO VALE FM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO VALE FM
+https://webradio.amsolution.com.br/radio/8340/vale99?1617402621641
+
+#EXTINF:-1 tvg-id="RADIO ANTENA 1 FM" tvg-name="RADIO ANTENA 1 FM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO ANTENA 1 FM
+https://antenaone.crossradio.com.br/stream/1;?1617402956025
+
+#EXTINF:-1 tvg-id="RADIO CLUBE RECIFE AM" tvg-name="RADIO CLUBE RECIFE AM" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO CLUBE RECIFE AM
+https://radio.saopaulo01.com.br/8018/stream?1617403106533
+
+#EXTINF:-1 tvg-id="RADIO JOVEM PAN" tvg-name="RADIO JOVEM PAN" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO JOVEM PAN
+https://20593.live.streamtheworld.com/JP_SP_FMAAC.aac?1617426341068
+
+#EXTINF:-1 tvg-id="RADIO JOVEM PAN HITS" tvg-name="RADIO JOVEM PAN HITS" tvg-logo="https://i.ibb.co/prHZqt1/POP.png" group-title="MUSICA POP",RADIO JOVEM PAN HITS
+https://sc1s.cdn.upx.com:9023/stream
+
