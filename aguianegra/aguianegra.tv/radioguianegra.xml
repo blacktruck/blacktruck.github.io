@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>Underground 80s</title>
+ <genre>80's</genre>
+ <link>http://ice1.somafm.com/u80s-128-mp3</link>
+ <thumbnail>https://somafm.com/img3/u80s-400.png</thumbnail>
+ <fanart>https://thewoodvale.com.au/tavern/files/2016/08/80s-Underground-Image.jpg</fanart>
+</menu>
+<menu>
+<title>Space Station Soma </title>
+ <genre>Pop</genre>
+ <link>http://ice1.somafm.com/spacestation-128-mp3</link>
+ <thumbnail>https://somafm.com/img3/spacestation-400.jpg</thumbnail>
+ <fanart>https://www.themandarin.com.au/wp-content/uploads/2020/07/space-astronaut.jpg</fanart>
+</menu>
+<menu>
+<title>94POP FM 94.7</title>
+ <genre>Pop</genre>
+ <link>http://cast61.sitehosting.com.br:8337/live</link>
+ <thumbnail>https://94pop.com.br/files/2018/12/94pop.png</thumbnail>
+ <fanart>https://www.94pop.com.br/files/2019/01/sl3.jpg</fanart>
+</menu>
+<menu>
+<title>FM91 91.1 FM</title>
+ <genre>Pop</genre>
+ <link>http://r15.ciclano.io:4084/stream</link>
+ <thumbnail>http://www.fm91.com.br/img/logo.jpg</thumbnail>
+ <fanart>http://www.fm91.com.br/img/logo.jpg</fanart>
+</menu>
+<menu>
+<title>Rádio D2 FM 95.3</title>
+ <genre>Pop</genre>
+ <link>https://cast2.hoost.com.br:20005/live</link>
+ <thumbnail>https://www.d2fm.com.br/files/2018/06/logo.png</thumbnail>
+ <fanart>https://www.d2fm.com.br/files/2019/08/slider_insta-1.jpg</fanart>
+</menu>
+<menu>
+<title>Rádio Ouro Verde FM 105.5</title>
+ <genre>Easy Decades</genre>
+ <link>http://servidor18.brlogic.com:7484/live</link>
+ <thumbnail>https://static.wixstatic.com/media/5941bc_0fc0378d00444dcd8e811087f406cf20~mv2.png</thumbnail>
+ <fanart>https://static.wixstatic.com/media/5941bc_93cf4bd9ab1645db8a25f2cc149a40a4~mv2.png</fanart>
+</menu>
+<menu>
+<title> Rádio TRT FM 104.3</title>
+ <genre>Easy Decades</genre>
+ <link>https://portal.trt23.jus.br/Radio.TRT23/radio.mp3</link>
+ <thumbnail>https://tudoradio.com/img/imagecache/112x106_5ded10afc17e9.png</thumbnail>
+ <fanart>https://portal.trt23.jus.br/comunicacao/trtfm/images/fundo-site_novo_02.png</fanart>
+</menu>
+<menu>
+<title>CBN Cuiabá FM 95.9</title>
+ <genre>Popular</genre>
+ <link>https://sonicpanel.oficialserver.com/8234/stream</link>
+ <thumbnail>https://cbncuiaba.com.br/wp-content/uploads/2020/12/CBN-Cuiaba-Logo-272x90-1.png</thumbnail>
+ <fanart>https://cbncuiaba.com.br/wp-content/uploads/2020/12/CBN-Cuiaba-Logo-272x90-1.png</fanart>
+</menu>
+<menu>
+<title>SUPER RÁDIO TUPI 96.5FM</title>
+ <genre>Eletronic</genre>
+ <link>https://www.radios.com.br/old_php/players/load/silence.mp3</link>
+ <thumbnail>https://www.radios.com.br/old_php/players/load/silence.mp3</thumbnail>
+ <fanart>https://www.tupi.fm/wp-content/uploads/maxresdefault-25.jpg</fanart>
+</menu>
+<menu>
+<title>Rádio Gaúcha 93.7 FM</title>
+ <genre>News,Esporte</genre>
+ <link>https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/chunklist_9725e0ef-46e7-445e-8841-2ef2273aaa49.m3u8</link>
+ <thumbnail>http://www.radio.maisperto.com.br/media/com_mtree/images/listings/o/1.jpg</thumbnail>
+ <fanart>http://mstortti.com.br/blog/wp-content/uploads/2014/02/gaucha.gif</fanart>
+</menu>
+<menu>
+<title>NTS RÁDIO</title>
+ <genre>Word Music</genre>
+ <link>https://stream-relay-geo.ntslive.net/stream</link>
+ <thumbnail>https://www.nts.live/apple-touch-icon.png</thumbnail>
+ <fanart>https://i.pinimg.com/originals/e4/70/30/e47030f068fe96491277cf7a4bdc1a72.jpg</fanart>
+</menu>
+<menu>
+<title>NTS RÁDIO 2</title>
+ <genre>Word Music</genre>
+ <link>https://stream-relay-geo.ntslive.net/stream2</link>
+ <thumbnail>https://www.nts.live/apple-touch-icon.png</thumbnail>
+ <fanart>https://i.pinimg.com/originals/e4/70/30/e47030f068fe96491277cf7a4bdc1a72.jpg</fanart>
+</menu>
+<menu>
+<title>Rádio Cidade FM 102.9</title>
+ <genre>Rock</genre>
+ <link>https://18593.live.streamtheworld.com/RADIOCIDADEAAC.aac</link>
+ <thumbnail>https://radiocidade.fm/wp-content/uploads/2019/01/logo-cidade.png</thumbnail>
+ <fanart>https://radiocidade.fm/wp-content/themes/twentynineteen/img/fundo-noticias-radio-cidade.jpg</fanart>
+</menu>
+<menu>
+<title>Rádio Jornal FM 100.9</title>
+ <genre>Popular</genre>
+ <link>https://ssl1.transmissaodigital.com:2206</link>
+ <thumbnail>https://www.jornalfm1009.com.br/uploads/site/2019/12/conf-logo-1577820953.gif</thumbnail>
+ <fanart>https://www.jornalfm1009.com.br/img/bg-1.png</fanart>
+</menu>
+<menu>
+<title>Rádio Xavantes FM 101.7</title>
+ <genre>Popular</genre>
+ <link>https://cloud.cdnseguro.com:2341/stream.ogg</link>
+ <thumbnail>https://www.radioxavantes.com.br/images/xavantes-fm.png</thumbnail>
+ <fanart>https://www.radioxavantes.com.br/images/cover.jpg</fanart>
+</menu>
+<menu>
+<title>Clube FM 101.8</title>
+ <genre>ALTERNATIVO</genre>
+ <link>https://solid33.streamupsolutions.com/proxy/ryuokona?mp=/stream</link>
+ <thumbnail>https://i1.sndcdn.com/avatars-000739438735-7w55b8-t500x500.jpg</thumbnail>
+ <fanart>https://public-rf-upload.minhawebradio.net/130929/slider/8fd1dd0f66c49a1e3f5a7289c289b748.png</fanart>
+</menu>
+<menu>
+<title>Vagalume FM</title>
+ <genre>ALTERNATIVO</genre>
+ <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=VAGALUME FM;url=https://stream.vagalume.fm/hls/14641399081415544330/aac.m3u8</link>
+ <thumbnail>https://img.vagalume.fm/img/apple-touch-icon.png</thumbnail>
+ <fanart>https://i.imgur.com/irUkwlT.jpg</fanart>
+</menu>
+<menu>
+<title>Estudio Kaza</title>
+ <genre>Popular</genre>
+ <link>http://172.82.141.139:6952</link>
+ <thumbnail>https://i.imgur.com/kqQ4fz7.jpg</thumbnail>
+ <fanart>https://i.ytimg.com/vi/Pv9ZNBtaYoE/maxresdefault.jpg</fanart>
+</menu>
+<menu>
+<title>WKNC 88.1 FM HD-1 Raleigh, N.C.</title>
+ <genre>Indie</genre>
+ <link>http://sc8.streammystation.com:7443/stream</link>
+ <info>WKNC-FM, a estação de rádio não comercial da Universidade Estadual da Carolina do Norte é uma estação de rádio da faculdade que transmite de Raleigh, Carolina do Norte, nos Estados Unidos.</info>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/88.1_WKNC_logo_black.svg/1200px-88.1_WKNC_logo_black.svg.png</thumbnail>
+ <fanart>https://4.bp.blogspot.com/-B32Hpy82Zmk/XhSSUA0Om3I/AAAAAAAAWfw/93K6RUYU1w4YSUoxCnH94I_4DjSfIPMZQCLcBGAsYHQ/s1600/wknc_88_1.png</fanart>
+</menu>
+<menu>
+<title>Start FM 94.2 FM</title>
+ <genre>Pop 2000</genre>
+ <link>http://eteris.startfm.lt/startfm.ogg</link>
+ <thumbnail>https://images.radiovolna.net/_files/images/stations/21940/13a73eed56f62fff7af1412ff569d7bd.png</thumbnail>
+ <fanart>https://static.tuneyou.com/images/logos/500_500/90/2090/StartFM94.2.jpg</fanart>
+</menu>
+<menu>
+<title>Radio Paradise</title>
+ <genre>Pop 2000</genre>
+ <link>http://stream-dc1.radioparadise.com/rp_96m.ogg</link>
+ <thumbnail>https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d5/23/1885/c300.png</thumbnail>
+ <fanart>https://www.hiresaudio.online/wp-content/uploads/2019/07/Radio-Paradise-logo.png</fanart>
+</menu>
+<menu>
+<title>89.1 Ken's FM</title>
+ <genre>Alternativo</genre>
+ <link>http://108.59.11.81:8315/stream?type=http&amp;nocache=9999999</link>
+ <thumbnail>https://storage.googleapis.com/wzukusers/user-34598172/images/5c107e5806e90jgCIQX8/kensfmlogo_d200.jpg</thumbnail>
+ <fanart>https://assets.rockpapershotgun.com/images//2017/08/win10.jpg</fanart>
+</menu>
+<menu>
+<title>Radio M80 104.3 FM</title>
+ <genre>80's Flash Back</genre>
+ <link>http://mcrscast.mcr.iol.pt/m80?.mp3</link>
+ <thumbnail>https://m.m80.iol.pt/images/player/webradio-m80-FM-big.jpg</thumbnail>
+ <fanart>https://m.m80.iol.pt/upload/W/webradio-m80-FM-social.jpg</fanart>
+</menu>
+<menu>
+<title>Radio Comercial FM</title>
+ <genre>Pop 2000</genre>
+ <link>https://mcrscast1.mcr.iol.pt/comercial.mp3</link>
+ <thumbnail>https://m.radiocomercial.iol.pt/player/images/noCover.png</thumbnail>
+ <fanart>https://www.mcradios.pt/facebook/RadioComercial/images/webradios/webradiosRC_EMDIRETO.jpg</fanart>
+</menu>
+<menu>
+<title>Old School Hip-Hop FM</title>
+ <genre>Hip-Hop</genre>
+ <link>http://listen.one.hiphop/live</link>
+ <thumbnail>https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/20/85/35027/c175.png</thumbnail>
+ <fanart>https://wallpaperaccess.com/full/651000.jpg</fanart>
+</menu>
+<menu>
+<title>Radio Radar 97.8 FM</title>
+ <genre>Alternativa</genre>
+ <link>https://scast1.evspt.com/radar_mp3</link>
+ <thumbnail>https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b1/c5/18918/1/c175.png</thumbnail>
+ <fanart>https://static.radiosdeportugal.pt/img/90846-radar.png</fanart>
+</menu>
+</menus>
+  
