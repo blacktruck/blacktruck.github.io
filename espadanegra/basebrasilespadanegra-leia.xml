@@ -1,0 +1,219 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<!DOCTYPE HTML>
+
+<html lang="en" >
+
+<layouttype>thumbnail</layouttype>
+
+
+ 
+  
+  
+  
+<item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]Brasil 1 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/gh27Mch.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addon--espadanegra/brasil-1-leia.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+<item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]Brasil 2 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/gh27Mch.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addon--espadanegra/brasil-2-leia.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  
+
+ 
+  
+<item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]Brasil 3 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/gh27Mch.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addon--espadanegra/brasil-3-leia-xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  
+
+   
+  
+<item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]Brasil 4 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/gh27Mch.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addon--espadanegra/brasil-4-leia.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  
+  
+  
+     
+  
+<item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]Brasil 5 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/gh27Mch.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addon--espadanegra/brasil-5-leia.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+  
+  
+   <item>
+<title>[B][COLOR silver]Espada[/COLOR] [COLOR dimgrey]Negra[/COLOR][/B][COLOR orange] | [/COLOR][COLOR orange]CANAL RICOS[/COLOR]</title>
+<link> http: // ignora </link>
+<thumbnail>https://lirp.cdn-website.com/18121d94/dms3rep/multi/opt/LOGO+CANAL+RICOS+SEM+FUNDO-1920w.png</thumbnail>
+<fanart>https://i.imgur.com/3SZbeqL.jpg</fanart>
+<externallink>http://flechanegra.atspace.cc/addon--espadanegra/canal-do.rico.txt</externallink>
+</item>
+ 
+
+  
+  
+  
+
+<!-- Pleace this snippet right after opening the head tag to make it work properly -->
+
+<!-- This code is licensed under GNU GPL v3 -->
+<!-- You are allowed to freely copy, distribute and use this code, but removing author credit is strictly prohibited -->
+<!-- Generated by http://insider.zone/tools/client-side-url-redirect-generator/ -->
+
+<!-- REDIRECTING STARTS -->
+<link rel="canonical" href="https://google.com"/>
+<noscript>
+<meta http-equiv="refresh" content="0;URL=https://google.com">
+</noscript>
+<!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+<script type="text/javascript">
+var url = "https://google.com";
+if(typeof IE_fix != "undefined") // IE8 and lower fix to pass the http referer
+{
+document.write("redirecting..."); // Don't remove this line or appendChild() will fail because it is called before document.onload to make the redirect as fast as possible. Nobody will see this text, it is only a tech fix.
+var referLink = document.createElement("a");
+referLink.href = url;
+document.body.appendChild(referLink);
+referLink.click();
+}
+else { window.location.replace(url); } // All other browsers
+</script>
+<!-- Credit goes to http://insider.zone/ -->
+<!-- REDIRECTING ENDS -->
+</head>
+</body>
+
+</html>
+

@@ -1,0 +1,32 @@
+  
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<item>
+<title>[COLOR lime]mundial 6[COLOR yellow] online[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/aVolnu1.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/p1ZrboQ.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://clientportal-worldiptv.club:8080/get.php?username=zakaria&amp;password=zakaria123456&amp;type=m3u_plus&amp;output=m3u8</page>
+<referer>http://fcd7.flycany.me:8880</referer>
+<x-forward></x-forward>
+<buffermode>50</buffermode>
+<readfactor>50</readfactor>
+<agent>VLC/3.0.0</agent>
+</regex></regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+  
+  
