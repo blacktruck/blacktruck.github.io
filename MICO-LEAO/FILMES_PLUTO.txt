@@ -1,0 +1,1582 @@
+	<item>
+		<title>[B]Pânico na Neve[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a6a739c1c5001ac3dd09/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a6a739c1c5001ac3dd09</link>
+		<info>Três esquiadores presos em um teleférico são forçados a tomar decisões de vida ou morte, o que é mais perigoso do que ficar e morrer de frio.</info>
+	</item>
+	<item>
+		<title>[B]Carga Explosiva 3[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f996ee7fdb601001af04f02/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f996ee7fdb601001af04f02</link>
+		<info>Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia, de Marselha a Odessa, além de dois sacos de conteúdo suspeito.</info>
+	</item>
+	<item>
+		<title>[B]Psicopata Americano II[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fff4d3eac600d00143b1a82/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fff4d3eac600d00143b1a82</link>
+		<info>A história se passa quase 15 anos após os acontecimentos de Psicopata Americano, acompanhando a única sobrevivente de Patrick Bateman. Ela se torna assistente de um professor e começa a desenvolver obsessões assassinas, destruindo quem cruzar seu caminho.</info>
+	</item>
+	<item>
+		<title>[B]Redenção[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe59a70dddaf0013b5c425/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe59a70dddaf0013b5c425</link>
+		<info>Sam Childers é um ex-presidiário que, depois de chegar ao fundo do poço ao matar um homem, se torna um devoto religioso que chega a colaborar em Ruanda, a ponto de construir um abrigo para crianças com seu dinheiro.</info>
+	</item>
+	<item>
+		<title>[B]Pompeia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8853b1652fb5001addf359/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8853b1652fb5001addf359</link>
+		<info>Nos dias anteriores à erupção do Monte Vesúvio, um escravo tenta salvar a mulher que ama antes que a cidade entre em colapso.</info>
+	</item>
+	<item>
+		<title>[B]Área 51[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6006e3ccb2c9b7001a3dca8d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6006e3ccb2c9b7001a3dca8d</link>
+		<info>Quando os repórteres têm acesso à Base Aérea da Área 51, uma falha de segurança transforma a base protegida do governo em um horrível destino de terror.</info>
+	</item>
+	<item>
+		<title>[B]Blitz[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a64499839e0013e0ccc4/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a64499839e0013e0ccc4</link>
+		<info>Blitz é um serial killer de Londres que está matando policiais. O inspetor-chefe Roberts e o sargento Brant, um detetive de polícia duro, inflexível e politicamente incorreto, terão a tarefa de tentar deter o psicopata.</info>
+	</item>
+	<item>
+		<title>[B]Crô[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012b7df813b2d001b6995a1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012b7df813b2d001b6995a1</link>
+		<info>Cansado da vida de milionário que leva após herdar uma fortuna, o famoso mordomo Crô decide encontrar uma nova patroa a quem possa se dedicar de corpo e alma.</info>
+	</item>
+	<item>
+		<title>[B]6 Balas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53a76a580600137950a2/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53a76a580600137950a2</link>
+		<info>Quando a filha de um lutador de MMA é sequestrada, só há um homem que pode ajudar a encontrá-la: um ex-mercenário, que dizem ter levado seis tiros no peito.</info>
+	</item>
+	<item>
+		<title>[B]Os Especialistas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe6a3bd42e001ac65702/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe6a3bd42e001ac65702</link>
+		<info>Danny , um ex-agente britânico, finalmente acha que aproveitará a sua aposentadoria em paz. Mas logo descobre que terá antes de cumprir uma última missão: libertar o seu mentor, Hunter, que está nas mãos de seu inimigo, Spike.</info>
+	</item>
+	<item>
+		<title>[B]Tudo por Justiça[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f5f7be0638b1800139eb282/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f5f7be0638b1800139eb282</link>
+		<info>Russell, um operário da fábrica, tenta proteger seu irmão mais novo, Rodney, de todos os perigos. No entanto, quando este desaparece, Russell decide resolver o problema por conta própria.</info>
+	</item>
+	<item>
+		<title>[B]Bem-Vindo à Selva[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f56a377682001a58856c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f56a377682001a58856c</link>
+		<info>Um funcionário que é vítima de bullying deve libertar sua besta interior depois que um retiro de equipe na selva dá errado.</info>
+	</item>
+	<item>
+		<title>[B]A Enfermeira[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb2d22006d1ad001a909f5c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb2d22006d1ad001a909f5c</link>
+		<info>De dia, Abby Russell é uma enfermeira dedicada, à noite ela atrai homens traidores para suas mortes brutais e os expõe por quem eles realmente são.</info>
+	</item>
+	<item>
+		<title>[B]Fogo contra Fogo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a64d99839e0013e0cd99/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a64d99839e0013e0cd99</link>
+		<info>Um bombeiro fora de serviço testemunha um assassinato nas mãos de uma gangue de gangsters. Ele entra no programa de proteção a testemunhas até depor, mas não pode se esconder por muito tempo da gangue, então decide agir por conta própria.</info>
+	</item>
+	<item>
+		<title>[B]Soldado Universal 3: Regener Ação[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff4d53618600131ff09c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff4d53618600131ff09c</link>
+		<info>Um soldado ressuscitado e geneticamente modificado enfrenta seus inimigos, contratados por terroristas nucleares.</info>
+	</item>
+	<item>
+		<title>[B]A Garota Húngara[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/60087339b7b339001a477d64/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/60087339b7b339001a477d64</link>
+		<info>A história de três mulheres - uma prostituta famosa, sua governanta e sua nova empregada - vivendo em Budapeste na década de 1910.</info>
+	</item>
+	<item>
+		<title>[B]Headhunters BR[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53666a58060013794d67/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53666a58060013794d67</link>
+		<info>Um habilidoso caçador de talentos arrisca tudo para conseguir a propriedade de uma pintura valiosa, que está sob posse de um ex-mercenário.</info>
+	</item>
+	<item>
+		<title>[B]Maré Negra[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe5c3bd42e001ac655a2/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe5c3bd42e001ac655a2</link>
+		<info>Kate é uma mergulhadora profissional que se afastou de seus estudos em alto mar depois que seu mentor sofreu uma trágica morte por causa de um tubarão branco. Ela passava os dias em águas profundas, mas após o acidente ela começou a guiar excursões.</info>
+	</item>
+	<item>
+		<title>[B]Jekyll & Hyde[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fe0a222a41cb300132c4e70/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fe0a222a41cb300132c4e70</link>
+		<info>Inspirado pelo autor Robert Louis Stevenson, este conto clássico estrela o ganhador do Oscar, Michael Caine em uma poderosa atuação do Dr. Jekyll e seu alter ego.</info>
+	</item>
+	<item>
+		<title>[B]A Fronteira[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/601837182c5c49001a61f74c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/601837182c5c49001a61f74c</link>
+		<info>Em janeiro de 2020, uma grande fuga de presos do PCC marcou a fronteira entre Brasil e Paraguai, nas cidades de Ponta Porã e Pedro Juan Caballero. Neste documentário, saiba como vive a população desses locais.</info>
+	</item>
+	<item>
+		<title>[B]Jayanta: Um Amor Bandido[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012fabfb2c9b7001a3ee016/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012fabfb2c9b7001a3ee016</link>
+		<info>Jayanta é um gângster bom e está apaixonado por sua vizinha, mas tudo dá errado por causa de um mal-entendido. Seu patrão o trai e ele tem problemas com outro criminoso. Será que ele consegue vencer os obstáculos e ganhar seu amor de volta?</info>
+	</item>
+	<item>
+		<title>[B]Tudo a Perder[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/601d8df16d7ca5001ae91f34/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/601d8df16d7ca5001ae91f34</link>
+		<info>Um mal-sucedido que abandonou a faculdade retorna à sua cidade natal e recebe elogios inesperados quando, inadvertidamente, salva a vida de um local.</info>
+	</item>
+	<item>
+		<title>[B]Soul Survivors[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/601808f700da4e00138bec4f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/601808f700da4e00138bec4f</link>
+		<info>Após um acidente de carro horrível, uma bela caloura de faculdade se encontra presa em um mundo crepuscular em algum lugar entre a vida e a morte neste thriller sobrenatural assustador.</info>
+	</item>
+	<item>
+		<title>[B]Alugue-uma-criança[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6022d5e12cca48001a5064cf/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6022d5e12cca48001a5064cf</link>
+		<info>Um vendedor engenhoso cria um esquema inteligente para encontrar casas para órfãos. Um par de yuppies, tentando decidir se querem ou não se tornar pais.</info>
+	</item>
+	<item>
+		<title>[B]Branca de Neve[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fff4d6577c49a00131ca803/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fff4d6577c49a00131ca803</link>
+		<info>Quando ele inveja a beleza de Branca de Neve se torna insuportável, a rainha perversa ordena seu assassinato, mas depois descobre que Branca de Neve ainda está viva e se esconde em uma cabana com sete pequenos mineiros amigáveis.</info>
+	</item>
+	<item>
+		<title>[B]Caixa Dois[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012b7e7813b2d001b699685/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012b7e7813b2d001b699685</link>
+		<info>Um banqueiro desvia milhões de reais. Por engano, a fortuna cai na conta da mulher de um funcionário que acaba de ser demitido pelo banco. Agora, a família desse ex-bancário tem que decidir se devolve ou não o dinheiro.</info>
+	</item>
+	<item>
+		<title>[B]Django[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff46f9dae15d8001a81ba54/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff46f9dae15d8001a81ba54</link>
+		<info>Um pistoleiro carregando um caixão, entra em uma cidade que tem duas facções em guerra, o KKK e uma gangue de bandidos mexicanos. Esse é Django e ele se envolve em uma luta contra os dois lados.</info>
+	</item>
+	<item>
+		<title>[B]Happily N'Ever After 2: Snow White[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6022d5e32cca48001a506505/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6022d5e32cca48001a506505</link>
+		<info>Mambo e Munk trazem a disputa entre o bem e do mal mais uma vez. Agora, a Princesa Branca de Neve é ​​uma adolescente rebelde que prefere se divertir com os amigos do que ajudar os camponeses.</info>
+	</item>
+	<item>
+		<title>[B]O Coiote[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faac61f8b78ef001aa21fc7/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faac61f8b78ef001aa21fc7</link>
+		<info>Viciado em jogos, um pescador nativo das Bahamas aceita um trabalho como coiote e passa a trazer haitianos para a Flórida, numa tentativa de sustentar sua família.</info>
+	</item>
+	<item>
+		<title>[B]Era uma vez em Nova York[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f52b377682001a58809f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f52b377682001a58809f</link>
+		<info>Em 1921, Ewa e sua irmã Magda deixaram sua Polônia natal e emigraram para Nova York. Quando eles chegam à Ilha Ellis, Magda, doente com tuberculose, está em quarentena.</info>
+	</item>
+	<item>
+		<title>[B]Reach me[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f80b0bd7f692c001a4d9d3c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f80b0bd7f692c001a4d9d3c</link>
+		<info>Um filme focado em um grupo de pessoas obcecadas por um livro de autoajuda. À medida que o livro se torna mais popular, ele afeta uma estranha variedade de personagens. Suas vidas se cruzam, gerando mudanças que durarão para sempre.</info>
+	</item>
+	<item>
+		<title>[B]13: O Jogador[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9d1ed4edc001bfffeec/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9d1ed4edc001bfffeec</link>
+		<info>Um homem desesperado participa do submundo da roleta russa, no qual os jogadores apostam na vida de outras pessoas e decidem quem sobreviverá.</info>
+	</item>
+	<item>
+		<title>[B]Caçadores de Emoção[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe59aa0dddaf0013b5c465/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe59aa0dddaf0013b5c465</link>
+		<info>Johnny Utah, um jovem agente do FBI, se infiltra em círculos de surf para desmascarar uma gangue de ladrões que, como marca registrada, usam máscaras de presidentes dos Estados Unidos durante seus golpes.</info>
+	</item>
+	<item>
+		<title>[B]Nine Eleven[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faae1e1e5d584001a9101ad/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faae1e1e5d584001a9101ad</link>
+		<info>Na manhã de 11 de setembro de 2001, um mensageiro canta "Parabéns a você" para sua filha, um bilionário discute com sua esposa em uma audiência de divórcio, um homem de manutenção começa seu dia.</info>
+	</item>
+	<item>
+		<title>[B]Albert Nobbs[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b533e6a58060013794afd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b533e6a58060013794afd</link>
+		<info>Albert Nobbs luta para sobreviver na Irlanda do século 19, onde as mulheres não são incentivadas a serem independentes. Passando-se por homem para poder trabalhar como mordomo, Albert conhece um lindo pintor e tenta se livrar da farsa que tem vivido.</info>
+	</item>
+	<item>
+		<title>[B]Terapia do Sexo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706c407ce430013083e0b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706c407ce430013083e0b</link>
+		<info>Um viciado em sexo em recuperação tenta cortejar uma nova namorada que sente a necessidade de expressar sua intensa sexualidade.</info>
+	</item>
+	<item>
+		<title>[B]Código de Honra[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff3c53618600131fee9a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff3c53618600131fee9a</link>
+		<info>Um advogado viciado em drogas enfrenta uma empresa de suprimentos médicos no tribunal enquanto enfrenta seus próprios demônios pessoais.</info>
+	</item>
+	<item>
+		<title>[B]Chef[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a64f99839e0013e0cdd1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a64f99839e0013e0cdd1</link>
+		<info>Carl Casper, um chef que perde o emprego por se recusar a aceitar as exigências do dono, empreende um projeto de venda de alimentos em um caminhão com sua ex-mulher e seu melhor amigo. Ao mesmo tempo, ele também tentará reunir sua família.</info>
+	</item>
+	<item>
+		<title>[B]Hellraiser: Revelações[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9e0ed4edc001b00000f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9e0ed4edc001b00000f</link>
+		<info>Dois amigos encontram uma misteriosa caixa de quebra-cabeça que abrirá a porta para um mundo infernal habitado por demônios.</info>
+	</item>
+	<item>
+		<title>[B]Quatro Amigas E Um Casamento[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8ca1eed4edc001b00064b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8ca1eed4edc001b00064b</link>
+		<info>Depois de estragar o vestido de noiva de uma amiga, suas damas de honra partem em uma busca frenética por um substituto, mas sua missão leva a uma noite de álcool e drogas.</info>
+	</item>
+	<item>
+		<title>[B]Sem Direito a Resgate[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f514377682001a587f06/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f514377682001a587f06</link>
+		<info>Traições e esquemas são apresentados em abundância quando um incorporador imobiliário corrupto decide não pagar o resgate aos sequestradores de sua esposa.</info>
+	</item>
+	<item>
+		<title>[B]Pegando Fogo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706a807ce430013083bc3/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706a807ce430013083bc3</link>
+		<info>Adam Jones, um chef que é uma celebridade no mundo dos restaurantes, perde tudo devido à sua natureza problemática. Agora, ele tenta do zero voar com um novo restaurante em Londres, para voltar a Paris no futuro e obter três estrelas Michelin.</info>
+	</item>
+	<item>
+		<title>[B]Anti-Heróis[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe833bd42e001ac65972/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe833bd42e001ac65972</link>
+		<info>Jonathan é um jovem policial bem sucedido que recebe a missão de trabalhar em uma delegacia do Bronx, bairro de classe operária e local onde ele cresceu.</info>
+	</item>
+	<item>
+		<title>[B]Apenas Amigos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe59a20dddaf0013b5c3ed/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe59a20dddaf0013b5c3ed</link>
+		<info>Ao visitar sua cidade natal no Natal, um homem fica cara a cara com sua antiga paixão do colégio, de quem ele era o melhor amigo - uma mulher cuja rejeição o transformou em um mulherengo feroz.</info>
+	</item>
+	<item>
+		<title>[B]Aprisionados[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15c307ce43001305d526/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15c307ce43001305d526</link>
+		<info>Rachel, uma policial novata, está para começar seu primeiro turno em uma delegacia situada no interior da Escócia.</info>
+	</item>
+	<item>
+		<title>[B]Promessas de Guerra[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8dfb45a0dd2c001a7f87bc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8dfb45a0dd2c001a7f87bc</link>
+		<info>Joshua Connor perdeu seus três filhos na batalha de Galípoli, em 1919. Ele recebe então a ajuda de Ayshe, uma mulher que está à espera do marido, enviado para a guerra, e de seu filho, o pequeno Orhan.</info>
+	</item>
+	<item>
+		<title>[B]Namorados para Sempre[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8ca0fed4edc001b0004bd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8ca0fed4edc001b0004bd</link>
+		<info>Dean e Cindy têm um caso de amor apaixonado há seis anos. Eles tiveram uma filha juntos e decidiram se casar, mas seu amor começa a se desfazer. Então, Dean se propõe a passar a noite em um hotel temático onde eles escolhem o quarto do futuro.</info>
+	</item>
+	<item>
+		<title>[B]Expresso do Amanhã[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe7e3bd42e001ac658ea/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe7e3bd42e001ac658ea</link>
+		<info>Os únicos sobreviventes estão a bordo de uma imensa máquina chamada Snowpiercer. Lá, os mais pobres vivem em condições terríveis, enquanto a classe rica é repleta de pessoas que se comportam como reis.</info>
+	</item>
+	<item>
+		<title>[B]Os Brutamontes[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f52e377682001a5880df/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f52e377682001a5880df</link>
+		<info>Doug Glatt, um jovem de Massachusetts, consegue mudar o curso de sua vida ganhando uma vaga em um time de hóquei da liga secundária canadense.</info>
+	</item>
+	<item>
+		<title>[B]Código de Conduta[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe783bd42e001ac65834/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe783bd42e001ac65834</link>
+		<info>Devotado pai de família, Clyde Shelton tem sua vida completamente transformada depois de um assalto a sua residência, em que sua mulher e sua filha são brutalmente assassinadas.</info>
+	</item>
+	<item>
+		<title>[B]O Idiota Do Meu Irmão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9f5ed4edc001b00020d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9f5ed4edc001b00020d</link>
+		<info>Uma comédia centrada em um idealista que invade a vida de suas três irmãs.</info>
+	</item>
+	<item>
+		<title>[B]Colheita Maldita[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f50e377682001a587e76/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f50e377682001a587e76</link>
+		<info>Um jovem casal tenta libertar uma criança presa, com resultados catastróficos.</info>
+	</item>
+	<item>
+		<title>[B]Rainha da Terra[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f57d377682001a588690/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f57d377682001a588690</link>
+		<info>Duas mulheres que cresceram juntas descobrem que se separaram quando vão juntas para uma casa no lago.</info>
+	</item>
+	<item>
+		<title>[B]Dois Lados do Amor[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706c207ce430013083dc9/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706c207ce430013083dc9</link>
+		<info>Após a morte de seu filho, uma mulher abandona seu marido e foge para uma casa no subúrbio de seus pais ricos.</info>
+	</item>
+	<item>
+		<title>[B]Urge[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706c907ce430013083e83/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706c907ce430013083e83</link>
+		<info>Uma viagem a uma ilha torna-se mortal quando o dono de uma casa noturna misteriosa apresenta a um grupo de amigos uma droga que não pode ser tomada mais de uma vez.</info>
+	</item>
+	<item>
+		<title>[B]Assalto a Wall Street[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f80b0ac7f692c001a4d9b73/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f80b0ac7f692c001a4d9b73</link>
+		<info>Jim, um nova-iorquino comum, mora com uma esposa doente, mas amorosa. De repente, tudo muda quando a economia quebra e faz com que ele perca tudo. Cheio de raiva e raiva, Jim vai buscar vingança pela vida que lhe foi tirada.</info>
+	</item>
+	<item>
+		<title>[B]Codinome Cassius 7[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe623bd42e001ac65654/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe623bd42e001ac65654</link>
+		<info>A morte de um senador americano faz o ex-agente da CIA Paul abandonar a aposentadoria e se juntar a um jovem oficial do FBI em uma eletrizante operação internacional para desvendar os muitos mistérios por trás do crime.</info>
+	</item>
+	<item>
+		<title>[B]Confidence: O Golpe Perfeito[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb59817e154080013968143/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb59817e154080013968143</link>
+		<info>Jake Vig arquitetou o golpe de sua vida para igualar a pontuação pelo assassinato de um amigo, pagar os que deve e dar o fora do negócio enquanto ainda está respirando.</info>
+	</item>
+	<item>
+		<title>[B]O Homem mais Procurado do Mundo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f588377682001a588774/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f588377682001a588774</link>
+		<info>Em maio de 2011, uma equipe experiente de SEALS da Marinha dos EUA chega a uma fortaleza do Paquistão e termina a caça ao terrorista mais procurado do mundo.</info>
+	</item>
+	<item>
+		<title>[B]Jogo Perverso[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fff4d6a77c49a00131ca877/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fff4d6a77c49a00131ca877</link>
+		<info>Uma policial novata da cidade de Nova York se envolve em um jogo de gato e rato com um psicopata armado que fica obcecado por ela.</info>
+	</item>
+	<item>
+		<title>[B]Street figther: Punho Assassino[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe803bd42e001ac6592c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe803bd42e001ac6592c</link>
+		<info>Um olhar de volta para os anos de formação de Ryu e Ken, na vida tradicional dos guerreiros isolados do Japão. Sem saber, os garotos são os últimos praticantes da arte marcial chamada Ansatsuken.</info>
+	</item>
+	<item>
+		<title>[B]Assassino de Aluguel[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/601d8ded6d7ca5001ae91ec0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/601d8ded6d7ca5001ae91ec0</link>
+		<info>Um pistoleiro que trabalha para o cartel de drogas latino-americano enfrenta a tentação ao pegar uma mulher solitária.</info>
+	</item>
+	<item>
+		<title>[B]O Beijo da Traição[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fff4d41ac600d00143b1ab8/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fff4d41ac600d00143b1ab8</link>
+		<info>Coco Chavez e Junior Armstrong são dois pequenos criminosos que saem mortalmente de sua liga quando tentam sequestrar um gênio da informática e mantê-lo como resgate.</info>
+	</item>
+	<item>
+		<title>[B]Lawrence da Arábia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fac4e7e6492fa001d035a5e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fac4e7e6492fa001d035a5e</link>
+		<info>A esplêndida biografia de David Lean do enigmático T.E. Lawrence desenha um retrato complexo do inglês amante do deserto que reuniu tribos árabes na batalha contra os turcos otomanos durante a Primeira Guerra Mundial.</info>
+	</item>
+	<item>
+		<title>[B]Operação Zodíaco[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7c6da372d139001a18aadc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7c6da372d139001a18aadc</link>
+		<info>Um homem procura o mundo para um conjunto de artefatos místicos - 12 cabeças de bronze dos animais do zodíaco chinês.</info>
+	</item>
+	<item>
+		<title>[B]Godzilla 2000[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f99d1a87fd6a8001a40e3ac/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f99d1a87fd6a8001a40e3ac</link>
+		<info>Um OVNI se transforma num enorme monstro alienígena com impressionantes poderes destrutivos trazendo de volta o rei de todos os monstros mais poderoso do que nunca.</info>
+	</item>
+	<item>
+		<title>[B]Gattaca - A Experiência Genética BR[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f99d1b17fd6a8001a40e481/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f99d1b17fd6a8001a40e481</link>
+		<info>Vincent, um homem geneticamente inferior que sempre aspirou a viajar no espaço, assume a identidade de um paraplégico para atingir seu objetivo.</info>
+	</item>
+	<item>
+		<title>[B]Veículo 19[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff5053618600131ff10c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff5053618600131ff10c</link>
+		<info>Um homem em liberdade condicional escolhe o veículo alugado errado e descobre que é alvo de uma força policial. A polícia fará de tudo para evitar o testemunho de corrupção de uma mulher que está no porta-malas do carro</info>
+	</item>
+	<item>
+		<title>[B]A Lenda do Mestre Chines[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9feed4edc001b0002f1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9feed4edc001b0002f1</link>
+		<info>A história do filme é baseada em uma lenda chinesa e gira em torno de um jovem estudante (Raymond Lam) que se apaixona por uma bela mulher (Huang Shengyi), sem saber que ela é uma cobra branca que assumiu a forma humana.</info>
+	</item>
+	<item>
+		<title>[B]O Monge a prova de Balas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a64a99839e0013e0cd61/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a64a99839e0013e0cd61</link>
+		<info>Baseado em uma história em quadrinhos "underground", ele conta a história de um monge tibetano imortal que se torna o mentor de um jovem menino de rua, a quem ele ensina a proteger um velho pergaminho que o monge cuidou durante anos.</info>
+	</item>
+	<item>
+		<title>[B]Soldado do futuro[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff47352042d2a001a20dd6f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff47352042d2a001a20dd6f</link>
+		<info>Vincent se apaixona por Ava enquanto eles estão criando a primeira inteligência artificial consciente do mundo. O trabalho dá errado quando os militares roubam sua tecnologia para fazer uma arma robótica que ninguém pode controlar.</info>
+	</item>
+	<item>
+		<title>[B]Códigos de Defesa[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff3a53618600131fee64/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff3a53618600131fee64</link>
+		<info>Um agente desgraçado protege um operador de código da CIA em uma estação no deserto de Nevada após um ataque surpresa.</info>
+	</item>
+	<item>
+		<title>[B]E.A.S - Esquadrão Antissequestro BR[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff3449e042d2a001a20aa7c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff3449e042d2a001a20aa7c</link>
+		<info>Gabriela, uma menina de onze anos, filha de um jogador de futebol, é sequestrada durante a Copa do Mundo por um grupo de terroristas.</info>
+	</item>
+	<item>
+		<title>[B]Crimes Cruzados[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9f7ed4edc001b000243/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9f7ed4edc001b000243</link>
+		<info>As complicações surgem durante uma situação perigosa de refém em um restaurante.</info>
+	</item>
+	<item>
+		<title>[B]Anjos da Noite[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe774bc8c57d00131b7c80/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe774bc8c57d00131b7c80</link>
+		<info>Selene, uma guerreira vampira, está imersa em um conflito entre vampiros e lobisomens, enquanto se apaixona por Michael, um humano que é procurado por lobisomens por razões desconhecidas.</info>
+	</item>
+	<item>
+		<title>[B]Um Homem Comum[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a451788de001ad5adba/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a451788de001ad5adba</link>
+		<info>Um criminoso de guerra escondido começa a formar um relacionamento com sua empregada recém-contratada, Tanja, depois que ele expressa solidão a ela. Ele primeiro a trata abusivamente, mas aos poucos forma uma estranha amizade com ela.</info>
+	</item>
+	<item>
+		<title>[B]Sem Controle[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9888d408001aa8f39e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9888d408001aa8f39e</link>
+		<info>Obcecado pela regeneração de genes e fascinado pelo fenômeno do sonho acordado, Dr. Reese explora a psique de Gabriel Howarth, um jovem cuja vida vira de cabeça para baixo quando seus sonhos violentos começam a se misturar com a realidade.</info>
+	</item>
+	<item>
+		<title>[B]Os Cavaleiros Do Apocalipse[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa0116b7ecf48001a36005d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa0116b7ecf48001a36005d</link>
+		<info>Um detetive, viúvo recente e ainda chorando a morte da esposa, descobre uma conexão chocante entre ele e os suspeitos por uma onda de perversos assassinatos em série. E tudo parece estar ligado aos Cavaleiros do Apocalipse.</info>
+	</item>
+	<item>
+		<title>[B]Os Implicáveis[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe5a3bd42e001ac65568/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe5a3bd42e001ac65568</link>
+		<info>Muito se acredita que Butch Cassidy e Sundance Kid foram mortos em um confronto com o exército boliviano em 1908. Cansado do exílio e na esperança de rever sua família antes de morrer, Cassidy decide sair numa longa jornada.</info>
+	</item>
+	<item>
+		<title>[B]Santos e Soldados: A Última Missão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b2f99d991c001a9ce758/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b2f99d991c001a9ce758</link>
+		<info>No crepúsculo da Segunda Guerra Mundial. Em uma última missão nas montanhas, a tripulação de um tanque dos EUA descobre um pelotão de alemães, incluindo três Panzers, preparando-se para emboscar caminhões de abastecimento dos Aliados.</info>
+	</item>
+	<item>
+		<title>[B]No Limite[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15bc07ce43001305d478/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15bc07ce43001305d478</link>
+		<info>Remexendo no porta-malas de um carro roubado, Jimmy acaba encontrando um misterioso pacote que o coloca em um submundo violento e criminoso.</info>
+	</item>
+	<item>
+		<title>[B]Nascido para Correr[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53536a58060013794c4d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53536a58060013794c4d</link>
+		<info>Após um acidente em uma corrida de rua ilegal, Danny é enviado para morar em uma pequena cidade com seu pai. Quando Danny decide entrar no NHRA High School Drags, ele é forçado a pedir a ajuda de seu pai.</info>
+	</item>
+	<item>
+		<title>[B]Inimigos de Sangue[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f56f377682001a5885a6/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f56f377682001a5885a6</link>
+		<info>Quando um criminoso notório é forçado a voltar a Londres, um detetive veterano tem uma última chance de levar o homem à justiça.</info>
+	</item>
+	<item>
+		<title>[B]Batalha dos Impérios[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe603bd42e001ac6561a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe603bd42e001ac6561a</link>
+		<info>O general romano Lucius lidera uma legião de mil soldados no país e com o comandante do protetorado das Regiões Ocidentais, Huo An, ele luta para derrotar o assassino Tiberius e restaurar a soberania da China.</info>
+	</item>
+	<item>
+		<title>[B]In the Name of the King 3: The Last Mission[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f80b0b77f692c001a4d9c97/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f80b0b77f692c001a4d9c97</link>
+		<info>Um assassino moderno, é contratado para uma tarefa final: sequestrar as filhas de uma Família real européia. As coisas vão à loucura quando descobrimos que ele escolheu voltar à Idade Média e trazer de volta a ordem a um reino no caos.</info>
+	</item>
+	<item>
+		<title>[B]Amazonas Lendárias[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53786a58060013794e7e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53786a58060013794e7e</link>
+		<info>Um épico de guerra sobre a história das mulheres da família Yang que vão à luta após o assassinato dos homens da família. Ambientado na Dinastia Song, quando os homens do Clã Yang foram mortos em massa, as mulheres guiaram o exército à vitória.</info>
+	</item>
+	<item>
+		<title>[B]Operação Perigosa[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15c507ce43001305d560/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15c507ce43001305d560</link>
+		<info>Depois que uma transação de drogas não dá certo, dois traficantes nova-iorquinos se deslocam para Miami, onde estabelecem uma operação de fraude de crédito lucrativo.</info>
+	</item>
+	<item>
+		<title>[B]Apocalipse[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe7c3bd42e001ac658b0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe7c3bd42e001ac658b0</link>
+		<info>Quando a NASA detecta que um cometa está em rota de colisão com a Terra, um grupo de talentosos e excêntricos cientistas é a única esperança para o Planeta.</info>
+	</item>
+	<item>
+		<title>[B]14 Lâminas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53cb6a5806001379530b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53cb6a5806001379530b</link>
+		<info>Um thriller de kung fu narrado durante a Dinastia Ming e focado no agente de serviço secreto (Donnie Yen) na corte do imperador, que é traído e perseguido por seus companheiros.</info>
+	</item>
+	<item>
+		<title>[B]O Vigilante Mascarado[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15c807ce43001305d5c5/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15c807ce43001305d5c5</link>
+		<info>Baseado em uma história real, este filme retrata a vida de um pastor e sua missão.</info>
+	</item>
+	<item>
+		<title>[B]O Barão Vermelho[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53bf6a58060013795254/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53bf6a58060013795254</link>
+		<info>Da carnificina e do caos da Primeira Guerra Mundial surgiu um homem cujo nome passaria para a lenda. Cavalheiro? Guerreiro? Aventureiro? Manfred Von Richthofen é conhecido para sempre como O Barão Vermelho.</info>
+	</item>
+	<item>
+		<title>[B]Badges of Fury[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f5be47c638b1800139e8a83/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f5be47c638b1800139e8a83</link>
+		<info>Uma onda de assassinatos sacode Hong Kong. O jovem detetive Wang Bu Er tem certeza de que eles são o trabalho de um assassino em série e junto com Huang Fei Hong, um mestre do kung, eles empreendem uma aventura em ritmo acelerado para investigar o caso.</info>
+	</item>
+	<item>
+		<title>[B]Massacre na Ucrânia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a8288d408001aa8f12b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a8288d408001aa8f12b</link>
+		<info>Em 1947, o comandante do Exército Insurgente da Ucrânia é jogado em um dos gulags de Stalin, onde deve sobreviver a condições desumanas, acusação de líderes criminosos, traição e desespero antes de fazer uma tentativa desesperada de se libertar.</info>
+	</item>
+	<item>
+		<title>[B]The Limey[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb59819e15408001396817d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb59819e15408001396817d</link>
+		<info>Um inglês extremamente volátil e perigoso vai a Los Angeles para encontrar o homem que considera responsável pela morte de sua filha.</info>
+	</item>
+	<item>
+		<title>[B]A última resistência[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a6188d408001aa8ee05/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a6188d408001aa8ee05</link>
+		<info>É a história de uma campanha militar de várias semanas em setembro de 2014. Um grupo de militares voluntários chega ao aeroporto de Donetsk pela primeira vez - o aeroporto está nas mãos de ucranianos há mais de quatro meses de guerra.</info>
+	</item>
+	<item>
+		<title>[B]Davi e Golias[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a6388d408001aa8ee3f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a6388d408001aa8ee3f</link>
+		<info>No cruzamento de dois grandes impérios, um simples pastor chamado David se transforma em um poderoso guerreiro e enfrenta um gigante aterrorizante. Uma das batalhas mais lendárias da história é recontada em um conto de coragem e fé.</info>
+	</item>
+	<item>
+		<title>[B]O Duelo Final[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a6a88d408001aa8eeef/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a6a88d408001aa8eeef</link>
+		<info>Uma ex-lutadora relutantemente retorna à vida que ela abandonou para ajudar sua irmã a sobreviver ao mundo sádico das lutas ilegais e do maníaco que o comanda.</info>
+	</item>
+	<item>
+		<title>[B]Ele Nunca Morre[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a7288d408001aa8ef99/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a7288d408001aa8ef99</link>
+		<info>Jack, um pária social, é expulso de sua zona de conforto quando o mundo exterior bate em sua porta e ele não consegue conter seu passado violento.</info>
+	</item>
+	<item>
+		<title>[B]O Implacável[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa59af1716bdc001b3eec2c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa59af1716bdc001b3eec2c</link>
+		<info>Um mafioso de Las Vegas volta à sua cidade natal para investigar a morte misteriosa de seu irmão.</info>
+	</item>
+	<item>
+		<title>[B]Fora da Trilha[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a8688d408001aa8f1a7/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a8688d408001aa8f1a7</link>
+		<info>Um ex-militar recluso, que vive nas montanhas da França para escapar de um passado traumático, é caçado por aqueles cujas vidas ele destruiu.</info>
+	</item>
+	<item>
+		<title>[B]Armadura de Deus[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa0129a1788de001ad57bea/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa0129a1788de001ad57bea</link>
+		<info>Vilões sequestraram a ex-namorada de Asian Hawk, um caçador de tesouros e aventuras, que parte para resgatá-la. Porém, ele deve primeiro encontrar a lendária "armadura de Deus", que torna invencível quem a usa.</info>
+	</item>
+	<item>
+		<title>[B]Operação Condor[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa95cd99d991c001a9ccb9f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa95cd99d991c001a9ccb9f</link>
+		<info>Jackie um agente secreto é dada a tarefa de rastrear o ouro nazista escondido. Ele junta-se com Ada, uma representante da ONU, e Elsa a neta de um oficial nazista ligada ao ouro escondido.</info>
+	</item>
+	<item>
+		<title>[B]Shaolin Girl[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15cfa7ecf48001a363106/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15cfa7ecf48001a363106</link>
+		<info>Uma jovem treinadora de Shaolin retorna ao Japão para ressuscitar a extinta escola de artes marciais de seu avô.</info>
+	</item>
+	<item>
+		<title>[B]Crônicas da Tribo Fantasma[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b3139d991c001a9ce9ca/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b3139d991c001a9ce9ca</link>
+		<info>Quando fósseis gigantes são descobertos perto da Mongólia, uma expedição é organizada para analisá-los. Quando uma explosão deixa os membros da equipe de escavação enterrados no subsolo, eles descobrem um templo ciclópico e bestas gigantes antigas.</info>
+	</item>
+	<item>
+		<title>[B]Os Sobreviventes[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b2fe9d991c001a9ce7cc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b2fe9d991c001a9ce7cc</link>
+		<info>Quando a jovem Kate Mitra encontra um planeta habitável para o resto da humanidade, ela e sua tripulação fazem um teste, mas uma chuva de meteoros atinge a nave e eles são forçados a pousar em um local desconhecido.</info>
+	</item>
+	<item>
+		<title>[B]Sangue Frio[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb7d2d5f9fdf0001b05583e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb7d2d5f9fdf0001b05583e</link>
+		<info>Dois criminosos sequestram a mulher errada.</info>
+	</item>
+	<item>
+		<title>[B]The Bodyguard[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f99853b87fe2d001aadd07a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f99853b87fe2d001aadd07a</link>
+		<info>Um especialista em artes marciais entra para trabalhar como guarda-costas para a filha de um rico homem de negócios. A empresa de segurança, propriedade de um velho amigo do combatente, esconde um plano de poder obscuro.</info>
+	</item>
+	<item>
+		<title>[B]SHARK LAKE[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f96d560e657fb00131239f6/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f96d560e657fb00131239f6</link>
+		<info>Meredith Hernandez é uma jovem mãe e agente policial de uma cidade perto do pacífico Lago Tahoe. Quando uma série de ataques de tubarões provocou o pânico na cidade, ela e um perito em tubarões decidiram investigar os estranhos incidentes.</info>
+	</item>
+	<item>
+		<title>[B]Investigações perigosas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faef1283650d7001b402946/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faef1283650d7001b402946</link>
+		<info>Quando a saúde debilitada obriga o policial Pally LaMarr a se aposentar, seu irmão o convence a comprar um cavalo de corrida. Mas um gangster rouba o cavalo para acertar velhas contas.</info>
+	</item>
+	<item>
+		<title>[B]O Rei das Armas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706ba07ce430013083d1f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706ba07ce430013083d1f</link>
+		<info>Um criminoso se reúne com um velho amigo após uma troca de armas fracassada.</info>
+	</item>
+	<item>
+		<title>[B]O Subistituto 2[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb5981ce1540800139681ed/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb5981ce1540800139681ed</link>
+		<info>Um mercenário se disfarça de professor para entrar em uma difícil escola urbana e se vingar do assassino de seu irmão.</info>
+	</item>
+	<item>
+		<title>[B]Esquadrão de Elite[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff4a55f0108f1001ae208df/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff4a55f0108f1001ae208df</link>
+		<info>Especialistas em combate de elite protegem um líder exilado do Oriente Médio e sua família de assassinos de um ditador.</info>
+	</item>
+	<item>
+		<title>[B]Killing down[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff35c790108f1001ae1e4fc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff35c790108f1001ae1e4fc</link>
+		<info>Steven Down é o único sobrevivente do exército dos EUA na Nicarágua por volta de 1986 e foi torturado por um grupo paramilitar mascarado. Ele é um homem paranóico, problemático e confuso. Um veterano em busca da verdade.</info>
+	</item>
+	<item>
+		<title>[B]Living & Dying[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff35c750108f1001ae1e48c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff35c750108f1001ae1e48c</link>
+		<info>Após um assalto, quatro ladrões se encontram em um tiroteio com a polícia. Um morto e um ferido, o trio restante se refugia em um pub britânico.</info>
+	</item>
+	<item>
+		<title>[B]Os Donos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff4953618600131ff028/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff4953618600131ff028</link>
+		<info>Um humano se recusa a entregar o controle de sua mente a um invasor alienígena que assumiu o controle de seu corpo. No entanto, os dois acabam fazendo amizade e embarcam em uma perigosa jornada para salvar os homens que amam.</info>
+	</item>
+	<item>
+		<title>[B]A Estrada 47[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff4a0b628abd1001a640efd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff4a0b628abd1001a640efd</link>
+		<info>Mais de 25 mil soldados da Força Expedicionária Brasileira lutaram na Segunda Guerra Mundial. Quase todos de origem pobre e despreparados para o combate, os pracinhas tiveram que aprender a lutar pela sobrevivência.</info>
+	</item>
+	<item>
+		<title>[B]Jogo de Morte[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe663bd42e001ac6568e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe663bd42e001ac6568e</link>
+		<info>Quando a CIA não consegue resolver um problema, o agente Marcus entra no jogo. Ele terá que escolher entre a lealdade com sua equipe ou fazer o que é certo durante uma missão após um segurança de um diplomata e sua equipe sofrerem um atentado.</info>
+	</item>
+	<item>
+		<title>[B]Vingança[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fff4d7e6d0bea001b05b800/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fff4d7e6d0bea001b05b800</link>
+		<info>Para os Chases, a vida é ótima. Quando suas vidas perfeitas são viradas de cabeça para baixo, eles descobrem que seu contratante não é o que parece. Elizabeth pode salvar sua família de The Contractor?</info>
+	</item>
+	<item>
+		<title>[B]Bom dia assassino[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6022d5db2cca48001a50645f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6022d5db2cca48001a50645f</link>
+		<info>Quando a agente do FBI Ana Gray é colocada no caso de um sequestrador local, ela começa a notar um padrão nas ações do purpatrador. No entanto, quando ela parece estar se aproximando, uma interrupção inesperada no caso a faz questionar sua teoria.</info>
+	</item>
+	<item>
+		<title>[B]Um Jogo De Vida Ou Morte BR[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa17a9d740902001a976d3c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa17a9d740902001a976d3c</link>
+		<info>Trancados em uma mansão inglesa, Andrew Wyke e Milo Tindlese enfrentam em uma batalha de inteligência, como bons cavalheiros ingleses, para discutir o problema da esposa de Wyke: ela é a mulher com que ambos estão dormindo.</info>
+	</item>
+	<item>
+		<title>[B]A Cilada[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f886f4b7ecf48001a33f538/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f886f4b7ecf48001a33f538</link>
+		<info>Um jovem estudante começa um relacionamento com a solitária Lena, uma mulher casada com um dos homens mais ricos da cidade. Um dia, o marido de Lena aparece morto e a estudante se torna a principal suspeita do assassinato.</info>
+	</item>
+	<item>
+		<title>[B]Faces Da Verdade[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe723bd42e001ac657bc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe723bd42e001ac657bc</link>
+		<info>Pensando no Prêmio Pulitzer e na possibilidade de derrubar um presidente, a colunista política, Rachel Armstrong escreve que o Presidente ignorou as descobertas de uma operação secreta da CIA ao ordenar ataques aéreos contra a Venezuela.</info>
+	</item>
+	<item>
+		<title>[B]Crimes Ocultos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb2d0dde9dede001ab90f41/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb2d0dde9dede001ab90f41</link>
+		<info>O policial secreto exilado Leo Demidov descobre um assassino em série e suspeita que seus superiores o estejam encobrindo. Cabe a Leo deter o assassino antes que ele ataque novamente.</info>
+	</item>
+	<item>
+		<title>[B]Rostos na Multidão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f586377682001a588738/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f586377682001a588738</link>
+		<info>Um serial killer teme a cidade. Um espectador inocente testemunha seu último ataque, mas quando ela foge, ela cai de uma ponte e fica inconsciente.</info>
+	</item>
+	<item>
+		<title>[B]O relutante fundamentalista[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7cb8c13bd42e001ac5607f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7cb8c13bd42e001ac5607f</link>
+		<info>2011, Lahore. Em um café ao ar livre, um jovem paquistanês chamado Changez diz Bobby, um jornalista norte-americano, suas experiências nos Estados Unidos. Dez anos antes descobrimos um jovem Princeton Changez, buscando fortuna e glória em Wall Street.</info>
+	</item>
+	<item>
+		<title>[B]Contra o Relógio[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6006eafc926015001312e76d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6006eafc926015001312e76d</link>
+		<info>Um agente da CIA é enviado em uma missão onde acaba em coma. A CIA quer extrair todas as informações de que dispõe por meio de uma operação mortal, mas sua esposa se recusa, pois sua mente em coma ainda está ativa.</info>
+	</item>
+	<item>
+		<title>[B]Todas as Coisas Boas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8ca29ed4edc001b00075d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8ca29ed4edc001b00075d</link>
+		<info>Após o desaparecimento de sua esposa e a morte de seu melhor amigo, David Marks enfrenta um julgamento no qual é acusado do assassinato de seu vizinho e amigo Malvern Bump.</info>
+	</item>
+	<item>
+		<title>[B]Obsessão Perigosa[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa1ac23b06bf7001ade678d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa1ac23b06bf7001ade678d</link>
+		<info>Um homem de meia-idade em um casamento estagnado vê sua vida transtornada quando uma jovem atraente e seu marido aparentemente abusivo se mudam para a casa ao lado.</info>
+	</item>
+	<item>
+		<title>[B]O Caçador[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7cb8bc3bd42e001ac55e77/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7cb8bc3bd42e001ac55e77</link>
+		<info>Martin, um mercenário, é enviado da Europa por uma misteriosa empresa de biotecnologia para o deserto da Tasmânia em uma caçada ao último tigre da Tasmânia.</info>
+	</item>
+	<item>
+		<title>[B]Meu Filho[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faae1dfe5d584001a910175/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faae1dfe5d584001a910175&</link>
+		<info>Julien viaja constantemente pelo trabalho; sua ausência perpétua em sua casa arruinou seu casamento. Durante uma escala na França, ele recebe uma mensagem de sua ex-mulher muito angustiada.</info>
+	</item>
+	<item>
+		<title>[B]Sangue no Gelo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff5553618600131ff178/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff5553618600131ff178</link>
+		<info>Um detetive do Alasca se junta a uma jovem que escapou das garras de um assassino em série para levar o criminoso à justiça.</info>
+	</item>
+	<item>
+		<title>[B]Margin Call[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f80b16341a697001a15c32a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f80b16341a697001a15c32a</link>
+		<info>Inspirado pelo colapso financeiro global de 2008, o Margin Call ocorre nos escritórios de Wall Street de um poderoso banco de investimento durante as piores 24 horas de sua história financeira.</info>
+	</item>
+	<item>
+		<title>[B]O Mistério[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012fac4b2c9b7001a3ee08e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012fac4b2c9b7001a3ee08e</link>
+		<info>O filme conta a história de uma jovem de 18 anos, Ayesha Mahajan, que é assassinada na sua própria casa. Seu pai, Sachin Mahajan, é considerado o suspeito principal. No fim, uma revelação surpreendente deixa todos chocados.</info>
+	</item>
+	<item>
+		<title>[B]Guerra Fria[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b850e5d584001a90e687/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b850e5d584001a90e687</link>
+		<info>Chefes de polícia rivais entram em confronto nas ruas e na estação depois que um assassino faz uma fuga desesperada.</info>
+	</item>
+	<item>
+		<title>[B]Caça à Testemunha[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a7788d408001aa8f011/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a7788d408001aa8f011</link>
+		<info>Um ex-policial sujo escondido na proteção de testemunhas é caçado pelo parceiro que ele traiu, um pistoleiro maluco e um ex-amante abandonado que quer sua fortuna mal obtida - e seu próprio tipo de vingança - só para eles.</info>
+	</item>
+	<item>
+		<title>[B]A Companhia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012facbb2c9b7001a3ee140/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012facbb2c9b7001a3ee140</link>
+		<info>Mallik é capanga de Aslam Bhai, um mafioso do submundo de Mumbai. Mallik traz o temperamental Chandu para a gangue e os dois logo formam uma facção formidável, mas logo o ciúme e a raiva os transformam em inimigos.</info>
+	</item>
+	<item>
+		<title>[B]A rota de colisão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff3e53618600131feed4/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff3e53618600131feed4</link>
+		<info>Mitchel e Carter são dois velhos amigos que partiram em uma jornada de aventuras. Mas quando sua viagem de prazer começa, eles são incapazes de imaginar a virada que sua amizade e suas vidas estão prestes a tomar.</info>
+	</item>
+	<item>
+		<title>[B]A Carta[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f87544a652fb5001adde385/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f87544a652fb5001adde385</link>
+		<info>À medida que os ensaios para sua última peça continuam, uma diretora de teatro fica cada vez mais perturbada com vívidas alucinações e a sensação de que alguém quer envenená-la.</info>
+	</item>
+	<item>
+		<title>[B]Obsessão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706b007ce430013083c6d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706b007ce430013083c6d</link>
+		<info>No início dos anos 1970, o jornalista Ward Jansen retorna à sua cidade natal na Flórida para investigar o caso de Hillary Van Wetter, um homem que foi condenado à morte por matar um xerife local corrupto em 1969.</info>
+	</item>
+	<item>
+		<title>[B]O 30° Dia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/60073f1a72b3e1001a664baf/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/60073f1a72b3e1001a664baf</link>
+		<info>Uma mulher com transtorno de personalidade múltipla tenta impedir que sua vida desmorone.</info>
+	</item>
+	<item>
+		<title>[B]Confronto Sangrento[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b534f6a58060013794c17/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b534f6a58060013794c17</link>
+		<info>Quando os detetives da cidade grande se recusam a continuar investigando o assassinato do seu irmão mais novo cometido pela própria gangue, o xerife de uma cidade pequena se disfarça para encontrar o assassino do irmão e vingar a sua morte.</info>
+	</item>
+	<item>
+		<title>[B]Entrega de Risco[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53b06a58060013795150/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53b06a58060013795150</link>
+		<info>Um entregador especializado é contratado para entregar uma maleta misteriosa ao assassino mais perigoso do submundo.</info>
+	</item>
+	<item>
+		<title>[B]Atormentada[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a3b1788de001ad5aca4/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a3b1788de001ad5aca4</link>
+		<info>Temendo ser a responsável, um paciente mental tenta desvendar o mistério por trás do desaparecimento de seu ex-amante.</info>
+	</item>
+	<item>
+		<title>[B]O Resgate[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53b56a580600137951c0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53b56a580600137951c0</link>
+		<info>Sem segurança no emprego e um futuro sombrio, Paul Dynan (Kevin Zegers) planeja o crime perfeito para ajudar sua família a extorquir uma fortuna de três homens ricos (incluindo Ray Liotta, Victor Garber).</info>
+	</item>
+	<item>
+		<title>[B]Cúmplices de um Segredo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a512a5fe4c000132c6958/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a512a5fe4c000132c6958</link>
+		<info>Duas irmãs que são violentadas sexualmente armam um plano para resolverem o problema e torna-se Cumplices de um Segredo!</info>
+	</item>
+	<item>
+		<title>[B]Mente Obsessiva[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb2d21f06d1ad001a909f28/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb2d21f06d1ad001a909f28</link>
+		<info>O antigo queridinho de uma cidadezinha e sua nova namorada voltam à cidade e descobrem que sua antiga namorada do colegial desenvolveu uma obsessão doentia por ele.</info>
+	</item>
+	<item>
+		<title>[B]Sobreviventes[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa1ac3e88d408001aa8ffdd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa1ac3e88d408001aa8ffdd</link>
+		<info>Alex e Jenn deixaram a cidade para acampar no interior. Depois de entrarem na floresta, eles percebem que esqueceram o telefone e se perdem. A viagem se transforma em uma luta pela sobrevivência quando eles são perseguidos por um urso comedor de homens.</info>
+	</item>
+	<item>
+		<title>[B]Golpe Perfeito[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012fabdb2c9b7001a3edfdc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012fabdb2c9b7001a3edfdc</link>
+		<info>Raja é um vigarista que engana as pessoas por dinheiro. Na esperança de se casar com sua namorada, ele resolve dar um grande golpe junto com seu amigo Raghav. O plano é roubar uma grande soma em dinheiro de dois bandidos.</info>
+	</item>
+	<item>
+		<title>[B]No Rastro da Violência[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15ab188d408001aa8f63a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15ab188d408001aa8f63a</link>
+		<info>Uma psicóloga, Dra. Amanda Tyler, tem a oportunidade de entrevistar Jackson Shea, prisioneiro do corredor da morte. Conforme a entrevista evolui, Amanda deve determinar se a suspensão da execução deve ser concedida.</info>
+	</item>
+	<item>
+		<title>[B]Toque de Mestre[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f872dfe72d139001a19c7f0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f872dfe72d139001a19c7f0</link>
+		<info>Um pianista que sofre de medo do palco descobre uma nota ameaçadora escrita em sua partitura momentos antes de sua apresentação.</info>
+	</item>
+	<item>
+		<title>[B]Identificação[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9dded4edc001bffffd4/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9dded4edc001bffffd4</link>
+		<info>Um empresário duvidoso e seu parceiro decidem fugir dos federais para as Ilhas Cayman e causar uma reação em cadeia com consequências enormes e imprevisíveis: o caso de amor de um inglês termina mal e um policial investiga um crime.</info>
+	</item>
+	<item>
+		<title>[B]A Tentação[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9e4ed4edc001b00007f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9e4ed4edc001b00007f</link>
+		<info>Depois que um vizinho ateu (Charlie Hunnam) teve um caso com sua esposa, um cristão vingativo força o homem a escolher entre se matar ou permitir que outra pessoa morra em seu lugar.</info>
+	</item>
+	<item>
+		<title>[B]A Fronteira[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706ab07ce430013083bfd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706ab07ce430013083bfd</link>
+		<info>Inspirado em fatos reais sobre uma repórter americana de Phoenix (Sharon Stone) à procura de seu irmão desaparecido, e que estará envolvida na violência que o tráfico de pessoas causa na fronteira entre os Estados Unidos e o México.</info>
+	</item>
+	<item>
+		<title>[B]O Estranho Thomas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6006f44b813b2d001b687f82/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6006f44b813b2d001b687f82</link>
+		<info>Um cozinheiro clarividente junta-se à namorada e ao xerife da cidade para evitar uma catástrofe desconhecida que pode estar ligada a um estranho com comportamento suspeito.</info>
+	</item>
+	<item>
+		<title>[B]Donnie Darko[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f5be477638b1800139e8a03/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f5be477638b1800139e8a03</link>
+		<info>Um adolescente problemático tem visões de um homem em uma grande roupa de coelho manipulando-o para cometer uma série de crimes, após ele escapar por pouco de um acidente estranho.</info>
+	</item>
+	<item>
+		<title>[B]O Guarda-Costas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6006f44a813b2d001b687f4e/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6006f44a813b2d001b687f4e</link>
+		<info>Um guarda-costas descobre que o homem que solicita seus serviços é o responsável pela morte de seus pais.</info>
+	</item>
+	<item>
+		<title>[B]Sacrifício[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706d407ce430013083f67/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706d407ce430013083f67</link>
+		<info>Tora Hamilton é médica com problemas de parto e decide, com o marido, adotar uma criança. Para fazer isso, eles se mudam para uma pequena ilha.</info>
+	</item>
+	<item>
+		<title>[B]Sacrifício[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706d907ce430013084002/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706d907ce430013084002</link>
+		<info>Um policial se infiltrou em uma rede de distribuição de heroína e se envolve profundamente quando um jovem desertor de drogas deixa sua irmã de cinco anos sob seus cuidados.</info>
+	</item>
+	<item>
+		<title>[B]Na Trilha Da Vingança[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8ca05ed4edc001b00039f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8ca05ed4edc001b00039f</link>
+		<info>Uma mulher misteriosa ajuda um ex-presidiário depois que um plano de assassinato dá errado.</info>
+	</item>
+	<item>
+		<title>[B]Enquanto Ela Está Fora[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8ca0ded4edc001b000487/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8ca0ded4edc001b000487</link>
+		<info>Uma mulher de classe alta, casada com um homem desagradável, vai às compras no shopping. Lá, ela testemunha como alguns membros de uma gangue matam o segurança, e a gangue a persegue até uma floresta com a intenção de assassiná-la também.</info>
+	</item>
+	<item>
+		<title>[B]O Ritual[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f8706db07ce43001308403c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f8706db07ce43001308403c</link>
+		<info>Um estudante de antropologia leva alguns de seus colegas para o rancho de sua família, onde seu irmão enlouquecido vive em uma nuvem de drogas e rituais indígenas Chumash.</info>
+	</item>
+	<item>
+		<title>[B]Inocência Perdida[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53976a58060013794fca/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53976a58060013794fca</link>
+		<info>A renomada violinista, Caroline Waverly, volta à Innocence, sua pacata cidade natal, em busca de sossego. Mas um assassino em série está solto pelas ruas, e Caroline pode ser sua próxima vítima.</info>
+	</item>
+	<item>
+		<title>[B]Homens em Fúria[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f86fe853bd42e001ac659ac/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f86fe853bd42e001ac659ac</link>
+		<info>Stone foi condenado à prisão por doze anos e já cumpriu oito. Ele deseja obter liberdade condicional, mas antes precisa passar por Jack, um policial prestes a se aposentar que tem por função avaliar se ele ainda é um perigo para a sociedade.</info>
+	</item>
+	<item>
+		<title>[B]Every Secret Thing[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f871d0472d139001a19c6c8/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f871d0472d139001a19c6c8</link>
+		<info>A detetive Nancy Porter, que não conseguiu salvar uma menina, investiga o desaparecimento de outra menina oito anos depois na mesma cidade onde vivem as duas mulheres culpadas da morte da primeira menina.</info>
+	</item>
+	<item>
+		<title>[B]A Arte do Amor[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fab0642e5d584001a911b78/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fab0642e5d584001a911b78</link>
+		<info>Dean e Isabella são o casal por excelência da cidade de Nova York. Isabella fornece paixão e inspiração para as grandes e coloridas telas de Dean.Ou seja, até o dia em que Dean recebe a notícia. Isabella está morta.</info>
+	</item>
+	<item>
+		<title>[B]Obsessão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012fac6b2c9b7001a3ee0cc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012fac6b2c9b7001a3ee0cc</link>
+		<info>Gêmeas siamesas ao nascer, Anjana e Sanjana viviam sob a promessa de que nunca se separariam. “Sempre estaremos juntas, nunca nos separaremos.” Circunstâncias estranhas levam à morte de uma delas.</info>
+	</item>
+	<item>
+		<title>[B]O Massacre da Serra Elétrica[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff5ff4653618600131fefb4/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff5ff4653618600131fefb4</link>
+		<info>Uma jovem descobre o terror no porão da isolada mansão vitoriana que herdou de um parente desconhecido.</info>
+	</item>
+	<item>
+		<title>[B]Olhos Famintos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe59990dddaf0013b5c385/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe59990dddaf0013b5c385</link>
+		<info>Um irmão e uma irmã dirigindo para casa pelo campo isolado para as férias de primavera encontram uma criatura carnívora no meio de sua farra ritualística.</info>
+	</item>
+	<item>
+		<title>[B]Sono Mortal[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a6688d408001aa8ee7b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a6688d408001aa8ee7b</link>
+		<info>Kate Bowman é uma assistente social que está investigando uma série de mortes misteriosas. Cada vítima sofria de paralisia do sono, uma doença assustadora que imobiliza suas vítimas enquanto sonham.</info>
+	</item>
+	<item>
+		<title>[B]407 O Vôo das Trevas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15abf88d408001aa8f7b9/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15abf88d408001aa8f7b9</link>
+		<info>Uma comissária de bordo sênior chamado New tem que lidar com um evento sobrenatural e mistérioso no avião quando os passageiros começam a morrer um por um.</info>
+	</item>
+	<item>
+		<title>[B]O Combate Paranormal[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85f543377682001a5882b0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85f543377682001a5882b0</link>
+		<info>Uma unidade de forças especiais enviada para se infiltrar no complexo militar clandestino ultrassecreto de Pine Gap Australia é atacada por forças desconhecidas.</info>
+	</item>
+	<item>
+		<title>[B]Hotel Do Medo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b3039d991c001a9ce840/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b3039d991c001a9ce840</link>
+		<info>Uma mulher se vê presa em um loop temporal quando começa um novo emprego em um hotel que tem um histórico de assassinatos horríveis.</info>
+	</item>
+	<item>
+		<title>[B]3 A.M.[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b3019d991c001a9ce806/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b3019d991c001a9ce806</link>
+		<info>A história do filme gira em torno de três amigos que vão fazer um reality show sobre a existência de fantasmas no mundo.</info>
+	</item>
+	<item>
+		<title>[B]3 A.M. Parte 2[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a6c88d408001aa8ef25/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a6c88d408001aa8ef25</link>
+		<info>Três contos sobrenaturais de terror se entrelaçam às 3 da manhã. Um líder de motocicleta volta para se vingar. Uma assombração fantasmagórica em uma escola só para meninas. Uma loja para os mortos voltarem.</info>
+	</item>
+	<item>
+		<title>[B]Cativeiro[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff4734e042d2a001a20dd03/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff4734e042d2a001a20dd03</link>
+		<info>Jennifer Tree, um ícone da moda, e seu motorista são sequestrados por um serial killer e trancados em um porão em Manhattan. Lá eles sofrerão o horror do cativeiro, mas lutarão para sobreviver enquanto uma conexão especial surge entre eles.</info>
+	</item>
+	<item>
+		<title>[B]REC[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe7747c8c57d00131b7c17/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe7747c8c57d00131b7c17</link>
+		<info>Um repórter de televisão e um cinegrafista seguem os trabalhadores de emergência até um prédio escuro e rapidamente se trancam com algo assustador.</info>
+	</item>
+	<item>
+		<title>[B][Rec] 2[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/60087331b7b339001a477ca0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/60087331b7b339001a477ca0</link>
+		<info>Há 15 minutos a polícia não tem qualquer contato com as pessoas que estão presas dentro de um edifício em quarentena.</info>
+	</item>
+	<item>
+		<title>[B]Jogos perigosos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a8888d408001aa8f1dd/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a8888d408001aa8f1dd</link>
+		<info>Um serial killer é libertado propositalmente de um asilo para criminosos insanos para que ele possa continuar sua violência.</info>
+	</item>
+	<item>
+		<title>[B]Desde o Além[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6012fab9b2c9b7001a3edf68/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6012fab9b2c9b7001a3edf68</link>
+		<info>Nia é filha de Maya e Abhay, mas não sabe que o seu pai está morto. Maya esconde a verdade porque Nia é sensível e adora o pai. As coisas ficam estranhas depois que uma colega de Nia a importuna na escola e aparece morta.</info>
+	</item>
+	<item>
+		<title>[B]Palavras Diabólicas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b31e9d991c001a9ceb17/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b31e9d991c001a9ceb17</link>
+		<info>Quando todas as crianças em uma pequena cidade ficam possuídas, uma mãe se recusa a acreditar que sua filha está perdida para o diabo e fará de tudo para mantê-la viva.</info>
+	</item>
+	<item>
+		<title>[B]Mortos Vivos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a471788de001ad5adf0/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a471788de001ad5adf0</link>
+		<info>Um xerife deve resgatar uma família distante de uma montanha durante a erupção de um vulcão e lutar contra uma horda de zumbis cheios de lava trazidos à vida por uma maldição.</info>
+	</item>
+	<item>
+		<title>[B]Caçador de Demônio[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a411788de001ad5ad4a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a411788de001ad5ad4a</link>
+		<info>Quando um demônio ancestral é acidentalmente libertado em uma cidade no Mississippi a única esperança de sobrevivência está nas mãos do velho caçador de demônios Jebediah Woodley e sua relutante parceira do FBI, a agente Evelyn Pierce.</info>
+	</item>
+	<item>
+		<title>[B]House of 1000 Corpses[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/6011d1b5ce98800013ecce3c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/6011d1b5ce98800013ecce3c</link>
+		<info>Este filme sangrento segue dois casais jovens em uma jornada para encontrar a verdade sobre um personagem mítico conhecido apenas como “Dr. Satanás”.</info>
+	</item>
+	<item>
+		<title>[B]A Colônia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f80b0bf7f692c001a4d9d72/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f80b0bf7f692c001a4d9d72</link>
+		<info>Em 2018, depois de um desastre pela mudança climática que levou a uma nova idade do gelo, um clandesttino reduto de sobreviventes devem lutar para preservar a humanidade de uma ameaça mais selvagem do que os elementos.</info>
+	</item>
+	<item>
+		<title>[B]Cubo[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fae769b6492fa001d03973b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fae769b6492fa001d03973b</link>
+		<info>Sete completos estranhos com características de personalidade amplamente variadas são involuntariamente colocados em um labirinto sem fim contendo armadilhas mortais.</info>
+	</item>
+	<item>
+		<title>[B]Living Dark: The Story of Ted the Caver[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb26ba0e9dede001ab90248/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb26ba0e9dede001ab90248</link>
+		<info>Dois irmãos, reunidos para o funeral de seu pai, tropeçam na entrada de uma caverna próxima, onde são lentamente forçados a confrontar a verdadeira e terrível causa da morte de seu pai.</info>
+	</item>
+	<item>
+		<title>[B]Isolados[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faef46ccfb475001a286328/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faef46ccfb475001a286328</link>
+		<info>Em uma grande cidade americana, o serial killer The Picasso Killer está aterrorizando os moradores e a polícia não tem pista para encontrá-lo.</info>
+	</item>
+	<item>
+		<title>[B]Os Mensageiros[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb7d2d0f9fdf0001b0557d7/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb7d2d0f9fdf0001b0557d7</link>
+		<info>Uma escuridão ameaçadora invade uma fazenda de girassóis aparentemente serena em Dakota do Norte, e a família Solomon é dilacerada por suspeitas, caos e assassinatos.</info>
+	</item>
+	<item>
+		<title>[B]Uma Noite Maldita[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a7b88d408001aa8f081/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a7b88d408001aa8f081</link>
+		<info>Peter e Carla, um casal cujo casamento está vacilando, decidem ir acampar no fim de semana. Quando se perdem, o par monta acampamento em uma praia remota que não parece estar em nenhum mapa.</info>
+	</item>
+	<item>
+		<title>[B]Palhaços Infernais[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9e88d408001aa8f448/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9e88d408001aa8f448</link>
+		<info>Durante uma viagem, um grupo de amigos se viu encalhado em uma cidade aparentemente deserta. Conforme o dia se transforma em noite, os visitantes indefesos são perseguidos por maníacos vestidos como palhaços.</info>
+	</item>
+	<item>
+		<title>[B]Adaline: A Exorcisada[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/600050b9375b54001a324397/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/600050b9375b54001a324397</link>
+		<info>Uma jovem artista Daniela, herda uma velha casa de uma tia que ela nunca pensou que existisse. Ela se muda para aquela casa onde conhece um belo carpinteiro e um jovem vizinho com problemas mentais.</info>
+	</item>
+	<item>
+		<title>[B]Classroom 6: A Sala do Mal[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd23e142fd74a0014ced4b2/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd23e142fd74a0014ced4b2</link>
+		<info>Uma jovem equipe de TV é enviada para uma escola com um passado misterioso para uma fazer uma reportagem sobre o local .</info>
+	</item>
+	<item>
+		<title>[B]Ring[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a8c88d408001aa8f24d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a8c88d408001aa8f24d</link>
+		<info>Uma repórter investiga uma série de mortes atribuídas a uma lenda urbana sobre uma fita de vídeo que provoca a morte de quem a assiste depois de 7 dias. Porém, logo ela descobre que a lenda pode ser mais real do que ela imagina.</info>
+	</item>
+	<item>
+		<title>[B]Ring 0[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a8e88d408001aa8f287/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a8e88d408001aa8f287</link>
+		<info>Reiko esconde Yôichi quando seu filho começa a exibir poderes assustadores. Enquanto isso, Mai Takano e as autoridades começam uma busca desesperada por eles, enquanto a misteriosa maldição do Anel se espalha.</info>
+	</item>
+	<item>
+		<title>[B]Ring 2[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9088d408001aa8f2c1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9088d408001aa8f2c1</link>
+		<info>Nesta prequela de Ring, uma jovem Sadako se torna uma atriz na esperança de escapar de seu passado conturbado. Mas estranhas visões e poderes terríveis começam a se manifestar.</info>
+	</item>
+	<item>
+		<title>[B]A Morte Convida Para Dançar[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa599b09a01a3001b71ad39/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa599b09a01a3001b71ad39</link>
+		<info>Para a jovem Donna, aquela seria a noite mais importante de sua vida: festa de formatura, com muita mágica, beleza e amor. Ao lado dos amigos formandos, Donna deveria ficar tranquila e a salvo dos horrores de seu secreto passado.</info>
+	</item>
+	<item>
+		<title>[B]O Despertar[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a65299839e0013e0ce0d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa599b09a01a3001b71ad39</link>
+		<info>Em 1921, após a Primeira Guerra Mundial (1914-1918), uma mulher cética viaja para um internato para investigar uma possessão aparente.</info>
+	</item>
+	<item>
+		<title>[B]The Collector[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f85b8717f692c001a4dfdef/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f85b8717f692c001a4dfdef</link>
+		<info>Para o construtor e ex-presidiário, Arkin , uma casa tranquila e férias com a família é uma grande oportunidade para fazer um roubo rápido. Infelizmente, outro criminoso está à espreita.</info>
+	</item>
+	<item>
+		<title>[B]Jogo Macabro[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fd8c9f3ed4edc001b0001d7/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fd8c9f3ed4edc001b0001d7</link>
+		<info>Alguns estudantes americanos começam a morrer na Espanha devido a um jogo de tabuleiro.</info>
+	</item>
+	<item>
+		<title>[B]A Invocação 2[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa4415593fb64001a76f853/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa4415593fb64001a76f853</link>
+		<info>Uma jovem estudante de psicologia é solicitada a cuidar de sua sobrinha. O que parece uma noite normal de repente se torna assustador à medida que eventos misteriosos começam a acontecer.</info>
+	</item>
+	<item>
+		<title>[B]Através da Sombra[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5ff336fa636004001a7997d1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5ff336fa636004001a7997d1</link>
+		<info>Um homem rico contrata a professora Laura para educar seus dois sobrinhos órfãos, herdeiros de uma fazenda de café. Mas, aos poucos, Laura testemunha estranhos acontecimentos, que só se intensificam.</info>
+	</item>
+	<item>
+		<title>[B]Jessabelle: O Passado Nunca Morre[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbe599f0dddaf0013b5c3b9/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbe599f0dddaf0013b5c3b9</link>
+		<info>Uma jovem é forçada a voltar para a casa de seu pai, na Louisiana, quando um acidente de trânsito a deixa incapacitada, sem poder usar as pernas.</info>
+	</item>
+	<item>
+		<title>[B]As Fábulas Negras[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fad3b0f9d991c001a9d950f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fad3b0f9d991c001a9d950f</link>
+		<info>Um grupo de crianças embarcam em uma aventura macabra, cheia de personagens do imaginário popular brasileiro – lobisomem, bruxa, fantasma, monstro e o Saci.</info>
+	</item>
+	<item>
+		<title>[B]Hellraiser: Renascido do Inferno[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fc7a64199839e0013e0cc8c/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fc7a64199839e0013e0cc8c</link>
+		<info>Uma esposa infiel encontra o zumbi de seu amante morto; cenobitas demoníacos o perseguem depois que ele escapou de seu submundo sadomasoquista.</info>
+	</item>
+	<item>
+		<title>[B]Os Desaparecidos[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a5c88d408001aa8ed9b/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a5c88d408001aa8ed9b</link>
+		<info>Nas profundezas da floresta do norte da Califórnia, no coração do famoso Triângulo Esmeralda, fica uma cabana remota. Os residentes lutam para resistir aos repetidos ataques e sequestros por criaturas misteriosas que os atormentam há anos.</info>
+	</item>
+	<item>
+		<title>[B]A Armadilha[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b30a9d991c001a9ce8e6/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b30a9d991c001a9ce8e6</link>
+		<info>Cinco anos após um terrível acidente deixar uma menina incapacitada, os responsáveis ​​são convidados a uma reunião de classe em uma mansão remota no interior. Mal sabem eles, eles estão sendo alvos de um maníaco mascarado que está decidido a se vingar.</info>
+	</item>
+	<item>
+		<title>[B]O Segredo do Farol[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b30e9d991c001a9ce95a/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b30e9d991c001a9ce95a</link>
+		<info>Marrom em uma península remota e assombrado por espectros assustadores, um jovem deve enfrentar os habitantes grotescos da noite, ou ouvir o alerta enigmático do faroleiro para, 'Sempre mantenha uma luz acesa'.</info>
+	</item>
+	<item>
+		<title>[B]Amor Zumbi[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f7b53586a58060013794cc1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f7b53586a58060013794cc1</link>
+		<info>Dois zumbis, Mike e Brent, se deparam espantosamente renascendo dos mortos em meio a uma invasão zumbi. Depois de achar um anel de noivado no bolso do seu casaco, Mike chama seu novo amigo zumbi para embarcar em uma missão em busca de seu amor perdido.</info>
+	</item>
+	<item>
+		<title>[B]A Colmeia[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6287105e6bed001a9ce6ce/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6287105e6bed001a9ce6ce</link>
+		<info>Boas-vindas ao Camp Yellow Jacket, onde o conselheiro do acampamento Adam, tem que contar como ele sobreviveu a um surto misterioso… e como ele e os seus campistas sobreviverão aos conselheiros que não conseguiram.</info>
+	</item>
+	<item>
+		<title>[B]Mar Negro[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fbd2f9428db6b00131035b9/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fbd2f9428db6b00131035b9</link>
+		<info>Uma estranha contaminação atinge uma pequena vila de pescadores. Quando peixes e crustáceos se transformam em horrendas criaturas transmissoras de morte e destruição.</info>
+	</item>
+	<item>
+		<title>[B]Terror no Navio[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15c107ce43001305d4ec/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15c107ce43001305d4ec</link>
+		<info>Presa a bordo do iate da família, Samantha vive seu inferno pessoal, ela acorda todas as manhãs e vê as cicatrizes deixadas em seu corpo da noite anterior. O mistério está apenas começando.</info>
+	</item>
+	<item>
+		<title>[B]Dead Rising: Jogo Final[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa01457b06bf7001ade2a4f/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa01457b06bf7001ade2a4f</link>
+		<info>O repórter investigativo Chase Carter está ficando sem tempo para impedir uma conspiração do governo que quer acabar com a ameaça dos mortos-vivos de uma forma que também acabará com a vida de milhões de inocentes.</info>
+	</item>
+	<item>
+		<title>[B]A Segunda Visão[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9588d408001aa8f368/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9588d408001aa8f368</link>
+		<info>Jate possui um dom especial: ele vê os espíritos que vagam pela terra. Como uma aberração, Jate deixa esse detalhe em segredo. A única pessoa que o entende é Joom, sua namorada.</info>
+	</item>
+	<item>
+		<title>[B]Demência[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9988d408001aa8f3d8/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9988d408001aa8f3d8</link>
+		<info>Quatro melhores amigas decidem pegar uma estrada secundária viajando para um casamento na Inglaterra, em seu caminho um segredo mortal força as meninas a ficarem presas na floresta</info>
+	</item>
+	<item>
+		<title>[B]Anjo das Trevas[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f96d108397eee001abaa93d/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f96d108397eee001abaa93d</link>
+		<info>Quando Russell é mordido por um lobisomem, ele deve enfrentar vampiros, caçadores e outros lobisomens que o procuram. Enquanto isso, a deusa Lilith deseja extinguir a raça humana. Caberá a Russel salvar a humanidade.</info>
+	</item>
+	<item>
+		<title>[B]Vamps[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15a9c88d408001aa8f412/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15a9c88d408001aa8f412</link>
+		<info>Stacy e Goody, duas vampiras socialmente ativas em Nova York procuram o amor verdadeiro. No entanto, há um problema: para encontrar o amor verdadeiro, eles devem desistir de sua juventude eterna.</info>
+	</item>
+	<item>
+		<title>[B]Vampira, a Caçadora[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b31c9d991c001a9ceae1/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b31c9d991c001a9ceae1</link>
+		<info>Uma mulher passa a fazer parte de um esquadrão de elite que caça vampiros e outras criaturas da noite.</info>
+	</item>
+	<item>
+		<title>[B]A PERCEPÇÃO DO MEDO[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fad3b119d991c001a9d9549/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fad3b119d991c001a9d9549</link>
+		<info>A crise existêncial, os terrores internos de quem vive na metrópole. Marcus não tem a vida que imaginou, seus fracassos, a constante pressão de seus medos o levam a beira de sua sanidade.</info>
+	</item>
+	<item>
+		<title>[B]AfterDeath[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b31a9d991c001a9ceaab/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b31a9d991c001a9ceaab</link>
+		<info>Após um trágico acidente dentro de uma boate, cinco pessoas acordam mortas em uma praia. Assustados e confusos, eles vão até uma casa abandonada próxima. Enquanto tentam dar sentido às coisas, eles se perguntam se estão realmente no inferno.</info>
+	</item>
+	<item>
+		<title>[B]Ring Espiral[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa9b2fc9d991c001a9ce792/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa9b2fc9d991c001a9ce792</link>
+		<info>Um jovem patologista busca respostas para a misteriosa morte de um amigo e logo entra em contato com a mesma maldita fita de vídeo que causou a morte da esposa e do filho do amigo, que é assombrado pela maldição de Sadako, um espírito implacável.</info>
+	</item>
+	<item>
+		<title>[B]O Mistério de Anne[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fa15aa388d408001aa8f4b8/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fa15aa388d408001aa8f4b8</link>
+		<info>Uma mulher mentalmente doente com um grave distúrbio de personalidade desenvolve uma estranha relação com suas bonecas. Ela se torna vítima de insônia e até mesmo de automutilação. Cabe a seu filho revelar a estranha verdade sobre a doença de Anne.</info>
+	</item>
+	<item>
+		<title>[B]Sonhos da Morte[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faef468cfb475001a2862bc/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faef468cfb475001a2862bc</link>
+		<info>Um thriller parapsicológico onde uma adolescente descobre seu dom de se comunicar com os mortos. Ela usa esse dom para ajudar a resolver uma série de assassinatos locais.</info>
+	</item>
+	<item>
+		<title>[B]Profeta[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5faef46acfb475001a2862f2/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5faef46acfb475001a2862f2</link>
+		<info>Dezoito anos após um assassinato em massa, John Bennett escapa do cativeiro e retorna para a casa de sua infância, onde um grupo de estudantes universitários de psicologia desavisados ​​estão estudando sua psique passando algumas noites em casa.</info>
+	</item>
+	<item>
+		<title>[B]O Mistério de Levenger[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5fb26b9ee9dede001ab90212/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5fb26b9ee9dede001ab90212</link>
+		<info>Três estudantes universitários em uma fuga na selva encontram criminosos e desaparecem, deixando para trás vídeos caseiros que a polícia examina em busca de pistas.</info>
+	</item>
+	<item>
+		<title>[B]Krampus - 12 Mortes no Natal[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/5f6a15cc07ce43001305d639/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/5f6a15cc07ce43001305d639</link>
+		<info>Inspirado na lenda germânica de Frau Perchta, a Bruxa do Natal. Uma maldição que ecoa por uma cidade por décadas tem seu desfecho com mortes às vésperas do Natal.</info>
+	</item>
+	<item>
+		<title>[B]3 Irmãs[/B]</title>
+		<thumbnail>https://api.pluto.tv/v3/images/episodes/600050b7375b54001a324361/poster.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.plutotv/play/vod/600050b7375b54001a324361</link>
+		<info>Retornando do funeral de seu tio, Emma Lehman é brutalmente assassinada por um agressor mascarado. Sua irmã e companheira de casa, Sarah descobre o corpo e, incapaz de enfrentar a pernoite em casa, chama seu ex-namorado Dylan.</info>
+	</item>
