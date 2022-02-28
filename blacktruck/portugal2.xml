@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
+#EXTM3U
+#EXTM3U
+#EXTM3U
+
+#EXTM3U
+#EXTINF:-1,PT : RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/776
+#EXTINF:-1,PT : RTP 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/777
+#EXTINF:-1,PT : RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/773
+#EXTINF:-1,PT : RTP 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/774
+#EXTINF:-1,PT : SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/771
+#EXTINF:-1,PT : SIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/772
+#EXTINF:-1,PT : TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/768
+#EXTINF:-1,PT : TVI ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/769
+#EXTINF:-1,PT : SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/766
+#EXTINF:-1,PT : SIC NOTICIAS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/765
+#EXTINF:-1,PT : RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/762
+#EXTINF:-1,PT : RTP 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/761
+#EXTINF:-1,PT : CNN PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/764
+#EXTINF:-1,PT : CNN PORTUGAL ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/763
+#EXTINF:-1,PT : CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/760
+#EXTINF:-1,PT : CMTV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/759
+#EXTINF:-1,PT : SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/743
+#EXTINF:-1,PT : SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/744
+#EXTINF:-1,PT : E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63011
+#EXTINF:-1,PT : TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/745
+#EXTINF:-1,PT : TVI FICCAO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/746
+#EXTINF:-1,PT : PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/757
+#EXTINF:-1,PT : PORTO CANAL ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/758
+#EXTINF:-1,PT : SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/742
+#EXTINF:-1,PT : CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/747
+#EXTINF:-1,PT : RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/751
+#EXTINF:-1,PT : TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/735
+#EXTINF:-1,PT : TVI REALITY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63026
+#EXTINF:-1,PT : TVI REALITY CAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/46581
+#EXTINF:-1,PT : TVI REALITY CAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/46582
+#EXTINF:-1,PT : TVI REALITY CAM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/46583
+#EXTINF:-1,PT : TVI REALITY CAM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/46584
+#EXTINF:-1,PT : TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/46585
+#EXTINF:-1,PT : RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/755
+#EXTINF:-1,PT : RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/754
+#EXTINF:-1,PT : RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/753
+#EXTINF:-1,PT : LIGA N0S 1 ( Só hora de Jogos )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64842
+#EXTINF:-1,PT : LIGA N0S 2 ( Só hora de Jogos )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64852
+#EXTINF:-1,PT : CANAL 11 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/666
+#EXTINF:-1,PT : CANAL 11 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/667
+#EXTINF:-1,PT : SP0RT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/655
+#EXTINF:-1,PT : SP0RT TV + ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/656
+#EXTINF:-1,PT : SP0RT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/651
+#EXTINF:-1,PT : SP0RT TV 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/62818
+#EXTINF:-1,PT : SP0RT TV 1 ᴴᴰ EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/19250
+#EXTINF:-1,PT : SP0RT TV 1 HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/35392
+#EXTINF:-1,PT : SP0RT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/647
+#EXTINF:-1,PT : SP0RT TV 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/648
+#EXTINF:-1,PT : SP0RT TV 2 HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/19251
+#EXTINF:-1,PT : SP0RT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/643
+#EXTINF:-1,PT : SP0RT TV 3 ᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/645
+#EXTINF:-1,PT : SP0RT TV 3 HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/60897
+#EXTINF:-1,PT : SP0RT TV 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/639
+#EXTINF:-1,PT : SP0RT TV 4 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/641
+#EXTINF:-1,PT : SP0RT TV 4 HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/60898
+#EXTINF:-1,PT : SP0RT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/635
+#EXTINF:-1,PT : SP0RT TV 5 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/636
+#EXTINF:-1,PT : SP0RT TV 5 HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/60899
+#EXTINF:-1,PT : SP0RT TV 6 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/74640
+#EXTINF:-1,PT : SP0RT TV NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/632
+#EXTINF:-1,PT : SP0RT TV NBA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/633
+#EXTINF:-1,PT : BENFICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/660
+#EXTINF:-1,PT : BENFICA TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/2450
+#EXTINF:-1,PT : BENFICA TV ᴴᴰ EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/19239
+#EXTINF:-1,PT : BENFICA TV HEVC 265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/35391
+#EXTINF:-1,PT : ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/628
+#EXTINF:-1,PT : ELEVEN SPORTS 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/629
+#EXTINF:-1,PT : ELEVEN SPORTS 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/79210
+#EXTINF:-1,PT : ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/624
+#EXTINF:-1,PT : ELEVEN SPORTS 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/625
+#EXTINF:-1,PT : ELEVEN SPORTS 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/79209
+#EXTINF:-1,PT : ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/620
+#EXTINF:-1,PT : ELEVEN SPORTS 3 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/621
+#EXTINF:-1,PT : ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/616
+#EXTINF:-1,PT : ELEVEN SPORTS 4 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/617
+#EXTINF:-1,PT : ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/612
+#EXTINF:-1,PT : ELEVEN SPORTS 5 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/613
+#EXTINF:-1,PT : ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/608
+#EXTINF:-1,PT : ELEVEN SPORTS 6 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/609
+#EXTINF:-1,PT : SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/658
+#EXTINF:-1,PT : SPORTING TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/659
+#EXTINF:-1,PT : A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/663
+#EXTINF:-1,PT : A BOLA TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/664
+#EXTINF:-1,PT : EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/604
+#EXTINF:-1,PT : EUROSPORT 1 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/605
+#EXTINF:-1,PT : EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/601
+#EXTINF:-1,PT : EUROSPORT 2 ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/602
+#EXTINF:-1,PT : KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/598
+#EXTINF:-1,PT : PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1506
+#EXTINF:-1,PT : CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/592
+#EXTINF:-1,PT : CACA E PESCA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/593
+#EXTINF:-1,PT : CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/595
+#EXTINF:-1,PT : TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/596
+#EXTINF:-1,PT : TOROS TV ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/597
+#EXTINF:-1,PT : RALLY MANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64137
+#EXTINF:-1,PT : CANAL MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64136
+#EXTINF:-1,PT : MARRADAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64127
+#EXTINF:-1,PT : FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/572
+#EXTINF:-1,PT : MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/574
+#EXTINF:-1,PT : RTP ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/66153
+#EXTINF:-1,PT : TVCINE TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/696
+#EXTINF:-1,PT : TVCINE TOP ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/697
+#EXTINF:-1,PT : TVCINE EDITION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/699
+#EXTINF:-1,PT : TVCINE EDITION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/700
+#EXTINF:-1,PT : TVCINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/702
+#EXTINF:-1,PT : TVCINE EMOTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/703
+#EXTINF:-1,PT : TVCINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/705
+#EXTINF:-1,PT : TVCINE ACTION ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/706
+#EXTINF:-1,PT : NOS STUDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/712
+#EXTINF:-1,PT : NOS STUDIOS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/713
+#EXTINF:-1,PT : HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/719
+#EXTINF:-1,PT : HOLLYWOOD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/720
+#EXTINF:-1,PT : CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/722
+#EXTINF:-1,PT : CINEMUNDO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/723
+#EXTINF:-1,PT : AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/716
+#EXTINF:-1,PT : AMC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/717
+#EXTINF:-1,PT : FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/690
+#EXTINF:-1,PT : FOX MOVIES ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/691
+#EXTINF:-1,PT : HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/77839
+#EXTINF:-1,PT : NETFLIX 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/25410
+#EXTINF:-1,PT : OPTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64138
+#EXTINF:-1,PT : DISNEY MARVEL DC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63024
+#EXTINF:-1,PT : CINEMA INDIANO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64132
+#EXTINF:-1,PT : CINEMA WESTERN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64122
+#EXTINF:-1,PT : CINEMA JACKIE CHAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64131
+#EXTINF:-1,PT : CINEMA BUD SPENCER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64130
+#EXTINF:-1,PT : CINEMA STEVEN SEAGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64129
+#EXTINF:-1,PT : CINEMA JEAN-CLAUDE VAN DAMME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/65780
+#EXTINF:-1,PT : CINEMA STALLONE VS SCHWARZENEGGER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64128
+#EXTINF:-1,PT : CINEMA TOM CRUISE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64822
+#EXTINF:-1,PT : CINEMA ARTES MARCIAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64821
+#EXTINF:-1,PT : FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/687
+#EXTINF:-1,PT : FOX ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/688
+#EXTINF:-1,PT : FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/681
+#EXTINF:-1,PT : FOX CRIME ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/682
+#EXTINF:-1,PT : FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/678
+#EXTINF:-1,PT : FOX LIFE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/679
+#EXTINF:-1,PT : FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/684
+#EXTINF:-1,PT : FOX COMEDY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/685
+#EXTINF:-1,PT : AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/675
+#EXTINF:-1,PT : AXN ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/676
+#EXTINF:-1,PT : AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/672
+#EXTINF:-1,PT : AXN MOVIES ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/673
+#EXTINF:-1,PT : AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/669
+#EXTINF:-1,PT : AXN WHITE ᴴᴰ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/670
+#EXTINF:-1,PT : SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/693
+#EXTINF:-1,PT : SYFY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/694
+#EXTINF:-1,PT : KURIAKOS CINE ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/714
+#EXTINF:-1,PT : CLASSIC MR BEAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/25845
+#EXTINF:-1,PT : CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/26366
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/564
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/565
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/561
+#EXTINF:-1,PT : NATIONAL GEOGRAPHIC WILD ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/562
+#EXTINF:-1,PT : ID INVESTIGATION DISCOVERY ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/566
+#EXTINF:-1,PT : HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/570
+#EXTINF:-1,PT : HISTORIA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/41650
+#EXTINF:-1,PT : DISCOVERY CHANNEL ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/2520
+#EXTINF:-1,PT : ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/568
+#EXTINF:-1,PT : ODISSEIA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/567
+#EXTINF:-1,PT : TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1522
+#EXTINF:-1,PT : BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1515
+#EXTINF:-1,PT : PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1345
+#EXTINF:-1,PT : DISNEY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1344
+#EXTINF:-1,PT : DISNEY JUNIOR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1507
+#EXTINF:-1,PT : DISNEY +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63012
+#EXTINF:-1,PT : BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/590
+#EXTINF:-1,PT : JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/588
+#EXTINF:-1,PT : KURIAKOS KIDS ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/586
+#EXTINF:-1,PT : TOM E JERRY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/25416
+#EXTINF:-1,PT : WB KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64120
+#EXTINF:-1,PT : BOOBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64121
+#EXTINF:-1,PT : LUCAS NETO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64820
+#EXTINF:-1,PT : NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/581
+#EXTINF:-1,PT : NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/583
+#EXTINF:-1,PT : SIC K ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/585
+#EXTINF:-1,PT : PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1505
+#EXTINF:-1,PT : FOX KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63025
+#EXTINF:-1,PT : NETFLIX KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/63013
+#EXTINF:-1,PT : CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1509
+#EXTINF:-1,PT :  ALMA LUSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/74641
+#EXTINF:-1,PT : ICONCERTS STINGRAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/62930
+#EXTINF:-1,PT : KURIAKOS MUSIC ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/553
+#EXTINF:-1,PT : MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/557
+#EXTINF:-1,PT : MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/559
+#EXTINF:-1,PT : MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/556
+#EXTINF:-1,PT : TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/555
+#EXTINF:-1,PT : TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/554
+#EXTINF:-1,PT : MTV 00S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/558
+#EXTINF:-1,PT : RIR ATE CAIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64126
+#EXTINF:-1,PT : APANHADOS JOAO KLEBER SHOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64125
+#EXTINF:-1,PT : STAND UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64124
+#EXTINF:-1,PT : FOLCLORE-DESGARRADAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/64123
+#EXTINF:-1,PT : GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/731
+#EXTINF:-1,PT : GLOBO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/732
+#EXTINF:-1,PT : GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/728
+#EXTINF:-1,PT : TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/725
+#EXTINF:-1,PT : RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/65671
+#EXTINF:-1,PT : LOCALVISAO ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/748
+#EXTINF:-1,PT : CASA E COZINHA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/37362
+#EXTINF:-1,PT : 24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/576
+#EXTINF:-1,PT : MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/580
+#EXTINF:-1,PT : THE FOOD NETWORK ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/578
+#EXTINF:-1,PT : ZAP VIVA ᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/741
+#EXTINF:-1,PT : 1+1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/749
+#EXTINF:-1,PT : 180
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/750
+#EXTINF:-1,PT : DOG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/26371
+#EXTINF:-1,PT : EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/756
+#EXTINF:-1,PT : CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1510
+#EXTINF:-1,PT : CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1511
+#EXTINF:-1,PT : CBS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1512
+#EXTINF:-1,PT : BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1516
+#EXTINF:-1,PT : BBC ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1517
+#EXTINF:-1,PT : CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1518
+#EXTINF:-1,PT : BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1514
+#EXTINF:-1,PT : TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1520
+#EXTINF:-1,PT : TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1521
+#EXTINF:-1,PT : TPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1523
+#EXTINF:-1,PT : TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1524
+#EXTINF:-1,PT : TCV INTERNACIONAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1525
+#EXTINF:-1,PT : CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/1526
+#EXTINF:-1,PT : FATIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://sp.tonivip.xyz:443/Carlosfelix/2uhcykJELnNc/4384

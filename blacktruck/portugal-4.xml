@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
+#EXTM3U
+
+#EXTM3U
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/kJtQZOT.png",SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/7
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/kJtQZOT.png",SIC ᶠᴴᴰ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/9
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124015
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124016
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124017
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124018
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124019
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/aZP2nIU.png",GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/175
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/aZP2nIU.png",GLOBO PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/176
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.atelevisao.com/wp-content/uploads/2020/02/globo-now.jpg",GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/177
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/2gCvBdw.png",MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/167
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/h7zVseY.png",24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/171
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i2.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD.jpg?resize=800%2C450&ssl=1",Casa E Cozinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/120061
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.tvpassport.com/image/station/240x135/stingray-iconcerts.png",iCONCERTs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124315
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.postimg.cc/SRwB6dxd/Screenshot-2020-11-23-20-19-39-822.jpg",SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/45
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png",PT: Sport TV 3 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128151
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/48
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3 HD REC.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/49
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/50
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png",PT: Sport TV 4 [low]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128152
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/h9VDKdK.png",SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/51
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://2.bp.blogspot.com/-igOxk6_FHZM/WDrqBF6g_xI/AAAAAAAAFaw/i_UpPMOxRqEx05kAlFJ98g2S20rEqc7GACLcB/s1600/BTV%2BHD.png",PT: BTV 4k [hevc]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128134
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/5YdkMBB.png",SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/77
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/4DzM6Dw.png",PT: A BOLA TV [hevc]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128113
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/fcE0eth.png",SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/82
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/fcE0eth.png",PT: SPORT TV NBA [hevc]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128118
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.pinimg.com/originals/34/bb/f7/34bbf762319412d2c8a0759fa7417adc.png",WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/83
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/1kpnKQ7.png",KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/88
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cS5bZEa.png",FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/123
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/apSexu7.png",FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/apSexu7.png",FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/125
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/ZLpNJi8.png",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/129
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/ZLpNJi8.png",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/130
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/131
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/132
+#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/133
