@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow][COLOR lime]»»Flashbrasil[COLOR  yellow] JAGUARIBE WEB RÁDIO - RECIFE/PE [/COLOR][COLOR yellow] WEB FM CREDITOS FREEDDONS [/COLOR]</title>
+<link>http://stream.zeno.fm/6cvqc50b568uv</link>
+<info></info>
+<thumbnail>https://ia601403.us.archive.org/34/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Rádio Liberal FM (Belem)Disco [/I][/B][/COLOR]</title>
+<link>http://177.105.192.70:9750/stream/1/</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]Rádio Jovem Pan (JP Hits)Disco [/I][/B][/COLOR]</title>
+<link>http://6d9a.webradio.upx.net.br:9023/stream</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]99 FM (Belem)Disco [/I][/B][/COLOR]</title>
+<link>https://player-ssl.kshost.com.br:8862/stream/1/</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]Só Kakarecos DiscoDisco  [/I][/B][/COLOR]</title>
+<link>http://sokakarecos.ddns.net:9000/disco128;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]Só Kakarecos LightDisco [/I][/B][/COLOR]</title>
+<link>http://sokakarecos.ddns.net:9005/light128/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Só Kakarecos Classic RockDisco[/I][/B][/COLOR]</title>
+<link>sokakarecos.ddns.net:9030/rock128</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]Rádio Antena 1 (São Paulo)Disco [/I][/B][/COLOR]</title>
+<link>https://www.antena1.com.br/stream/stream/2;?type=mpeg</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Rádio Diário FM (Belem)Disco [/I][/B][/COLOR]</title>
+<link>https://player-ssl.kshost.com.br:8856/stream/1/</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] A Rádio Rock (Sao Paulo)Disco[/I][/B][/COLOR]</title>
+<link>https://ice.fabricahost.com.br/89aradiorocksp</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] RÁDIO MPBDisco [/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:8775/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]RÁDIO ANOS 2000Disco [/I][/B][/COLOR]</title>
+<link>http://177.124.130.10:9940/stream</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]RÁDIO FUNKDisco [/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:9089/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR]  RÁDIO ELETRÔNICADisco [/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:8962/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] RÁDIO ANOS 90Disco[/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:8056/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] RÁDIO ANOS 80Disco[/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:8697/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] RÁDIO ANOS 70Disco [/I][/B][/COLOR]</title>
+<link>http://192.99.150.31:8241/;</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Radio Cultura 90.7 FM [/I][/B][/COLOR]</title>
+<link>http://wz5.dnip.com.br/cultmthd/cultmthd.stream/chunklist_w608184594.m3u8</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Centro America FM Hits - 103.1 FM [/I][/B][/COLOR]</title>
+<link>https://centova.svdns.com.br:20113/stream?eamp;type=.mp3</link>
+<info><thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Jovem Pan FM - 100.9 FM [/I][/B][/COLOR]</title>
+<link>https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac</link>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Transamerica - 100.1 FM [/I][/B][/COLOR]</title>
+<link>http://transamerica.crossradio.com.br:9100/1</link>
+<info><thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR yellow][I][B][COLOR lime]»»Flashbrasil[/COLOR] Atlantida FM[/I][/B][/COLOR]</title>
+<link>http://202747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_cxs.sdp/playlist.m3u8</link>
+<info></info>
+<thumbnail>https://i.imgur.com/vxbQZKI.jpg</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
+ 

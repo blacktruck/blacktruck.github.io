@@ -1,0 +1,18 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<channels>
+<channel>
+<name>[COLOR yellow][B][COLOR lime]»»Flashbrasil[/COLOR] Infantil[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/mWf3MVL.jpg</thumbnail>
+<externallink>TLZIWUNNNZ4KWWFNMTZ6SZVMND3SGTBGSJJCGSFMSD54WS5FJ34CGZJMI34CGWZMO33IGSFMPZYGGXUMDLYAXZROBTLCGZ5MFT3CGUNMFD3MWX4F2B4IH2BN</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx<channels>
+<channel>
+<name>[COLOR yellow][B][COLOR lime]»»Flashbrasil[/COLOR] YouTube Kids[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/z8rIXim.jpg</thumbnail>
+<externallink>UD6IHXMGQRMKSCJIVCVKVMBGSJJSUJFISSQQUJFIMSRGVCRIJ2S6SZVMND3SGTBGSJJCGSFMSD54WS5FJ34CGZJMI34CGWZMO33IGSFMPZYGGXUMDLYAXZROBTLCGZ5MFT3CGUNMFD3MWX4F2B4IH2BN</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<info></info>
+</channel>
+</channels>

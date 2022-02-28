@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 1 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/brasil-1.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 2 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/brasil-2.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 3 f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/brasil-3.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 4 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/brasil-5matrix.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 5 [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/brasil-web.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+
+</item>
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR]  Brasil TV 6[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/ALTENATORIOS-BRASIL.xml</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>VLC/3.0.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR] BRASIL CANAL RICOS[/COLOR]</title>
+<link> http: // ignora </link>
+<thumbnail>https://i.imgur.com/uTnuvIc.png</thumbnail>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+<externallink>http://flechanegra.atspace.cc/addon--espadanegra/canal-do.rico.txt</externallink>
+</item>
+ 
+
+
+<item>
+<title>[COLOR yellow]flashbrasil[COLOR lime]»»[/COLOR] BRASIL CREDITOS AU PLUTO  TV 7[/COLOR]</title>
+<thumbnail>https://i.imgur.com/a329OII.jpg</thumbnail>
+<link>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/pluto-tv.xml</link>
+<externallink>http://flechanegra.atspace.cc/addonflashbrasi/entrada%20tv/pluto-tv.xml</externallink>
+<fanart>https://i.imgur.com/C9KxmjF.jpg</fanart>
+</item>
