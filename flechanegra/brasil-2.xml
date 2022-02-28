@@ -1,0 +1,686 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="plugin://plugin.video.f4mTester/?name=[COLOR red][B]@by_flecha_negra[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====BRASIL=====[/B][/COLOR]
+#EXTM3U
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62650
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62651
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/ae.png",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62652
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png",Al Jazeera Arabic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62653
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png",Al Jazeera English HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62654
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62655
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62656
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/amc.png",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62657
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62658
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62659
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62660
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/arte1.png",Arte 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62662
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62668
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62669
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/axn.png",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62670
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/babytv.png",Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62671
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/band.png",Band
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62673
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/band.png",Band HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62674
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/bandnews.png",Band News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62675
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/bandnews.png",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62676
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/bandsports.png",Band Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62677
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/bandsports.png",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62678
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg",BBB 22 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71942
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg",BBB 22 HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72007
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg",BBB Câmera 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72009
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg",BBB Câmera 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72010
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg",BBB Câmera 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72014
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg",BBB Câmera 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72016
+#EXTINF:-1 group-title="BBB22" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg",BBB MOSAICO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72008
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/boomerang.png",Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62693
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/1/19/CopaNordeste2017.png/150px-CopaNordeste2017.png",Campeonato do Nordeste 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72352
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/canalbrasil.png",Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62699
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sony.png",Canal Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62700
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sony.png",Canal Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62701
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/commons/2/24/Canale_7.png",Canale 7 Itália
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62702
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png",Canção Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62703
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cancaonova.png",Canção Nova FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62704
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cn.png",Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62705
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cn.png",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62706
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/CGTN.png",CGTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62708
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71618
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Faroeste
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71619
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Ficção
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71620
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Infantil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71621
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Policial
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71622
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/711b1f8b9a30ceff12f0e72268a2b765.png",Cine Sky Terror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71624
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cinemax.png",Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62710
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cinemax.png",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62711
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/cinemax.png",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62712
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN Brasil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62713
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62714
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/logo-0457804d41d68a5c1c3de124ff229c35.png",CNN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62715
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/cnni.png",CNN International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62716
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/combate.png",Combate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62717
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/combate.png",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62718
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/combate.png",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62719
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/41NS1I5HffL.png",Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62720
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cultura.uol.com.br/_img/tvcultura/header/logotipo-tvcultura-desktop-orange.png",Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71625
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62736
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/discoverychannel.png",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62737
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png",Discovery H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62738
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png",Discovery H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62739
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryhh.png",Discovery H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62740
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png",Discovery Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62741
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoverykids.png",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62742
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62743
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryscience.png",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62744
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png",Discovery Theather
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62745
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png",Discovery Theather FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62746
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoverytheater.png",Discovery Theather HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62747
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png",Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62748
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62749
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/discoveryturbo.png",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62750
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62751
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/discoveryworld.png",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62752
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/disney.png",Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62753
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/disney.png",Disney HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62754
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/disneyjunior.png",Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62755
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/disneyjunior.png",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62756
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/disneyxd.png",Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62757
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/dwlogo-print.gif",DW (Deutsch+)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62763
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/1273_1.png",E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62764
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ipbr.tv/img/stream/estadiotnt.png",Estádio TNT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71750
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/fishtv.png",Fish TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62779
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/fishtv.png",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62780
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png",Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62783
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62784
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foodnetwork.png",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62785
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/fox.png",FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62786
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxlife.png",Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62788
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxlife.png",Fox Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62789
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxlife.png",Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62790
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxsports.png",Fox Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62795
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxsports2.png",Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62796
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxsports2hd.png",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62797
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxsportshd.png",Fox Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62798
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/foxsportshd.png",Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62799
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/futura.png",Futura HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62803
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62804
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62805
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/0049824.png",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62806
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rede_am.png",Globo Amazônica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62811
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rede_am.png",Globo Amazônica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72196
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg",Globo Bahia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62812
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg",Globo Bahia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72197
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg",Globo Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62813
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg",Globo Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72198
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globodf.png",Globo Brasília
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62814
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globodf.png",Globo Brasília
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72199
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globodf.png",Globo Brasília FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72200
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globodf.png",Globo Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62815
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globodf.png",Globo Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72201
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png",Globo Centro América Cuaibá HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72202
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvcentroamerica.png",Globo Cuaibá
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62816
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62817
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV Campinas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72203
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62818
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png",Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72204
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62819
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV Ribeirão Preto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72205
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/b/bb/Logotipo_da_TV_Globo_Minas.png",Globo EPTV Sul de Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72206
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png",Globo EPTV Sul de Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72207
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62820
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/eptv.png",Globo EPTV São Carlos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72208
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png",Globo Gazeta Alagoas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72209
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png",Globo Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62821
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvgazetaalagoas.png",Globo Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72210
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/image.png",Globo Goiânia - TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62822
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/image.png",Globo Goiânia - TV Anhanguera HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72211
+#EXTINF:-1 group-title="GLOBOS",Globo Inter TV Cabugi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72212
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_InterTV.png",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62823
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_InterTV.png",Globo Inter TV Cabugi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72213
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_InterTV.png/200px-Logotipo_da_InterTV.png",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72214
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png",Globo Minas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72217
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png",Globo Minas FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72218
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Globo_Minas.png",Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72219
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/b0f72a7ad15faadb654950e47af467ee.png",Globo News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72220
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globonews.png",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62828
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/b0f72a7ad15faadb654950e47af467ee.png",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72221
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/globone.png",Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62831
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Blumenau FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72225
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72226
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Chapecó FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72227
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Criciúma FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72228
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Floripa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72230
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC Joinville FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72231
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nsctv.png",Globo NSC TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62832
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62833
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62834
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/rbs.png",Globo RBS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72234
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/rbs.png",Globo RBS TV FHD alt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72235
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62835
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/rbs.png",Globo RBS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72236
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72237
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72238
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rbs.png",Globo RBS TV Santa Maria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72239
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/globone.png",GLOBO Recife FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72240
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globorj.png",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62836
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globorj.png",Globo RJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72241
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globorj.png",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62838
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globorj.png",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72243
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/globorj.png",Globo RJ Interior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72244
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rpc.png",Globo RPC Curitiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62839
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/rpc.png",Globo RPC Curitiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72245
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rpc.png",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62840
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/rpc.png",Globo RPC Curitiba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72246
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/rpc.png",Globo RPC Foz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72247
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/rpc.png",Globo RPC Maringá HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72248
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/rpc.png",Globo RPC Paranavaí HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72249
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globosp.png",Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62841
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globosp.png",Globo SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72250
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globosp.png",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62842
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globosp.png",Globo SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72251
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/globosp.png",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62843
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/globo.png",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72252
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/a/a4/Logotipo_TV_Sudoeste_%28Vit%C3%B3ria_da_Conquista%29.png/200px-Logotipo_TV_Sudoeste_%28Vit%C3%B3ria_da_Conquista%29.png",Globo Sudoeste Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72253
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.mitvstatic.com/channels/br_tv-asa-branca-hd_m.png",Globo TV Asa Branca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72254
+#EXTINF:-1 group-title="GLOBOS",Globo TV Bahia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72255
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.mitvstatic.com/channels/br_tv-cabo-branco_m.png",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72256
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/TV_Cabo_Branco.jpg/200px-TV_Cabo_Branco.jpg",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72257
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.mitvstatic.com/channels/br_tv-liberal_m.png",Globo TV Liberal Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72260
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png",Globo TV Mirante
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72261
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png",Globo TV Mirante FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72262
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/pt/7/7e/TV_Mirante.png",Globo TV Mirante HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72263
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png",Globo TV Morena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62844
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/tvmorena.png",Globo TV Morena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72264
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62845
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/tvmorena.png",Globo TV Morena FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72265
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/200px-Logotipo_da_TV_Morena.png",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62846
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/600/tvmorena.png",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72266
+#EXTINF:-1 group-title="GLOBOS",Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72267
+#EXTINF:-1 group-title="GLOBOS",Globo TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72268
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62847
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem Bauru HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72269
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem SJRP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62848
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem SJRP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72271
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem Sorocaba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72272
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62849
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvtem.png",Globo TV Tem Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72273
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png",Globo TV Tribuna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62850
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png",Globo TV Tribuna HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62851
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png",Globo TV Tribuna Santos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72275
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvtribunaglobo.png",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72276
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png",Globo TV Vanguarda SJC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62852
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/150/tvvanguarda.png",Globo TV Vanguarda SJC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72277
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png",Globo Verde Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62853
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png",Globo Verdes Mares Fortaleza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72279
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png",Globo Verdes Mares Fortaleza FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72280
+#EXTINF:-1 group-title="GLOBOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/tvverdesmares.png",Globo Verdes Mares Fortaleza HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/72281
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/gloob.png",Gloob
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62855
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/gloob.png",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62856
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/gnt.png",GNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62857
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/gnt.png",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62858
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/gnt.png",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62859
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hbo.png",HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62861
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62862
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62863
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://skytvplanos.com.br/img/channels/lg-72-canal-hbo-2.png",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62864
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62865
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62866
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hbofamily.png",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62867
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/120px-HBOMundi.png",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62872
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png",HBO Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62873
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/HBOPOP.png",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62874
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/hbosignature.png",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62875
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/hbosignature.png",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62876
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO Xtreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62877
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62878
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/120px-HBOXtreme.png",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62879
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62880
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62881
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/hboplus.png",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62882
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62883
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/history.png",History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62884
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/h2.png",History 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62885
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/h2.png",History 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62886
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/history.png",History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62887
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/id.png",ID - Investigação Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62890
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/id.png",ID - Investigação Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62891
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/600/jovempan.png",Jovem Pan News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71614
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/lifetime.png",Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62894
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/maisglobosat.png",Mais na Tela
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62897
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/maisglobosat.png",Mais na Tela HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62898
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/megapix.png",Megapix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62899
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/megapix.png",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62900
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/megapix.png",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62901
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62905
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/mtv-logo-300x150.png",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62906
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/multishow.png",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62908
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/natgeokids.png",Natgeo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62910
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png",NatGeo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62911
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png",NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62912
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/natgeo.png",National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62913
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/NHK-Logo-620x360.png",NHK Japan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62915
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nickjr.png",Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62916
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nickjr.png",Nick Jr. HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62917
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png",Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62918
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/nickelodeon.png",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62919
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg",OFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62921
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/zmGfFOtn_400x400.jpg",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62922
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/paramount.png",Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62928
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/paramount.png",Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62929
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62939
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62940
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62941
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62942
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62943
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62944
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62945
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62946
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62947
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62948
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62949
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62950
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere Clubes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62951
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62952
+#EXTINF:-1 group-title="PREMIERES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/premiere.png",Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62953
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62954
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/recorddf.png",Record Belém HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62955
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record Brasília HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62956
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record Goiás HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62957
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record Itapoan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62958
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62959
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/recordmg.png",Record Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62960
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/recordnews.png",Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62961
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/recordrj.png",Record Rio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62963
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/record.png",Record RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62964
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.tvmagazine.com.br/imagens/icones/64/recordsp.png",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62965
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/icon-2.png",Redbull TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62966
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/a0d63881986e2d53734fb0660594b420.png",Rede Vida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62967
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/redetv.png",RedeTV! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62968
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/rit.jpg",RIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62970
+#EXTINF:-1 group-title="CANAIS PORTUGUESES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/4f94d68d72e6ebce144a16dff9e107d2.jpg",RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71637
+#EXTINF:-1 group-title="CANAIS PORTUGUESES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/images/4f94d68d72e6ebce144a16dff9e107d2.jpg",RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71638
+#EXTINF:-1 group-title="CANAIS PORTUGUESES",RTP Africa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71639
+#EXTINF:-1 group-title="CANAIS PORTUGUESES",RTP Açores HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71640
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sbt.png",SBT RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62972
+#EXTINF:-1 group-title="CANAIS REGIONAIS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sbt.png",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62973
+#EXTINF:-1 group-title="CANAIS PORTUGUESES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/SICinternacional.jpg/300px-SICinternacional.jpg",SIC Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71635
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/space.png",Space
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62978
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/space.png",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62979
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/space.png",Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62980
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SporTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62981
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62982
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SporTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62983
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv2.png",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62984
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv3.png",SporTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62985
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv3.png",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62986
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SporTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62987
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/sportv.png",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62988
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_de_Star%2B_Star_Plus.jpg",Star+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/71758
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.mitvstatic.com/channels/br_studio-universal-hd_m.png",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62989
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/syfy.png",SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62990
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/syfy.png",SyFy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62991
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tbs.png",TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62992
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tbs.png",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62993
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tcm.png",TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62994
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.lojapremio.com.br/media/grade-de-canais/447.jpg",Telecine Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62995
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/64/tcaction.png",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62996
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.lojapremio.com.br/media/grade-de-canais/447.jpg",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62997
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp",Telecine Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62998
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/62999
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.lojapremio.com.br/media/grade-de-canais/x509.jpg.pagespeed.ic.TEzvTgzBmt.webp",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63000
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmagazine.com.br/imagens/icones/64/tcfun.png",Telecine Fun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63001
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tlc.png",TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63016
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tlc.png",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63017
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tlc.png",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63018
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63019
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63020
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63021
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tnt.png",TNT HD alt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63022
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tntseries.png",TNT Séries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63023
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/tntseries.png",TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63024
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png",Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63042
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63043
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/warner.png",Warner Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63044
+#EXTINF:-1 group-title="FILMES & SÉRIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/warner.png",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63045
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/woohoo.png",Woohoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63046
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/woohoo.png",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63047
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://netflix.akamaihd.org/logos_pub/ch/logo.png",ZooMoo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://asbx.xyz:80/celia/123456/63053

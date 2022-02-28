@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="PRIMEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====PRIMEIROS-LINKS SPORT TV=====[/B][/COLOR]
+https://
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+https://hcaruzwntngyminy.wzcdn264.net:8443/hls/walxjawfo5x.m3u8?s=d2BSXn0cfMqJmHbVbXhMPA&e=1644865353#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="SEGUNDO-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====SEGUNDOS-LINKS SPORT TV=====[/B][/COLOR]
+https://
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="TERCEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====-TERCEIROS LINKS SPORT TV=====[/B][/COLOR]
+https://
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUARTOS-LINKS Eleven_Sports" tvg-logo="" ,[B][COLOR lime]=====-QUARTOS LINKS Eleven_Sports=====[/B][/COLOR]
+https://
+EXTINF:0 tvg-logo="https://jornaleconomico.sapo.pt/wp-content/uploads/2018/08/leitor_5b6d3e15dfa58_ELEVEN-SPORTS-logo1.png" group-title="eleven_sports_1",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8?mvk
+#EXTINF:0 tvg-logo="https://jornaleconomico.sapo.pt/wp-content/uploads/2018/08/leitor_5b6d3e15dfa58_ELEVEN-SPORTS-logo1.png" group-title="eleven_sports_2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8?per
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUINTOS-LINKS Benfica_TV" tvg-logo="" ,[B][COLOR lime]=====-QUINTOS LINKS Benfica_TV=====[/B][/COLOR]
+https://
+#EXTINF:0 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv-1200x1200.png" group-title="Benfica_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://cdn3.cyclingnews.live/hls/W2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="SEIXTO-LINKS Sporting_TV" tvg-logo="" ,[B][COLOR lime]=====-SEIXTO LINKS Sporting_TV=====[/B][/COLOR]
+https://
+#EXTINF:0 tvg-logo="https://www.musica-portuguesa.com/wp-content/uploads/2016/11/video-hino-sporting.jpg" group-title="Sporting_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://213.13.23.134/shls/LIVE%24Sporting_TV.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END

@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
+#EXTM3U
+#EXTM3U
+
+
+#EXTM3U
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57310
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57311
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57321
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC NOTICIAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57325
+#EXTINF:-1 group-title="PORTUGAL",PT: Trace TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57340
+#EXTINF:-1 group-title="PORTUGAL",PT: TV GLOBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57344
+#EXTINF:-1 group-title="PORTUGAL",PT: TVCine Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57353
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57356
+#EXTINF:-1 group-title="PORTUGAL",PT: 24 Kitchen FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96142
+#EXTINF:-1 group-title="PORTUGAL",PT: A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96144
+#EXTINF:-1 group-title="PORTUGAL",PT: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96148
+#EXTINF:-1 group-title="PORTUGAL",PT: AR TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96149
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96151
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96152
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN White FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96153
+#EXTINF:-1 group-title="PORTUGAL",PT: BABY TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96155
+#EXTINF:-1 group-title="PORTUGAL",PT: BBC ENTERTAINMENT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96157
+#EXTINF:-1 group-title="PORTUGAL",PT: BBC World News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96158
+#EXTINF:-1 group-title="PORTUGAL",PT: Biggs TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96162
+#EXTINF:-1 group-title="PORTUGAL",PT: Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96163
+#EXTINF:-1 group-title="PORTUGAL",PT: Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96164
+#EXTINF:-1 group-title="PORTUGAL",PT: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96165
+#EXTINF:-1 group-title="PORTUGAL",PT: BTV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96166
+#EXTINF:-1 group-title="PORTUGAL",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96174
+#EXTINF:-1 group-title="PORTUGAL",PT: Canal de Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96177
+#EXTINF:-1 group-title="PORTUGAL",PT: Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96184
+#EXTINF:-1 group-title="PORTUGAL",PT: CANAL Q FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96185
+#EXTINF:-1 group-title="PORTUGAL",PT: Cancao Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96186
+#EXTINF:-1 group-title="PORTUGAL",PT: CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96188
+#EXTINF:-1 group-title="PORTUGAL",PT CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96189
+#EXTINF:-1 group-title="PORTUGAL",PT: Casa e Cozinha HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96190
+#EXTINF:-1 group-title="PORTUGAL",PT: CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96191
+#EXTINF:-1 group-title="PORTUGAL",PT: Caza e Pesca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96193
+#EXTINF:-1 group-title="PORTUGAL",PT: CBS REALITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96195
+#EXTINF:-1 group-title="PORTUGAL",PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96197
+#EXTINF:-1 group-title="PORTUGAL",PT: Clubbing TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96198
+#EXTINF:-1 group-title="PORTUGAL",PT: CM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96199
+#EXTINF:-1 group-title="PORTUGAL",PT: CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96200
+#EXTINF:-1 group-title="PORTUGAL",PT: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96201
+#EXTINF:-1 group-title="PORTUGAL",PT: Crime+ Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96203
+#EXTINF:-1 group-title="PORTUGAL",PT: Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96206
+#EXTINF:-1 group-title="PORTUGAL",PT: Discovery Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96208
+#EXTINF:-1 group-title="PORTUGAL",PT: Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96210
+#EXTINF:-1 group-title="PORTUGAL",PT: Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96212
+#EXTINF:-1 group-title="PORTUGAL",PT Disney JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96213
+#EXTINF:-1 group-title="PORTUGAL",PT: DOG FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96214
+#EXTINF:-1 group-title="PORTUGAL",PT: E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96215
+#EXTINF:-1 group-title="PORTUGAL",PT E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96216
+#EXTINF:-1 group-title="PORTUGAL",PT: EURO CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96229
+#EXTINF:-1 group-title="PORTUGAL",PT: euronews FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96231
+#EXTINF:-1 group-title="PORTUGAL",PT: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96233
+#EXTINF:-1 group-title="PORTUGAL",PT: EUROSPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96235
+#EXTINF:-1 group-title="PORTUGAL",PT: FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96242
+#EXTINF:-1 group-title="PORTUGAL",PT: Fight Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96243
+#EXTINF:-1 group-title="PORTUGAL",PT: FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96247
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96248
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Crime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96249
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96250
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96252
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96255
+#EXTINF:-1 group-title="PORTUGAL",PT: France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96258
+#EXTINF:-1 group-title="PORTUGAL",PT: FUEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96259
+#EXTINF:-1 group-title="PORTUGAL",PT: Galicia TV Europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96261
+#EXTINF:-1 group-title="PORTUGAL",PT: History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96264
+#EXTINF:-1 group-title="PORTUGAL",PT: Hollywood FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96266
+#EXTINF:-1 group-title="PORTUGAL",PT: Investigation Discovery FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96267
+#EXTINF:-1 group-title="PORTUGAL",PT: JimJam FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96271
+#EXTINF:-1 group-title="PORTUGAL",PT: Kuriakos TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96277
+#EXTINF:-1 group-title="PORTUGAL",PT: MCM Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96280
+#EXTINF:-1 group-title="PORTUGAL",PT: MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96282
+#EXTINF:-1 group-title="PORTUGAL",PT: Motorsport.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96288
+#EXTINF:-1 group-title="PORTUGAL",PT: MOTORVISION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96290
+#EXTINF:-1 group-title="PORTUGAL",PT: MTV Portugal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96295
+#EXTINF:-1 group-title="PORTUGAL",PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96298
+#EXTINF:-1 group-title="PORTUGAL",PT: NAT GEO Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96300
+#EXTINF:-1 group-title="PORTUGAL",PT: NHK World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96304
+#EXTINF:-1 group-title="PORTUGAL",PT: Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96305
+#EXTINF:-1 group-title="PORTUGAL",PT: nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96307
+#EXTINF:-1 group-title="PORTUGAL",PT: Nicklelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96309
+#EXTINF:-1 group-title="PORTUGAL",PT: NOS STUDIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96311
+#EXTINF:-1 group-title="PORTUGAL",PT: ODISSEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96312
+#EXTINF:-1 group-title="PORTUGAL",PT: ODISSEIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96313
+#EXTINF:-1 group-title="PORTUGAL",PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96314
+#EXTINF:-1 group-title="PORTUGAL",PT: PANDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96316
+#EXTINF:-1 group-title="PORTUGAL",PT: PFC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96318
+#EXTINF:-1 group-title="PORTUGAL",PT: PORTO CANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96321
+#EXTINF:-1 group-title="PORTUGAL",PT: Record News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96324
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96329
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96330
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96331
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP ACORES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96332
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96333
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96335
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC K HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96344
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96346
+#EXTINF:-1 group-title="PORTUGAL",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96348
+#EXTINF:-1 group-title="PORTUGAL",PT: Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96349
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96350
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96358
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96360
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96363
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96364
+#EXTINF:-1 group-title="PORTUGAL",PT SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96367
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96368
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96372
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORTING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96386
+#EXTINF:-1 group-title="PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96387
+#EXTINF:-1 group-title="PORTUGAL",PT: TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96390
+#EXTINF:-1 group-title="PORTUGAL",PT: TOROS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96392
+#EXTINF:-1 group-title="PORTUGAL",PT: TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96395
+#EXTINF:-1 group-title="PORTUGAL",PT: Trace TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96396
+#EXTINF:-1 group-title="PORTUGAL",PT: Travel Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96399
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96407
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Cine 1 Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96408
+#EXTINF:-1 group-title="PORTUGAL",PT: GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96411
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Record FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96414
+#EXTINF:-1 group-title="PORTUGAL",PT: TV Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96415
+#EXTINF:-1 group-title="PORTUGAL",PT: TVC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96420
+#EXTINF:-1 group-title="PORTUGAL",PT: TVCine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96422
+#EXTINF:-1 group-title="PORTUGAL",PT: TV CINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96424
+#EXTINF:-1 group-title="PORTUGAL",PT: TVCINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96426
+#EXTINF:-1 group-title="PORTUGAL",PT: TV CINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96427
+#EXTINF:-1 group-title="PORTUGAL",PT: TVCine Top FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96428
+#EXTINF:-1 group-title="PORTUGAL",PT: TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96430
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96431
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI FICCAO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96433
+#EXTINF:-1 group-title="PORTUGAL",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96438
+#EXTINF:-1 group-title="PORTUGAL",PT: VH1 CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96439
+#EXTINF:-1 group-title="PORTUGAL",PT: ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96447
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96354
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT.TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96355
+#EXTINF:-1 group-title="PORTUGAL",PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/96356
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222454
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222453
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222452
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222451
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222450
+#EXTINF:-1 group-title="PORTUGAL",PT: ELEVEN SPORTS 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/222449
+#EXTINF:-1 group-title="PORTUGAL",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/180354
+#EXTINF:-1 group-title="PORTUGAL",PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57230
+#EXTINF:-1 group-title="PORTUGAL",PT: AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57232
+#EXTINF:-1 group-title="PORTUGAL",PT: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57237
+#EXTINF:-1 group-title="PORTUGAL",PT: BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57238
+#EXTINF:-1 group-title="PORTUGAL",PT: FOX News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57280
+#EXTINF:-1 group-title="PORTUGAL",PT: Globo NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57285
+#EXTINF:-1 group-title="PORTUGAL",PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/57294
