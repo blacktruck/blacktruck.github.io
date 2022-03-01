@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CANAL RICOS" tvg-name="CANAL RICOS" tvg-logo="https://lirp.cdn-website.com/18121d94/dms3rep/multi/opt/LOGO+CANAL+RICOS+SEM+FUNDO-1920w.png" group-title="CANAL RICOS",CANAL RICOS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&amp;url=https://5d2c98775bafe.streamlock.net/8090/8090/playlist.m3u8
