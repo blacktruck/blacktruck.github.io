@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR white] | [B]FILMES[/COLOR] [COLOR red]NETFLIX[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/JrGkFKw/FILMES-NET.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/FILMES-NETFLIX.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/FILMES-NETFLIX.xml</externallink>
 <fanart>https://logospng.org/wp-content/uploads/netflix.jpg</fanart>
 <info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[B][COLOR white] | SERIES[/COLOR] [COLOR red]NETFLIX[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/8sR21KF/SERIES-NET.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/SERIES-NETFLIX.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/SERIES-NETFLIX.xml</externallink>
 <fanart>https://logospng.org/wp-content/uploads/netflix.jpg</fanart>
 <info>
 </channel>
