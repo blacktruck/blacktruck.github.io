@@ -4,7 +4,7 @@
 <channel>
 <name>[B][COLOR white] | [B]FILMES[/COLOR] [COLOR orange]GLOBO PLAY[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/9rwVxZ2/GLOBOPLAY.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/FILMES-GLOBOPLAY.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/FILMES-GLOBOPLAY.xml</externallink>
 <fanart>https://i2.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/07/21162400/maxresdefault2.jpg</fanart>
 <info>
 </channel>
@@ -16,7 +16,7 @@
 <channel>
 <name>[B][COLOR white] | SERIES[/COLOR] [COLOR orange]GLOBO PLAY[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/88FT86s/GLO-PLAY.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/SERIES-GLOBOPLAY.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/SERIES-GLOBOPLAY.xml</externallink>
 <fanart>https://observatoriodeseries.uol.com.br/wp-content/uploads/2020/03/Novo-Projeto-2020-03-30T190242.657.jpg</fanart>
 <info>
 </channel>
