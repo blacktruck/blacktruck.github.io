@@ -3,7 +3,7 @@
 <channel>
 <name>[B][COLOR white] | [B]FILMES[/COLOR] [COLOR blue]AMAZON[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/2Pkwf3F/FILMES-AMAZON.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/FILMES%20AMAZON.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/FILMES%20AMAZON.xml</externallink>
 <fanart>https://cdn.andro4all.com/files/2021/01/prime-video-plan-barato.jpg</fanart>
 <info>
 </channel>
@@ -16,7 +16,7 @@
 <channel>
 <name>[B][COLOR white] | SERIES[/COLOR] [COLOR blue]AMAZON[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/wLZTMZ7/SERIESAMAZON.png</thumbnail>
-<externallink>http://flechanegra.atspace.cc/ADDON-FERACANAIS/SERIES%20AMAZON.xml</externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/ADDON-FERACANAIS/SERIES%20AMAZON.xml</externallink>
 <fanart>https://cdn.andro4all.com/files/2021/01/prime-video-plan-barato.jpg</fanart>
 <info>
 </channel>
