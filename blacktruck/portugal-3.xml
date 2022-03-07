@@ -1,77 +1,518 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
-
 #EXTM3U
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/kJtQZOT.png",SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/7
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/kJtQZOT.png",SIC ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/9
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124015
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124016
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124017
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124018
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://upload.wikimedia.org/wikipedia/en/2/2b/BBAU2020Logo.jpg",TVI REALITY CAMARA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124019
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/aZP2nIU.png",GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/175
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/aZP2nIU.png",GLOBO PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/176
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://www.atelevisao.com/wp-content/uploads/2020/02/globo-now.jpg",GLOBO NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/177
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/2gCvBdw.png",MY CUISINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/167
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/h7zVseY.png",24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/171
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i2.wp.com/infocul.pt/wp-content/uploads/2020/04/CEC-LOGOHD.jpg?resize=800%2C450&ssl=1",Casa E Cozinha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/120061
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://cdn.tvpassport.com/image/station/240x135/stingray-iconcerts.png",iCONCERTs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124315
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.postimg.cc/SRwB6dxd/Screenshot-2020-11-23-20-19-39-822.jpg",SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/45
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://1.bp.blogspot.com/-IMuQcn3oBRA/WDrqIk5DU5I/AAAAAAAAFfs/1Nd9AYsn3YU0gBs9tNfMRGS6MUKK3kqlACLcB/s1600/Sport%2BTV%2B3.png",PT: Sport TV 3 [low]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128151
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/48
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3 HD REC.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/49
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cUwJfnp.png",SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/50
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://2.bp.blogspot.com/-Is2uknTYbGQ/WDrqJCFQ-cI/AAAAAAAAFf8/IU1yLJyyExMoSeEg0q07RpgjiPGT7xjCgCLcB/s1600/Sport%2BTV%2B4.png",PT: Sport TV 4 [low]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128152
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/h9VDKdK.png",SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/51
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://2.bp.blogspot.com/-igOxk6_FHZM/WDrqBF6g_xI/AAAAAAAAFaw/i_UpPMOxRqEx05kAlFJ98g2S20rEqc7GACLcB/s1600/BTV%2BHD.png",PT: BTV 4k [hevc]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128134
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/5YdkMBB.png",SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/77
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/4DzM6Dw.png",PT: A BOLA TV [hevc]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128113
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/fcE0eth.png",SPORT TV NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/82
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/fcE0eth.png",PT: SPORT TV NBA [hevc]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/128118
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.pinimg.com/originals/34/bb/f7/34bbf762319412d2c8a0759fa7417adc.png",WWE NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/83
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/1kpnKQ7.png",KOMBAT SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/88
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/cS5bZEa.png",FOX CRIME FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/123
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/apSexu7.png",FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/124
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/apSexu7.png",FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/125
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/ZLpNJi8.png",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/129
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/ZLpNJi8.png",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/130
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/131
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/132
-#EXTINF:-1 group-title="PORTUGAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://i.imgur.com/acsZV6f.png",AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://creativemove.xyz:8080/pedro2020/pedro2020/133
+#EXTINF:-1 ,PT: 24 KITCHEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56125
+#EXTINF:-1 ,PT | A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56126
+#EXTINF:-1 ,PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56127
+#EXTINF:-1 ,PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56128
+#EXTINF:-1 ,PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56129
+#EXTINF:-1 ,PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56130
+#EXTINF:-1 ,PT: AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56131
+#EXTINF:-1 ,PT | AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56133
+#EXTINF:-1 ,PT: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56135
+#EXTINF:-1 ,PT: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56139
+#EXTINF:-1 ,PT: BENFICA TV FHD (NOS)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56140
+#EXTINF:-1 ,PT: BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56142
+#EXTINF:-1 ,PT: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56144
+#EXTINF:-1 ,PT: CANÇAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56145
+#EXTINF:-1 ,PT: CAÇA PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56147
+#EXTINF:-1 ,PT: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56148
+#EXTINF:-1 ,PT: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56151
+#EXTINF:-1 ,PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56152
+#EXTINF:-1 ,PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56153
+#EXTINF:-1 ,PT: E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56155
+#EXTINF:-1 ,PT: ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56168
+#EXTINF:-1 ,PT: ELEVEN SPORTS 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56169
+#EXTINF:-1 ,PT: ELEVEN SPORTS 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56170
+#EXTINF:-1 ,PT: ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56171
+#EXTINF:-1 ,PT: ELEVEN SPORTS 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56172
+#EXTINF:-1 ,PT: Eurochannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56173
+#EXTINF:-1 ,PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56179
+#EXTINF:-1 ,PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56180
+#EXTINF:-1 ,PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56181
+#EXTINF:-1 ,PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56182
+#EXTINF:-1 ,PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56183
+#EXTINF:-1 ,PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56184
+#EXTINF:-1 ,PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56185
+#EXTINF:-1 ,PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56186
+#EXTINF:-1 ,PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56187
+#EXTINF:-1 ,PT: FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56188
+#EXTINF:-1 ,PT: Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56189
+#EXTINF:-1 ,PT: FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56190
+#EXTINF:-1 ,PT: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56191
+#EXTINF:-1 ,PT: Globo International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56192
+#EXTINF:-1 ,PT: Globo Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56193
+#EXTINF:-1 ,PT: GLOBO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56194
+#EXTINF:-1 ,PT: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56198
+#EXTINF:-1 ,PT: JimJam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56200
+#EXTINF:-1 ,PT: Kuriakos TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56202
+#EXTINF:-1 ,PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56203
+#EXTINF:-1 ,PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56204
+#EXTINF:-1 ,PT: MOTORVISION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56206
+#EXTINF:-1 ,PT: MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56208
+#EXTINF:-1 ,PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56211
+#EXTINF:-1 ,PT: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56212
+#EXTINF:-1 ,PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56213
+#EXTINF:-1 ,PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56224
+#EXTINF:-1 ,PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56225
+#EXTINF:-1 ,PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56226
+#EXTINF:-1 ,PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56227
+#EXTINF:-1 ,PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56228
+#EXTINF:-1 ,PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56229
+#EXTINF:-1 ,PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56230
+#EXTINF:-1 ,PT: RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56231
+#EXTINF:-1 ,PT: RTP International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56232
+#EXTINF:-1 ,PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56233
+#EXTINF:-1 ,PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56234
+#EXTINF:-1 ,PT: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56235
+#EXTINF:-1 ,PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56236
+#EXTINF:-1 ,PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56237
+#EXTINF:-1 ,PT: SIC KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56238
+#EXTINF:-1 ,PT: SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56239
+#EXTINF:-1 ,PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56240
+#EXTINF:-1 ,PT: SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56241
+#EXTINF:-1 ,PT: SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56242
+#EXTINF:-1 ,PT: SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56243
+#EXTINF:-1 ,PT: SPORT TV1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56245
+#EXTINF:-1 ,PT: SPORT TV2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56246
+#EXTINF:-1 ,PT: SPORT TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56247
+#EXTINF:-1 ,PT: SPORT TV2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56248
+#EXTINF:-1 ,PT: SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56249
+#EXTINF:-1 ,PT |  SPORTING TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56258
+#EXTINF:-1 ,PT: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56259
+#EXTINF:-1 ,PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56262
+#EXTINF:-1 ,PT: TRAVEL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56264
+#EXTINF:-1 ,PT: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56265
+#EXTINF:-1 ,PT: TV CINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56266
+#EXTINF:-1 ,PT: TV CINE TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56267
+#EXTINF:-1 ,PT: TV CINE EDITION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56268
+#EXTINF:-1 ,PT: TV CINE EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56269
+#EXTINF:-1 ,PT: TV CINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56270
+#EXTINF:-1 ,PT: TV CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56272
+#EXTINF:-1 ,PT: TV CINE EMOTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56273
+#EXTINF:-1 ,PT: TV CINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56274
+#EXTINF:-1 ,PT: TV CINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56275
+#EXTINF:-1 ,PT: TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56276
+#EXTINF:-1 ,PT | TVI 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56278
+#EXTINF:-1 ,PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56279
+#EXTINF:-1 ,PT: TVI FICCAO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56280
+#EXTINF:-1 ,PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56281
+#EXTINF:-1 ,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56282
+#EXTINF:-1 ,PT: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56283
+#EXTINF:-1 ,PT: ZAP VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56284
+#EXTINF:-1 ,PT: ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56289
+#EXTINF:-1 ,PT: ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56292
+#EXTINF:-1 ,PT: ELEVEN SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56294
+#EXTINF:-1 ,PT: ELEVENS SPORTS 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56296
+#EXTINF:-1 ,PT: Eurochannel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56302
+#EXTINF:-1 ,PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56309
+#EXTINF:-1 ,PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56310
+#EXTINF:-1 ,PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56311
+#EXTINF:-1 ,PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56314
+#EXTINF:-1 ,PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56315
+#EXTINF:-1 ,PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56316
+#EXTINF:-1 ,PT: FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56317
+#EXTINF:-1 ,PT: Fuel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56318
+#EXTINF:-1 ,PT: FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56319
+#EXTINF:-1 ,PT: HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56325
+#EXTINF:-1 ,PT: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56327
+#EXTINF:-1 ,PT: ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56328
+#EXTINF:-1 ,PT: JimJam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56329
+#EXTINF:-1 ,PT: KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56330
+#EXTINF:-1 ,PT: Kuriakos TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56331
+#EXTINF:-1 ,PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56332
+#EXTINF:-1 ,PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56333
+#EXTINF:-1 ,PT: MOTORVISION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56335
+#EXTINF:-1 ,PT: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56336
+#EXTINF:-1 ,PT: MTV Portugal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56337
+#EXTINF:-1 ,PT: My Cuisine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56338
+#EXTINF:-1 ,PT: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56339
+#EXTINF:-1 ,PT: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56340
+#EXTINF:-1 ,PT: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56341
+#EXTINF:-1 ,PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56342
+#EXTINF:-1 ,PT: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56343
+#EXTINF:-1 ,PT: Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56344
+#EXTINF:-1 ,PT: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56346
+#EXTINF:-1 ,PT: PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56347
+#EXTINF:-1 ,PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56348
+#EXTINF:-1 ,PT: Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56349
+#EXTINF:-1 ,PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56353
+#EXTINF:-1 ,PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56354
+#EXTINF:-1 ,PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56355
+#EXTINF:-1 ,PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56356
+#EXTINF:-1 ,PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56357
+#EXTINF:-1 ,PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56358
+#EXTINF:-1 ,PT: RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56360
+#EXTINF:-1 ,PT: RTP International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56361
+#EXTINF:-1 ,PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56363
+#EXTINF:-1 ,PT: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56364
+#EXTINF:-1 ,PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56365
+#EXTINF:-1 ,PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56366
+#EXTINF:-1 ,PT: SIC KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56367
+#EXTINF:-1 ,PT: SIC MULHER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56368
+#EXTINF:-1 ,PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56369
+#EXTINF:-1 ,PT: SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56370
+#EXTINF:-1 ,PT: SPORT TV2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56375
+#EXTINF:-1 ,PT: SPORT TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56376
+#EXTINF:-1 ,PT: SPORT TV4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56383
+#EXTINF:-1 ,PT: SPORT TV5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56384
+#EXTINF:-1 ,PT: SPORT TV5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56385
+#EXTINF:-1 ,PT: SPORT TV5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56386
+#EXTINF:-1 ,PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56392
+#EXTINF:-1 ,PT: TRAVEL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56393
+#EXTINF:-1 ,PT: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56394
+#EXTINF:-1 ,PT: TV CINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56395
+#EXTINF:-1 ,PT |  VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56412
+#EXTINF:-1 ,PT |  E!  SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/56414
+#EXTINF:-1 ,PT | SPORT TV+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80791
+#EXTINF:-1 ,PT | Sporting Tv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80792
+#EXTINF:-1 ,PT: SyFy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80793
+#EXTINF:-1 ,PT: TRAVEL CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80794
+#EXTINF:-1 ,PT: TV CINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80795
+#EXTINF:-1 ,PT: TV CINE EDITION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80796
+#EXTINF:-1 ,PT: TV CINE TOP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80798
+#EXTINF:-1 ,PT: TV Globo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80799
+#EXTINF:-1 ,PT | TV Record FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80800
+#EXTINF:-1 ,PT | Tvi 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80802
+#EXTINF:-1 ,PT: Odisseia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80774
+#EXTINF:-1 ,PT: Porto Canal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80775
+#EXTINF:-1 ,PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80776
+#EXTINF:-1 ,PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80777
+#EXTINF:-1 ,PT: Sic K FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80782
+#EXTINF:-1 ,PT: SIC Mulher FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80783
+#EXTINF:-1 ,PT: SIC Noticias FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80784
+#EXTINF:-1 ,PT: SIC Radical FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80785
+#EXTINF:-1 ,PT: Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80756
+#EXTINF:-1 ,PT: Fox Comedy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80757
+#EXTINF:-1 ,PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80758
+#EXTINF:-1 ,PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80759
+#EXTINF:-1 ,PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80760
+#EXTINF:-1 ,PT: Fox Movies FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80761
+#EXTINF:-1 ,PT: Fuel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80762
+#EXTINF:-1 ,PT: Globo Now FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80763
+#EXTINF:-1 ,PT: Historia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80764
+#EXTINF:-1 ,PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80765
+#EXTINF:-1 ,PT: IConcerts FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80766
+#EXTINF:-1 ,PT: KURIAKOS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80767
+#EXTINF:-1 ,PT: Mtv Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80768
+#EXTINF:-1 ,PT: MTV Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80769
+#EXTINF:-1 ,PT: NAT GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80770
+#EXTINF:-1 ,PT: Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80771
+#EXTINF:-1 ,PT: NBA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80772
+#EXTINF:-1 ,PT: NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80773
+#EXTINF:-1 ,PT: Canal Nos FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80738
+#EXTINF:-1 ,PT: CASA E COZINHA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80739
+#EXTINF:-1 ,PT: Caza e Pesca FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80740
+#EXTINF:-1 ,PT |  Eleven Sports 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80746
+#EXTINF:-1 ,PT: Fight Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80755
+#EXTINF:-1 ,PT | Tvi 24 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80721
+#EXTINF:-1 ,PT: VH1 Classic HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80725
+#EXTINF:-1 ,PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80731
+#EXTINF:-1 ,PT: AXN MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80732
+#EXTINF:-1 ,PT: Blaze FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80734
+#EXTINF:-1 ,PT: Btv FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80735
+#EXTINF:-1 ,PT: Tv Cine Top HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80719
+#EXTINF:-1 ,PT: Historia HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80687
+#EXTINF:-1 ,PT: Hollywood HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80688
+#EXTINF:-1 ,PT: Investigation Discovery HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80689
+#EXTINF:-1 ,PT: MCS HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80690
+#EXTINF:-1 ,PT: National Geographic HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80691
+#EXTINF:-1 ,PT: National Wild HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80692
+#EXTINF:-1 ,PT: Nos Studios HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80693
+#EXTINF:-1 ,PT: Odisseia HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80694
+#EXTINF:-1 ,PT: Rtp 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80695
+#EXTINF:-1 ,PT: Rtp 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80696
+#EXTINF:-1 ,PT: Rtp 3 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80697
+#EXTINF:-1 ,PT: RTP A�ORES HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80699
+#EXTINF:-1 ,PT: Sic Caras HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80700
+#EXTINF:-1 ,PT: Sic HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80701
+#EXTINF:-1 ,PT: Sic Mulher HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80702
+#EXTINF:-1 ,PT: Sic Noticias HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80703
+#EXTINF:-1 ,PT: Fox Comedy HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80679
+#EXTINF:-1 ,PT: Fox Crime HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80680
+#EXTINF:-1 ,PT: Fox HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80681
+#EXTINF:-1 ,PT: Fox Life HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80682
+#EXTINF:-1 ,PT: Globo HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80684
+#EXTINF:-1 ,PT: Globo Now HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80685
+#EXTINF:-1 ,PT: Bloomberg Europe HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80660
+#EXTINF:-1 ,PT: Btv 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80661
+#EXTINF:-1 ,PT: Btv HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80662
+#EXTINF:-1 ,PT: Canal 11 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80663
+#EXTINF:-1 ,PT: CASA E COZINHA HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80664
+#EXTINF:-1 ,PT: CMTV HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80666
+#EXTINF:-1 ,PT: CNBC Europe HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80667
+#EXTINF:-1 ,PT: CNN HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80668
+#EXTINF:-1 ,PT: Crime Investigation HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80669
+#EXTINF:-1 ,PT: Discovery HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80670
+#EXTINF:-1 ,PT |  Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80671
+#EXTINF:-1 ,PT: ARTV HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80652
+#EXTINF:-1 ,PT: Axn Movies HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80654
+#EXTINF:-1 ,PT: Axn White FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80655
+#EXTINF:-1 ,PT: BBC Entertainement HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80656
+#EXTINF:-1 ,PT: BBC World News HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80657
+#EXTINF:-1 ,PT: Biggs HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80658
+#EXTINF:-1 ,PT | AMC HD"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80461
+#EXTINF:-1 ,PT | AXN Black HD"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80462
+#EXTINF:-1 ,PT | AXN HD"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80463
+#EXTINF:-1 ,PT | Axn Movies"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80464
+#EXTINF:-1 ,PT | AXN White HD"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80465
+#EXTINF:-1 ,PT | BBC ENTERTAINMENT"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80466
+#EXTINF:-1 ,PT | BBC World News"
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://loginto.live:80/Argikon/4M68k3wXDP/80467
