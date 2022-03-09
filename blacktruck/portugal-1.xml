@@ -3,171 +3,261 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1,PT : 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58528
-#EXTINF:-1,PT : A BOLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58529
-#EXTINF:-1,PT : A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58530
-#EXTINF:-1,PT : AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58531
-#EXTINF:-1,PT : AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58532
-#EXTINF:-1,PT : AXN BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58533
-#EXTINF:-1,PT : AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58534
-#EXTINF:-1,PT : BENFICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/176361
-#EXTINF:-1,PT : BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58535
-#EXTINF:-1,PT : CANAL NOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58537
-#EXTINF:-1,PT : CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58538
-#EXTINF:-1,PT : CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58539
-#EXTINF:-1,PT : CANCAO NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58540
-#EXTINF:-1,PT : CASA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58543
-#EXTINF:-1,PT : CINE MUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58544
-#EXTINF:-1,PT : CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58545
-#EXTINF:-1,PT : DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58546
-#EXTINF:-1,PT : DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58547
-#EXTINF:-1,PT : DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58548
-#EXTINF:-1,PT : E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58549
-#EXTINF:-1,PT : ELEVEN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58550
-#EXTINF:-1,PT : ELEVEN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58551
-#EXTINF:-1,PT : ELEVEN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58552
-#EXTINF:-1,PT : ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58553
-#EXTINF:-1,PT : ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58554
-#EXTINF:-1,PT : ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58555
-#EXTINF:-1,PT : FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58559
-#EXTINF:-1,PT : FOX COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58560
-#EXTINF:-1,PT : FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58561
-#EXTINF:-1,PT : FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58562
-#EXTINF:-1,PT : FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58563
-#EXTINF:-1,PT : HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58564
-#EXTINF:-1,PT : HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58565
-#EXTINF:-1,PT : JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58566
-#EXTINF:-1,PT : MCM POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58567
-#EXTINF:-1,PT : MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58568
-#EXTINF:-1,PT : MOTORSPORT.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58569
-#EXTINF:-1,PT : MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58570
-#EXTINF:-1,PT : MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58571
-#EXTINF:-1,PT : NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58572
-#EXTINF:-1,PT : NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58573
-#EXTINF:-1,PT : NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58574
-#EXTINF:-1,PT : NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58575
-#EXTINF:-1,PT : ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58576
-#EXTINF:-1,PT : PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58577
-#EXTINF:-1,PT : PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58578
-#EXTINF:-1,PT : REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58579
-#EXTINF:-1,PT : RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58580
-#EXTINF:-1,PT : RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58581
-#EXTINF:-1,PT : RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58582
-#EXTINF:-1,PT : RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58583
-#EXTINF:-1,PT : RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58584
-#EXTINF:-1,PT : RTP INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58585
-#EXTINF:-1,PT : RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58586
-#EXTINF:-1,PT : SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58587
-#EXTINF:-1,PT : SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58588
-#EXTINF:-1,PT : SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58589
-#EXTINF:-1,PT : SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58590
-#EXTINF:-1,PT : SPORT TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58591
-#EXTINF:-1,PT : SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58592
-#EXTINF:-1,PT : SPORT TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58593
-#EXTINF:-1,PT : SPORT TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58594
-#EXTINF:-1,PT : SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58595
-#EXTINF:-1,PT : SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/176362
-#EXTINF:-1,PT : SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58596
-#EXTINF:-1,PT : TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58598
-#EXTINF:-1,PT : TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58599
-#EXTINF:-1,PT : TRACE TOCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58600
-#EXTINF:-1,PT : TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58601
-#EXTINF:-1,PT : TV FATIMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58602
-#EXTINF:-1,PT : TV GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58603
-#EXTINF:-1,PT : TV GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58604
-#EXTINF:-1,PT : TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58605
-#EXTINF:-1,PT : TV SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58606
-#EXTINF:-1,PT : TVCINE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58607
-#EXTINF:-1,PT : TVCINE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58608
-#EXTINF:-1,PT : TVCINE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58609
-#EXTINF:-1,PT : TVCINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58610
-#EXTINF:-1,PT : TVE 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58611
-#EXTINF:-1,PT : TVE INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58612
-#EXTINF:-1,PT : TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58613
-#EXTINF:-1,PT : TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58615
-#EXTINF:-1,PT : TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58616
-#EXTINF:-1,PT : VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hostengine.live:25461/palmer/palmer/58617
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133561
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133560
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133559
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133557
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133556
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133555
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133554
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133553
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133552
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133551
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133550
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133549
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133548
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133543
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133542
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CMTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133541
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133540
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133539
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133538
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133537
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133536
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RTP 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133535
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133490
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133489
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133488
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133487
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133486
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133485
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133484
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AXN MOVIES  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133483
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133480
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133479
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133478
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133477
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133476
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133475
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133474
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133473
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133472
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133471
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133470
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133469
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133468
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133467
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV + SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133465
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SPORT TV +  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133464
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 4 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133424
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133423
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/133422
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT:  A BOLA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132657
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: A BOLA TV BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132656
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132655
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132654
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132653
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL 11 BACKUP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132652
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DISNEY STAR WARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132649
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132646
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: MASHA E O URSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132645
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NICK + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132644
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DISNEY +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132643
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NICK JUNIOR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132642
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132641
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: JIM JAM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132640
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NICKELODEON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132639
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL PANDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132638
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: SIC KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132637
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: PANDA BIGGS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132636
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132635
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132634
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CARTOON  NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132633
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TVI FIC??O FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132629
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ID INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132592
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: ODISSEIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132591
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CANAL HIST?RIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132590
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CRIME INVESTIGA??O SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132589
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132588
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FASHION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132587
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132585
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132584
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: PFC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132583
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FUEL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132582
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FUEL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132581
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TOROS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132580
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CAMPO PEQUENO TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132579
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: MOTORVISION TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132578
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: CAÇA & PESCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132575
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: RED BUL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132574
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: GINX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132573
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: COMBATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132572
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132571
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132569
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FIGHT BOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132568
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132567
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: UFC FIGTH PASS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132565
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: NFL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132564
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: AFRO MUSIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132561
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132560
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT: TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132559
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- AXN MOVIES  (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132524
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- AXN WHITE (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132523
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- AXN (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132522
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- BABY TV (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132521
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- BLAZE (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132520
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- BTV (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132518
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CAZA E PESCA (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132517
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CACAVISION (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132516
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CANAL Q (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132515
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CARTOON NETWORK (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132514
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CINEMUNDO (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132513
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- CRIME INVESTIGATION (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132512
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- DISCOVERY CHANNEL (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132511
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- DISNEY CHANNEL (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132510
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- DISNEY JUNIOR (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132509
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- DOG TV (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132508
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- E! ENTERTAINMENT (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132507
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- NICKELODEON (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132505
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- EUROSPORT 1 (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132504
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FOX COMEDY (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132503
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FOX CRIME (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132502
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FOX LIFE (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132501
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FOX MOVIES (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132500
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FOX (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132499
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- FUEL TV (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132498
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- GLOBO NOW (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132497
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- GLOBO (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132496
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- HISTORIA (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132495
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- HOLLYWOOD (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132494
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- JIM JAM (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132493
+#EXTINF:-1 group-title="CANAIS PORTUGAL",PT- PANDA BIGGS (LOW)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://lg-ddns.live:80/Paulo1020/102030/132487
