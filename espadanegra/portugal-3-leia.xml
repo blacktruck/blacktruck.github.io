@@ -3,231 +3,133 @@
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1,PT| CANAL 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/265011182
-#EXTINF:-1,PT| TVI FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/265011199
-#EXTINF:-1,PT| INVESTIGATION DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/265011152
-#EXTINF:-1,PT| HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/7212
-#EXTINF:-1,PT| BENFICA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4269
-#EXTINF:-1,PT| 24 KITCHEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4268
-#EXTINF:-1,PT| SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4445
-#EXTINF:-1,PT| SPORT TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4444
-#EXTINF:-1,PT| SPORT TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4443
-#EXTINF:-1,PT| SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4441
-#EXTINF:-1,PT| SPORT TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4439
-#EXTINF:-1,PT| RTP 1  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4492
-#EXTINF:-1,PT| RTP 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1727
-#EXTINF:-1,PT| RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1726
-#EXTINF:-1,PT| RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1715
-#EXTINF:-1,PT| TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4493
-#EXTINF:-1,PT| TVI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1674
-#EXTINF:-1,PT| TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1672
-#EXTINF:-1,PT| TVI FICCAO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2647
-#EXTINF:-1,PT| RTP  MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2321
-#EXTINF:-1,PT| RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2649
-#EXTINF:-1,PT| RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1683
-#EXTINF:-1,PT| RTP INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1658
-#EXTINF:-1,PT| RTP ACORESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1685
-#EXTINF:-1,PT| RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1684
-#EXTINF:-1,PT| SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1656
-#EXTINF:-1,PT| CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1704
-#EXTINF:-1,PT| SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1682
-#EXTINF:-1,PT| SIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1725
-#EXTINF:-1,PT| TVI FHD.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2334
-#EXTINF:-1,PT| CM TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1700
-#EXTINF:-1,PT| TVI 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1673
-#EXTINF:-1,PT| SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1657
-#EXTINF:-1,PT| E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1695
-#EXTINF:-1,PT| FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2331
-#EXTINF:-1,PT| SIC KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2329
-#EXTINF:-1,PT| BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1708
-#EXTINF:-1,PT| DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1696
-#EXTINF:-1,PT| DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1697
-#EXTINF:-1,PT| CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1705
-#EXTINF:-1,PT| NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1688
-#EXTINF:-1,PT| JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1661
-#EXTINF:-1,PT| BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2328
-#EXTINF:-1,PT| NOS STUDIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1659
-#EXTINF:-1,PT| TV CINE TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1716
-#EXTINF:-1,PT| TV CINE EDITION   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1717
-#EXTINF:-1,PT| TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1718
-#EXTINF:-1,PT| TV CINE ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1719
-#EXTINF:-1,PT| CINEMUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1701
-#EXTINF:-1,PT| TV SERIES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1675
-#EXTINF:-1,PT| AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1709
-#EXTINF:-1,PT| HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1662
-#EXTINF:-1,PT| FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1663
-#EXTINF:-1,PT| FOX MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1729
-#EXTINF:-1,PT| FOX COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1694
-#EXTINF:-1,PT| FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1664
-#EXTINF:-1,PT| FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1665
-#EXTINF:-1,PT| AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1714
-#EXTINF:-1,PT| AXN BLACK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2140
-#EXTINF:-1,PT| AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1713
-#EXTINF:-1,PT| SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1655
-#EXTINF:-1,PT| AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1728
-#EXTINF:-1,PT| SPORT TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2324
-#EXTINF:-1,PT| SPORT TV 1 HD 720p
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4437
-#EXTINF:-1,PT| SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/4438
-#EXTINF:-1,PT| SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1721
-#EXTINF:-1,PT| SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1722
-#EXTINF:-1,PT| SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1723
-#EXTINF:-1,PT| SPORT TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1724
-#EXTINF:-1,PT| SPORT TV  5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2139
-#EXTINF:-1,PT| SPORT TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2295
-#EXTINF:-1,PT| BENFICA TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1670
-#EXTINF:-1,PT| BENFICA TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1669
-#EXTINF:-1,PT| SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1720
-#EXTINF:-1,PT| PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1660
-#EXTINF:-1,PT| PORTO  CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2772
-#EXTINF:-1,PT| TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1680
-#EXTINF:-1,PT| MOTORS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1692
-#EXTINF:-1,PT| FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1693
-#EXTINF:-1,PT|  A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1710
-#EXTINF:-1,PT| MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2327
-#EXTINF:-1,PT| PFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1686
-#EXTINF:-1,PT| CRIME INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/265011151
-#EXTINF:-1,PT| MY CUISINE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/9353
-#EXTINF:-1,PT| 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1712
-#EXTINF:-1,PT| NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1690
-#EXTINF:-1,PT| NATIONAL GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1689
-#EXTINF:-1,PT| ODISSEIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1687
-#EXTINF:-1,PT| DISCOVERY HD SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1698
-#EXTINF:-1,PT| DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1699
-#EXTINF:-1,PT| CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1703
-#EXTINF:-1,PT| CANAL HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1706
-#EXTINF:-1,PT| CACA & PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2323
-#EXTINF:-1,PT| CACA E PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2322
-#EXTINF:-1,PT| A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1711
-#EXTINF:-1,PT| CANAL  TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2554
-#EXTINF:-1,PT| TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1681
-#EXTINF:-1,PT| TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2773
-#EXTINF:-1,PT| TPA INTERN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1679
-#EXTINF:-1,PT| MTV  DANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2145
-#EXTINF:-1,PT| MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2146
-#EXTINF:-1,PT| VH1 CLASSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/3091
-#EXTINF:-1,PT| VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2143
-#EXTINF:-1,PT| VH1+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1671
-#EXTINF:-1,PT| TRACE URBAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2142
-#EXTINF:-1,PT| AFRO MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/2141
-#EXTINF:-1,PT| TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1676
-#EXTINF:-1,PT| TV GLOBO PREMUIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1677
-#EXTINF:-1,PT| TV GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1678
-#EXTINF:-1,PT| MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/1691
-#EXTINF:-1,PT| BLAZE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/265014130
-#EXTINF:-1,PT| KOMBAT SPORT 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/665014800
-#EXTINF:-1,PT| AXN MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/665014692
-#EXTINF:-1,PT| REDBULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://hdlocal.de:8080/super-media.giize.com/f42atTxKXp/665024676
+#EXTINF:-1 ,PT: TVCine ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190405
+#EXTINF:-1 ,PT: TVCine EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190406
+#EXTINF:-1 ,PT: TVCine EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190407
+#EXTINF:-1 ,PT: TVCine TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190408
+#EXTINF:-1 ,PT: NOS Studios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190409
+#EXTINF:-1 ,PT: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190410
+#EXTINF:-1 ,PT: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190411
+#EXTINF:-1 ,PT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190412
+#EXTINF:-1 ,PT: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190413
+#EXTINF:-1 ,PT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190414
+#EXTINF:-1 ,PT: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190415
+#EXTINF:-1 ,PT: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190425
+#EXTINF:-1 ,PT: TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190426
+#EXTINF:-1 ,PT: TVI Fic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190427
+#EXTINF:-1 ,PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190428
+#EXTINF:-1 ,PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190429
+#EXTINF:-1 ,PT: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190430
+#EXTINF:-1 ,PT: SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190431
+#EXTINF:-1 ,PT: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190432
+#EXTINF:-1 ,PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190433
+#EXTINF:-1 ,PT: SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190434
+#EXTINF:-1 ,PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190435
+#EXTINF:-1 ,PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190436
+#EXTINF:-1 ,PT: A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190437
+#EXTINF:-1 ,PT: AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190438
+#EXTINF:-1 ,PT: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190444
+#EXTINF:-1 ,PT: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190445
+#EXTINF:-1 ,PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190446
+#EXTINF:-1 ,PT: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190447
+#EXTINF:-1 ,PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190448
+#EXTINF:-1 ,PT: RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190449
+#EXTINF:-1 ,PT: RTP MEMÓRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190450
+#EXTINF:-1 ,PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190451
+#EXTINF:-1 ,PT: TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190452
+#EXTINF:-1 ,PT: Trace Urban HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190453
+#EXTINF:-1 ,PT: TV GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190454
+#EXTINF:-1 ,PT: TV Globo NOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190455
+#EXTINF:-1 ,PT: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190457
+#EXTINF:-1 ,PT: Nick Jr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190464
+#EXTINF:-1 ,PT: Panda Biggs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190465
+#EXTINF:-1 ,PT:  Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190467
+#EXTINF:-1 ,PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190468
+#EXTINF:-1 ,PT: CRIME INVISTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190469
+#EXTINF:-1 ,PT: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190470
+#EXTINF:-1 ,PT: Nat Geo WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190471
+#EXTINF:-1 ,PT: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190472
+#EXTINF:-1 ,PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190473
+#EXTINF:-1 ,PT: Travel Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190474
+#EXTINF:-1 ,PT: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190475
+#EXTINF:-1 ,PT: Eleven Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190477
+#EXTINF:-1 ,PT: Eleven Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190485
+#EXTINF:-1 ,PT: Eleven Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190486
+#EXTINF:-1 ,PT: Eleven Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190487
+#EXTINF:-1 ,PT: Eleven Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190488
+#EXTINF:-1 ,PT: SPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190489
+#EXTINF:-1 ,PT: SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190490
+#EXTINF:-1 ,PT: SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190491
+#EXTINF:-1 ,PT: SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190492
+#EXTINF:-1 ,PT: SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190493
+#EXTINF:-1 ,PT: SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190494
+#EXTINF:-1 ,PT: SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190495
+#EXTINF:-1 ,PT: SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190497
+#EXTINF:-1 ,PT: BENFICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190498
+#EXTINF:-1 ,PT: BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190499
+#EXTINF:-1 ,PT: CANAL 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://ch-media.site:8080/Sameda/Sameda1/190500
