@@ -205,4 +205,37 @@ def GetLSProData(page_data, Cookie_Jar, m, vars='$doregex[get-vars]'):
 </regex>
 <info>https://2ndrun.tv/fox-news/</info>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]INTERNACIONAL[/COLOR]</title>
+<link>$doregex[menu]</link>
+<regex>
+<name>menu</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR white][menu.param1][/COLOR][/B]</title>
+<link>$doregex[decode]|User-Agent=iPad</link>
+<thumbnail>https:[menu.param2]</thumbnail>  
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[title=\"([^"]+).*?src=\"([^"]+).*\n.*href="(.*?ch=.*?)"]]></expres>
+<page>$doregex[channel]</page>
+</regex>
+<regex>
+<name>channel</name>
+<expres><![CDATA[(?s)content2(.*?)section]]></expres>
+<page>https://stitichsports.com/tv/live/210-</page>
+</regex>
+<regex>
+<name>source</name>
+<expres><![CDATA[atob\("(.*?)"]]></expres>
+<page>https://stitichsports.com/tv/live/210-[menu.param3]</page>
+<referer>https://stitichsports.com/tv/live/210-</referer>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[source]')</expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
