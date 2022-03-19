@@ -210,6 +210,49 @@ def GetLSProData(page_data, Cookie_Jar, m, vars='$doregex[get-vars]'):
 <info>https://2ndrun.tv/fox-news/</info>
 </menu>
 
-
+<menu>
+<title>[B][COLOR red]• [/COLOR][COLOR white]SPORTZONLINE[/COLOR][/B]</title>
+<link>$doregex[agenda]</link>
+<regex>
+<name>agenda</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR blue]$doregex[dia][/COLOR][COLOR red]$doregex[horario][/COLOR]   [COLOR white][agenda.param3][/COLOR]   [UPPERCASE][COLOR blue] [agenda.param5][/COLOR][/UPPERCASE][/B]</title>
+  <thumbnail>https://i.postimg.cc/mkmBbdX7/sportzonline.png</thumbnail>
+  <fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+  <link>$doregex[geturl]</link>
+]]></listrepeat>
+<expres><![CDATA[(MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY)|(\d+:\d+).([^|]+).*(http.*?(sporttv\d|br\d|hd\d).php)]]></expres>
+<page>https://stitichsports.com/tv/live/210-</page>
+</regex>
+<regex>
+<name>horario</name>
+<expres>$pyFunction:('' if '[agenda.param2]' == '' else ('0' + str(int('[agenda.param2]'.split(':')[0])+1))[-2:] + ':' + '[agenda.param2]'.split(':')[len('[agenda.param2]'.split(':'))-1])</expres>
+<page></page>
+</regex>
+<regex>
+<name>dia</name>
+<expres>$pyFunction:('[agenda.param1]').replace('MONDAY','LUNES').replace('TUESDAY','MARTES').replace('WEDNESDAY','MIERCOLES').replace('THURSDAY','JUEVES').replace('FRIDAY','VIERNES').replace('SATURDAY','SABADO').replace('SUNDAY','DOMINGO')</expres>
+<page></page>
+</regex>
+<regex>
+<name>geturl</name>
+<expres>Clappr.Player[\w\W]*?(?:source|src|file):\s*[\'"]([^\'"]+)</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*m3u8.*)')</expres>
+<page>https:$doregex[iframe]</page>
+<referer>[agenda.param4]</referer>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe.*src="([^"]+)</expres>
+<page>[agenda.param4]</page>
+<referer>[agenda.param4]</referer>
+</regex>
+<thumbnail>https://i.postimg.cc/mkmBbdX7/sportzonline.png</thumbnail>
+<fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+<menu>
 
 </menus>
