@@ -209,6 +209,4 @@ def GetLSProData(page_data, Cookie_Jar, m, vars='$doregex[get-vars]'):
 </regex>
 <info>https://2ndrun.tv/fox-news/</info>
 </menu>
-
-
 </menus>
