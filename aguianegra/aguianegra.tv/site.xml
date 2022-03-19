@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- 
-<menus>
-
+ <menus>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]NACIONAL[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -103,8 +101,6 @@
 <thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
-
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]FOX News 2ndrun.tv [/COLOR]</title>
 <fanart></fanart>
