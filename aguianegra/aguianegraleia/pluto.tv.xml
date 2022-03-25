@@ -1,71 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<items>
-
-<item>
-<title>[B][COLOR white]TODOS[/COLOR][/B]</title>
-<link>$doregex[channel]</link>
-<regex>
-<name>channel</name>
-<listrepeat><![CDATA[
-  <title>[B][COLOR khaki][channel.param3][/COLOR]  [COLOR white][channel.param4][/COLOR][/B]</title>
-  <link>[channel.param5]</link>
-  <thumbnail>[channel.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  data = re.findall('EXTINF.*?chno="(\d+).*?logo="(.*?)".*?title="(.*?)",(.*)\n(.*)',page_data)
-  data.sort()
-  return data
-]]></expres>
-<page>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.m3u8</page>
-</regex>
-<thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
-<fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR white]POR CATEGORIA[/COLOR][/B]</title>
+  <item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
-  <link>$doregex[channel]</link>
-  <thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
-  <fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  match = re.findall('group-title="([^"]+)"',page_data)
-  seccion_list = []
-  for x in match:
-    if x not in seccion_list:
-      seccion_list.append(x)
-  return seccion_list
-]]></expres>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*m3u8)</expres>
 <page>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.m3u8</page>
+<referer>https://google.com</referer>
+<x-forward></x-forward>
+<agent>Kodi/18.0</agent>
 </regex>
 <regex>
-<name>channel</name>
-<listrepeat><![CDATA[
-  <title>[B][COLOR white][channel.param1] | [channel.param3][/COLOR][/B]</title>
-  <link>[channel.param4]</link>
-  <thumbnail>[channel.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-  import re
-  data = re.findall('EXTINF.*?chno="(\d+).*?logo="(.*?)".*?title="[makelist.param1]",(.*)\n(.*)',page_data)
-  data.sort()
-  return data
-]]></expres>
-<page>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.m3u8</page>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
 </regex>
-<thumbnail>https://i.postimg.cc/L4x0N9qR/plutotv.png</thumbnail>
-<fanart>https://i.postimg.cc/3RTJSjcy/plutotv.jpg</fanart>
 </item>
-
-</items>
