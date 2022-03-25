@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<menus>
-<menu>
+
+<item>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]TODOS OS CANAIS[/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
@@ -21,8 +21,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/sOjrgL7.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-</menu>
-<menu>
+</item>
+<item>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]POR CATEGORIA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -65,5 +65,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/sOjrgL7.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-</menu>
-</menus>
+</item>
