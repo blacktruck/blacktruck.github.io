@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<items>
 
 <item>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS[/COLOR]</title>
@@ -68,5 +68,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </item>
- 
+ </items>
 
