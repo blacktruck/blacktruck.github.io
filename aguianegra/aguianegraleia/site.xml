@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]NACIONAL[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
+<link>$doregex[decode]|User-Agent=iPad</link>
+<thumbnail>https:[makelist.param2]</thumbnail>  
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[title=\"([^"]+).*?src=\"([^"]+).*\n.*href="(.*?ch=.*?)"]]></expres>
+<page>$doregex[channel]</page>
+</regex>
+<regex>
+<name>channel</name>
+<expres><![CDATA[(?s)content1(.*?)section]]></expres>
+<page>https://photocall.tv/</page>
+</regex>
+<regex>
+<name>source</name>
+<expres><![CDATA[atob\("(.*?)"]]></expres>
+<page>https://photocall.tv/[makelist.param3]</page>
+<referer>https://photocall.tv/</referer>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[source]')</expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]INTERNACIONAL[/COLOR]</title>
+<link>$doregex[menu]</link>
+<regex>
+<name>menu</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR white][menu.param1][/COLOR][/B]</title>
+<link>$doregex[decode]|User-Agent=iPad</link>
+<thumbnail>https:[menu.param2]</thumbnail>  
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[title=\"([^"]+).*?src=\"([^"]+).*\n.*href="(.*?ch=.*?)"]]></expres>
+<page>$doregex[channel]</page>
+</regex>
+<regex>
+<name>channel</name>
+<expres><![CDATA[(?s)content2(.*?)section]]></expres>
+<page>https://photocall.tv/</page>
+</regex>
+<regex>
+<name>source</name>
+<expres><![CDATA[atob\("(.*?)"]]></expres>
+<page>https://photocall.tv/[menu.param3]</page>
+<referer>https://photocall.tv/</referer>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[source]')</expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]OUTROS[/COLOR]</title>
+<link>$doregex[menu]</link>
+<regex>
+<name>menu</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR white][menu.param1][/COLOR][/B]</title>
+<link>$doregex[decode]|User-Agent=iPad</link>
+<thumbnail>https:[menu.param2]</thumbnail>  
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres>title=\"([^"]+).*?src=\"([^"]+).*\n.*href="(.*?ch=.*?)"</expres>
+<page>$doregex[channel]</page>
+</regex>
+<regex>
+<name>channel</name>
+<expres><![CDATA[(?s)content3(.*?)section]]></expres>
+<page>https://photocall.tv/</page>
+</regex>
+<regex>
+<name>source</name>
+<expres><![CDATA[atob\("(.*?)"]]></expres>
+<page>https://photocall.tv/[menu.param3]</page>
+<referer>https://photocall.tv/</referer>
+</regex>
+<regex>
+<name>decode</name>
+<expres>$pyFunction:base64.b64decode('$doregex[source]')</expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</item>
+<item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]FOX News 2ndrun.tv [/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://www.shidurlive.com&amp;Referer=https://www.shidurlive.com/</link>
+<regex>
+<name>m5</name>
+<expres>Src\s*=\s*'([^']+)</expres>
+<page>$doregex[m4]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://www.shidurlive.com/embed/$doregex[m3]|Upgrade-Insecure-Requests=1</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m3</name>
+<expres>$pyFunction:'$doregex[m2]'.replace('|','/')</expres>
+<page />
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m2</name>
+<expres>var.zed.([^']+)</expres>
+<page>https://www.shidurlive.com/a/$doregex[zed]/3130322c3131302c39392c34352c35302c3131302c3130302c3131342c3131372c3131302c3131362c313138$doregex[hex]/855/481|Upgrade-Insecure-Requests=1</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>hex</name>
+<expres>hex.*?'([^']+)</expres>
+<page>$doregex[m1]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>zed</name>
+<expres>zed\s*=\s*'([^\/]+)</expres>
+<page>$doregex[m1]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m1</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*zed.*)')</expres>
+<page>https://www.shidurlive.com/embed.js</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<info>https://2ndrun.tv/fox-news/</info>
+<thumbnail>https://i.imgur.com/YrMy5q5.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]FOX News 2ndrun.tv [/COLOR]</title>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<link>$doregex[m5]|User-Agent=iPad</link>
+<regex>
+<name>m5</name>
+<expres>Src\s*=\s*'([^']+)</expres>
+<page>$doregex[m4]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m4</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+<page>https://www.shidurlive.com/embed/$doregex[m3]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m3</name>
+<expres>$pyFunction:'$doregex[m2]'.replace('|','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>m2</name>
+<expres>var.zed.([^']+)</expres>
+<page>$doregex[m1]</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>m1</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar, m, vars='$doregex[get-vars]'):
+  import re
+  import binascii
+  channel, width, height = re.findall('{channel:\s*"([^"]+)",width:\s*"([^"]+)",height:\s*"([^"]+)', page_data)[0]
+  xed = ','.join([str(ord(x)) for x in channel])
+  xed = binascii.hexlify(xed.encode()).decode('ascii')
+  vars = vars.split('|')
+  eurl = 'https://www.shidurlive.com/a/{0}/{1}/{2}/{3}/{4}'.format(vars[0], xed, vars[-1], width, height)
+  return eurl
+]]></expres>
+<page>https://2ndrun.tv/fox-news/</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<regex>
+<name>get-vars</name>
+<expres>zed.+?var\|(.+?Encode\|[^|]+)</expres>
+<page>https://www.shidurlive.com/embed.js</page>
+<referer>https://2ndrun.tv/</referer>
+</regex>
+<info>https://2ndrun.tv/fox-news/</info>
+</item>
