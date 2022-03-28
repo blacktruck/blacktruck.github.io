@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]SONY [/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://api.magiaiptv.com/live/800349/713534/m3_kMewqpTKfyYadI1gm05U8cv_720p$nome=[B][COLOR lime] SONY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://api.magiaiptv.com/live/800349/713534/m3_kMewqpTKfyYadI1gm05U8cv_720p_2M$nome=[B][COLOR lime] SONY HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/sony.png</thumbnail>
+</menu>
+
+</menus>
