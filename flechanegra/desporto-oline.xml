@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="PRIMEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====PRIMEIROS-LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
@@ -14,7 +14,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_fle
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="SEGUNDO-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====SEGUNDOS-LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
@@ -26,7 +26,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_fle
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="TERCEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====-TERCEIROS LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
