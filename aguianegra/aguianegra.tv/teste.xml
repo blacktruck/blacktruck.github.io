@@ -1,2 +1,3 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="",[B][COLOR white]Gloobinho[/B]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[B][COLOR white]Flecha Negra[/COLOR][/B]&url=https://assistirtv.xyz/globinho/video.m3u8
