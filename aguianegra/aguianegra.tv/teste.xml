@@ -5,11 +5,25 @@
 <link>$doregex[Flecha_Negra]</link>
 <regex>
 <name>Flecha_Negra</name>
-<expres>"stream":.+?"(.*?)"</expres>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white]Gloobinho[/COLOR][/B]</title>
+  <link>$doregex[Flecha_Negra]</link>
+  <thumbnail>[channel.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  data = re.findall('EXTINF.*?chno="(\d+).*?logo="(.*?)".*?title="(.*?)",(.*)\n(.*)',page_data)
+  data.sort()
+  return data
+]]></expres>
 <page>https://apiresolver.flechanegra.repl.co/assistirtv/ch=gloobinho?url=https://tv0800.xyz/tv.php?canal=globinho</page>
 </regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
+<thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
+
+
+
+
