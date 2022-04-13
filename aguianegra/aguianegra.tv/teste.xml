@@ -1,3 +1,27 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="",[B][COLOR white]Gloobinho[/B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[B][COLOR white]Flecha Negra[/COLOR][/B]&url=https://assistirtv.xyz/globinho/video.m3u8
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>[B][COLOR white]Gloobinho[/COLOR][/B]</title>
+<link>$doregex[Flecha_Negra]</link>
+<regex>
+<name>Flecha_Negra</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.flechanegra.repl.co/assistirtv/ch=gloobinho?url=https://tv0800.xyz/tv.php?canal=globinho</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
+<menu>
+</menu>
+<title>[B][COLOR white]ESPN[/COLOR][/B]</title>
+<link>$doregex[Flecha_Negra]</link>
+<regex>
+<name>Flecha_Negra</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.flechanegra.repl.co/assistirtv/ch=espn?url=https://tv0800.xyz/tv.php?canal=espn</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/espn.png</thumbnail>
+<fanart></fanart>
+<info>ESPN, sigla para Entertainment and Sports Programming Network, é uma rede de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</info>
+</menu>
+</menus>
