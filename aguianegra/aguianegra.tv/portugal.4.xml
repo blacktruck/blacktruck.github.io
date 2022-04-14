@@ -31,7 +31,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 <menu>
   <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I]RTP 2[/I][/B][/COLOR]</title>
-  <link>$doregex[getUrl]</link>
+<link>$doregex[getUrl]</link>
   <regex>
     <name>getUrl</name>
     <expres><![CDATA[#$pyFunction
@@ -44,17 +44,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
   except:
     import urllib
     final = urllib.unquote(stream)
-  return final+'|user-agent=ipad&origin=https://www.RTP.pt&referer=https://www.RTP.pt/'
+  return final+'|user-agent=ipad&origin=https://www.rtp.pt&referer=https://www.rtp.pt/'
 ]]></expres>
-<page>https://www.RTP.pt/play/direto/rtp2</page>
-<referer>https://www.RTP.pt/</referer>
+<page>https://www.rtp.pt/play/direto/rtp2</page>
+<referer>https://www.rtp.pt/</referer>
+</regex>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/thumb_rtp2_00.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I]RTP 2 HD[/I][/B][/COLOR]</title>
-  <link>https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b1290000_slpor.m3u8|User-agent=Mozilla/5.0</link>
+  <link>https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)</link>
   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/large-retina_rtp2hd.jpg</thumbnail>
   <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
