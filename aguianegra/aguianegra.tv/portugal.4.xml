@@ -50,6 +50,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>https://www.rtp.pt/</referer>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/thumb_rtp2_00.jpg</thumbnail>
-<fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
