@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I]PORTO CANAL[/I][/B][/COLOR]</title>
+  <link>https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/porto_canal.jpg</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] ANIME TV [/I][/B][/COLOR]</title>
+  <link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/ANIME%20_TV.jpg</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I]DISNEY [/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=httphttp://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137521.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/DISNEY.png</thumbnail>
+  <fanart>http://i.imgur.com/bcpZZ1S.png</fanart>
+</menu>
+</menus>
