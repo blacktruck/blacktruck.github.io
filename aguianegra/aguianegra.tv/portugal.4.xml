@@ -2,7 +2,7 @@
 <menus>
 <menu>
   <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX COMEDY [/I][/B][/COLOR]</title>
-  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=20971520&url=http://player.ukwtv.com:8080/3143577959095676/2598854265/193561.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <link>plugin://plugin.video.f4mTester/?name=Fox Comedy&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Fox_Comedy.svg/revision/latest/scale-to-width-down/260?cb=20190426123843&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://player.ukwtv.com:8080/3143577959095676/2598854265/193561.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/FOX_comedy_hd.jpg</thumbnail>
   <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
