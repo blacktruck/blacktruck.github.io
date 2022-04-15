@@ -14,7 +14,7 @@
 </menu>
 <menu>
   <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] HBO PORTUGAL [/I][/B][/COLOR]</title>
-  <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=20971520&url=http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <link>plugin://plugin.video.f4mTester/?name=Hbo Portugal&amp;iconImage=https://static.wikia.nocookie.net/logopedia/images/1/15/HBO_Portugal.svg/revision/latest/scale-to-width-down/250?cb=20200517163735&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/HBO_HD_logo.png</thumbnail>
   <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
