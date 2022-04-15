@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] DC TV [/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?name=Netflix&amp;iconImage=https://www.dccomics.com/sites/all/themes/dc_comics_bp/logo.png&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137489.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/dc-comics-logo-429x400.jpg</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] AMC [/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?name=Amc&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/200?cb=20190713011740&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://cdn99.one:80/356195/FgHq4u/74803.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/AMC_HD.jpg</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] AXN [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.50:7050/axn</link>  
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/AXN_logo.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] AXN MOVIES [/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?name=Axn Movies&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/5/5f/AXN_MOVIES.png/revision/latest/scale-to-width-down/300?cb=20200210103843&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://cdn99.one:80/356195/FgHq4u/74807.ts</link>
+   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/AXN_MOVIES.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] AXN WITE [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.50:7050/axnwhite</link>
+   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/AXN_White_HD.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX MOVIES HD [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.108.84:7050/foxmovies</link>
+   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/FOX_MOVIES_HD.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.50:7050/fox</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/FOX-HD.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX LIFE [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.50:7050/foxlife</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/Fox-Life.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX CRIME [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.50:7050/foxcrime</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/Fox_Crime.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] FOX COMEDY [/I][/B][/COLOR]</title>
+   <link>plugin://plugin.video.f4mTester/?name=Fox Comedy&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/f/f1/Fox_Comedy.svg/revision/latest/scale-to-width-down/260?cb=20190426123843&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://player.ukwtv.com:8080/3143577959095676/2598854265/193561.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/FOX_comedy_hd.jpg</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] SYFY [/I][/B][/COLOR]</title>
+    <link>http://62.28.71.186:45678/http/192.168.150.50:7050/syfy</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/Syfy-HD.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] HBO PORTUGAL [/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?name=Hbo Portugal&amp;iconImage=https://static.wikia.nocookie.net/logopedia/images/1/15/HBO_Portugal.svg/revision/latest/scale-to-width-down/250?cb=20200517163735&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137492.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/HBO_HD_logo.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] HOLLYOOD[/I][/B][/COLOR]</title>
+  <link>plugin://plugin.video.f4mTester/?name=Hollywood&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/8/83/Canal_Hollywood.svg/revision/latest/scale-to-width-down/200?cb=20100605101218&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://cdn99.one:80/356195/FgHq4u/74895.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/Hollywood_HD.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] CINEMUNDO [/I][/B][/COLOR]</title>
+  <link>http://62.28.71.186:45678/http/192.168.150.137:7050/cinemundohd</link>
+  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/Cinemundo1.webp</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] TV CINE ACTION [/I][/B][/COLOR]</title>
+   <link>plugin://plugin.video.f4mTester/?name=TvCine Action&amp;iconImage=https://vignette.wikia.nocookie.net/logopedia/images/c/ce/Ac.png/revision/latest/scale-to-width-down/250?cb=20200115080838&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;Buffer=20971520&amp;url=http://cdn99.one:80/356195/FgHq4u/75002.ts|User-Agent=Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+   <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/TVCine-ACTION.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+</menus>
