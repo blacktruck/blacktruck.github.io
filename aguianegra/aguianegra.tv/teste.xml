@@ -3,26 +3,26 @@
 <menu>
 <title>[B][COLOR white]Gloobinho[/COLOR][/B]</title>
 <link>$doregex[Flecha_Negra]</link>
+<thumbnail></thumbnail>
 <regex>
 <name>Flecha_Negra</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.flechanegra.repl.co/assistirtv/ch=gloobinho?url=https://tv0800.xyz/tv.php?canal=globinho</page>
 </regex>
 <info>Gloobinho é um canal educacional brasileiro canal de TV paga pertencente a Globosat. Baseado em Gloob, o canal é destinado a crianças de 2 a 5 anos.</info>
-<thumbnail></thumbnail>
 <fanart></fanart>
 </menu>
 
 <menu>
 <title>[B][COLOR white]ESPN[/COLOR][/B]</title>
 <link>$doregex[Flecha_Negra]</link>
+<thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/espn.png</thumbnail>
 <regex>
 <name>Flecha_Negra</name>
 <expres>"stream":.+?"(.*?)"</expres>
 <page>https://apiresolver.flechanegra.repl.co/assistirtv/ch=espn?url=https://tv0800.xyz/tv.php?canal=espn</page>
 </regex>
 <info>ESPN, sigla para Entertainment and Sports Programming Network, é uma rede de TV por assinatura dos Estados Unidos dedicada à transmissão e produção de programas esportivos 24 horas por dia.</info>
-<thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/espn.png</thumbnail>
 <fanart></fanart>
 </menu>
 </menus>
