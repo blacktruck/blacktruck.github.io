@@ -3,7 +3,7 @@
 <menus>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS BRASIL [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -27,7 +27,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS POR CATEGORIA[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS POR CATEGORIA BRASIL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -69,5 +69,74 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
  
+ 
+<menus>
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS CANADA [/COLOR]</title>
+<link>$doregex[channel]</link>
+<regex>
+<name>channel</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR khaki][channel.param3][/COLOR]  [COLOR white][channel.param4][/COLOR][/B]</title>
+  <link>[channel.param5]</link>
+  <thumbnail>[channel.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  data = re.findall('EXTINF.*?chno="(\d+).*?logo="(.*?)".*?title="(.*?)",(.*)\n(.*)',page_data)
+  data.sort()
+  return data
+]]></expres>
+<page>https://i.mjh.nz/PlutoTV/ca.m3u8</page>
+</regex>
+<thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+ 
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TODOS POR CATEGORIA CANADA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
+  <link>$doregex[channel]</link>
+  <thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  match = re.findall('group-title="([^"]+)"',page_data)
+  seccion_list = []
+  for x in match:
+    if x not in seccion_list:
+      seccion_list.append(x)
+  return seccion_list
+]]></expres>
+<page>https://i.mjh.nz/PlutoTV/ca.m3u8</page>
+</regex>
+<regex>
+<name>channel</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white][channel.param1] | [channel.param3][/COLOR][/B]</title>
+  <link>[channel.param4]</link>
+  <thumbnail>[channel.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re
+  data = re.findall('EXTINF.*?chno="(\d+).*?logo="(.*?)".*?title="[makelist.param1]",(.*)\n(.*)',page_data)
+  data.sort()
+  return data
+]]></expres>
+<page>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/br.m3u8</page>
+</regex>
+<thumbnail>https://i.imgur.com/MgsDzb9.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 
 </menus>
