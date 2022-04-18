@@ -39,10 +39,12 @@ http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&
 http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUARTOS-LINKS Eleven_Sports" tvg-logo="" ,[B][COLOR lime]=====-QUARTOS LINKS Eleven_Sports=====[/B][/COLOR]
 https://
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS.png" group-title="ELEVEN_SPORTS 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS.png" group-title="ELEVEN_SPORTS 1",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_2.png" group-title="ELEVEN_SPORTS 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
@@ -50,6 +52,11 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROI
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_4.png" group-title="ELEVEN_SPORTS 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
 http://213.13.23.132/shls/LIVE%24Eleven_Sports_4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_5.png" group-title="ELEVEN_SPORTS 5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_6.png" group-title="ELEVEN_SPORTS 6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://213.13.23.132/shls/LIVE%24Eleven_Sports_6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUINTOS-LINKS Benfica_TV" tvg-logo="" ,[B][COLOR lime]=====-QUINTOS LINKS Benfica_TV=====[/B][/COLOR]
