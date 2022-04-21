@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f$nome=T1 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83$nome=T2 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870$nome=T3 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53$nome=T4 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41$nome=T5 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f$nome=T6 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697$nome=T7 COMPLETA</link>
-<thumbnail>https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL SUPER | 1 TEMPORADA</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D</link>
+<thumbnail>https://media.fstatic.com/s1tpmGWtUuIZkTkuCpxq7x9WNP4=/210x312/smart/media/movies/covers/2014/12/dragon-ball-z_t26474_11.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D$nome=T1 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$nome=T2 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D$nome=T3 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A$nome=T4 COMPLETA</link>
-<thumbnail>https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL SUPER | 2 TEMPORADA</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/10/20/21/11/025941.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu><menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL SUPER | 3 TEMPORADA</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/16/10/20/21/11/025941.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL SUPER | 4 TEMPORADA</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A</link>
+<thumbnail>https://media.fstatic.com/w56vtXjZdJFvAkab_lo5CNz7Db8=/290x478/smart/media/movies/covers/2017/04/dbz_futuretrunks.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
