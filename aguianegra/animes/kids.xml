@@ -9,11 +9,9 @@
 
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D$nome=T1 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$nome=T2 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D$nome=T3 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A$nome=T4 COMPLETA</link>
-<thumbnail>https://logodownload.org/wp-content/uploads/2017/12/dragon-ball-super-logo.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/dragon-ball-super.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink></externallink>
+
 </menu>
 </menus>
