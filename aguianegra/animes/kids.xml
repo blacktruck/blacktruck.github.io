@@ -14,7 +14,14 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/base-dragon-super.xml</externallink>
 </menu>
-<menus>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/dragon-ball-super.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/base-dragon-super.xml</externallink>
+</menu>
+</menus>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] NARUTO CLÁSSICO | COMPLETO [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D</link>
@@ -29,5 +36,4 @@
 <fanart></fanart>
 <info></info>
 </menu>
-</menus>
 </menus>
