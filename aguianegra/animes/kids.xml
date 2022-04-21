@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/B][/COLOR]</title>
+<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/draganball.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/base-drag.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/dragon-ball-super.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/base-dragon-super.xml</externallink>
 </menu>
 </menus>
