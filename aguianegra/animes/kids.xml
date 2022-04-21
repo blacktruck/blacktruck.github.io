@@ -2,15 +2,9 @@
 <menus>
 <menu>
 <title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f$nome=T1 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83$nome=T2 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870$nome=T3 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53$nome=T4 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41$nome=T5 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f$nome=T6 COMPLETA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697$nome=T7 COMPLETA</link>
-<thumbnail>https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/draganball.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/base-drag.xml</externallink>
 </menu>
 
 <menu>
