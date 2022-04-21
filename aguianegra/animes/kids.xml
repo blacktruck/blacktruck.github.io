@@ -2,16 +2,16 @@
 <menus>
 <menu>
 <title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/B][/COLOR]</title>
+<link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/draganball.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/base-drag.xml</externallink>
 </menu>
-
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER</title>
+<link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/dragon-ball-super.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink></externallink>
-
 </menu>
 </menus>
