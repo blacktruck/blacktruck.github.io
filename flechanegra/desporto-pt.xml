@@ -2,153 +2,105 @@
 #EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
 #EXTM3U
 
-#EXTINF:-1,PT: Eleven Sports 6 SD
+#EXTINF:-1 ,PT: Sporting Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106416
+#EXTINF:-1 ,PT: MCS ⁴ᵏ ʰ²⁶⁵
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106413
+#EXTINF:-1 ,PT: Eleven Sports 6 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106412
-#EXTINF:-1,PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106411
-#EXTINF:-1,PT: Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106410
-#EXTINF:-1,PT: Eleven Sports 5 SD
+#EXTINF:-1 ,PT: Eleven Sports 5 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106409
-#EXTINF:-1,PT: Eleven Sports 5 HD
+#EXTINF:-1 ,PT: Eleven Sports 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106408
-#EXTINF:-1,PT: Eleven Sports 5 FHD
+#EXTINF:-1 ,PT: Eleven Sports 5 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106407
-#EXTINF:-1,PT: Eleven Sports 4 SD
+#EXTINF:-1 ,PT: Eleven Sports 4 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106406
-#EXTINF:-1,PT: Eleven Sports 4 HD
+#EXTINF:-1 ,PT: Eleven Sports 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106405
-#EXTINF:-1,PT: Eleven Sports 4 FHD
+#EXTINF:-1 ,PT: Eleven Sports 4 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106404
-#EXTINF:-1,PT: Eleven Sports 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106403
-#EXTINF:-1,PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106402
-#EXTINF:-1,PT: Eleven 3  ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106401
-#EXTINF:-1,PT: Eleven 3 ᶠʰᵈ ²⁶⁵
+#EXTINF:-1 ,PT: Eleven 3 ᶠʰᵈ ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106400
-#EXTINF:-1,PT: Eleven Sports 3 FHD
+#EXTINF:-1 ,PT: Eleven Sports 3 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106399
-#EXTINF:-1,PT: Eleven Sports 2 SD
+#EXTINF:-1 ,PT: Eleven Sports 2 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106398
-#EXTINF:-1,PT: Eleven Sports 2 HD
+#EXTINF:-1 ,PT: Eleven Sports 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106397
-#EXTINF:-1,PT: Eleven 2 ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Eleven 2 ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106396
-#EXTINF:-1,PT: Eleven 2 ᶠʰᵈ ²⁶⁵
+#EXTINF:-1 ,PT: Eleven 2 ᶠʰᵈ ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106395
-#EXTINF:-1,PT: Eleven Sports 2 FHD
+#EXTINF:-1 ,PT: Eleven Sports 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106394
-#EXTINF:-1,PT: Eleven Sports 1 SD
+#EXTINF:-1 ,PT: Eleven Sports 1 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106393
-#EXTINF:-1,PT: Eleven Sports 1 HD
+#EXTINF:-1 ,PT: Eleven Sports 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106392
-#EXTINF:-1,PT: Eleven 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106391
-#EXTINF:-1,PT: Eleven 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106390
-#EXTINF:-1,PT: Eleven Sports 1 FHD
+#EXTINF:-1 ,PT: Eleven Sports 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106389
-#EXTINF:-1,PT: BTV SD
+#EXTINF:-1 ,PT: BTV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106388
-#EXTINF:-1,PT: BTV HD
+#EXTINF:-1 ,PT: BTV HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106387
-#EXTINF:-1,PT: Btv ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Btv ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106386
-#EXTINF:-1,PT: BTV ᶠʰᵈ ²⁶⁵
+#EXTINF:-1 ,PT: BTV ᶠʰᵈ ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106385
-#EXTINF:-1,PT: BTV 1 FHD (extra)
+#EXTINF:-1 ,PT: BTV 1 FHD (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106384
-#EXTINF:-1,PT: BTV FHD 
+#EXTINF:-1 ,PT: BTV FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106383
-#EXTINF:-1,PT: Btv ⁴ᵏ ʰ²⁶⁵
+#EXTINF:-1 ,PT: Btv ⁴ᵏ ʰ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106382
-#EXTINF:-1,PT: Sport Tv 5 SD
+#EXTINF:-1 ,PT: Sport Tv 5 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106381
-#EXTINF:-1,PT: Sport Tv 5 HD
+#EXTINF:-1 ,PT: Sport Tv 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106380
-#EXTINF:-1,PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106379
-#EXTINF:-1,PT: Sport Tv 5 FHD
+#EXTINF:-1 ,PT: Sport Tv 5 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106378
-#EXTINF:-1,PT: Sport Tv 4 SD
+#EXTINF:-1 ,PT: Sport Tv 4 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106377
-#EXTINF:-1,PT: Sport Tv 4 HD 
+#EXTINF:-1 ,PT: Sport Tv 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106376
-#EXTINF:-1,PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Sport Tv 4 ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106375
-#EXTINF:-1,PT: Sport Tv 4 FHD
+#EXTINF:-1 ,PT: Sport Tv 4 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106374
-#EXTINF:-1,PT: Sport Tv 3 SD (extra)
+#EXTINF:-1 ,PT: Sport Tv 3 SD (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106373
-#EXTINF:-1,PT: Sport Tv 3 SD
+#EXTINF:-1 ,PT: Sport Tv 3 SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106372
-#EXTINF:-1,PT: Sport Tv 3 HD
+#EXTINF:-1 ,PT: Sport Tv 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106371
-#EXTINF:-1,PT: Sport Tv 3 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106370
-#EXTINF:-1,PT: Sport Tv 3 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106369
-#EXTINF:-1,PT: Sport Tv 3 FHD (extra)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106368
-#EXTINF:-1,PT: Sport Tv 3 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106367
-#EXTINF:-1,PT: Sport Tv 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106366
-#EXTINF:-1,PT: Sport Tv 2 HD
+#EXTINF:-1 ,PT: Sport Tv 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106365
-#EXTINF:-1,PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Sport Tv 2 ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106364
-#EXTINF:-1,PT: SportTv 2 ᶠʰᵈ ²⁶⁵
+#EXTINF:-1 ,PT: SportTv 2 ᶠʰᵈ ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106363
-#EXTINF:-1,PT: Sport Tv 2 FHD (extra)
+#EXTINF:-1 ,PT: Sport Tv 2 FHD (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106362
-#EXTINF:-1,PT: Sport Tv 2 FHD 
+#EXTINF:-1 ,PT: Sport Tv 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106361
-#EXTINF:-1,PT: Sport Tv 2 SD (extra)
+#EXTINF:-1 ,PT: Sport Tv 2 SD (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106360
-#EXTINF:-1,PT: Sport Tv 1 SD (extra)
+#EXTINF:-1 ,PT: Sport Tv 1 SD (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106359
-#EXTINF:-1,PT: Sport Tv 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106358
-#EXTINF:-1,PT: Sport Tv 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106357
-#EXTINF:-1,PT: Sport Tv 1 ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106356
-#EXTINF:-1,PT: SportTv 1 ᶠʰᵈ ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106355
-#EXTINF:-1,PT: Sport Tv 1 FHD (extra)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106354
-#EXTINF:-1,PT: Sport Tv 1 FHD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106353
-#EXTINF:-1,PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
+#EXTINF:-1 ,PT: Sport Tv 1 ⁴ᵏ ʰ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106352
-#EXTINF:-1,PT: Sport Tv + (extra)
+#EXTINF:-1 ,PT: Sport Tv + (extra)
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106351
-#EXTINF:-1,PT: Sport Tv + 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106350
-#EXTINF:-1,PT: Sport Tv + ʰᵈ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106349
-#EXTINF:-1,PT: Sport Tv + FHD
+#EXTINF:-1 ,PT: Sport Tv + FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106348
-#EXTINF:-1,PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Sport Tv Nba ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106347
-#EXTINF:-1,PT: Sport Tv NBA 
+#EXTINF:-1 ,PT: Sport Tv NBA
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106346
-#EXTINF:-1,PT: Canal 11 ʰᵈ ᴴ²⁶⁵
+#EXTINF:-1 ,PT: Canal 11 ʰᵈ ᴴ²⁶⁵
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106345
-#EXTINF:-1,PT: Canal 11 FHD
+#EXTINF:-1 ,PT: Canal 11 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106344
-#EXTINF:-1,PT: Sport TV +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1550
-#EXTINF:-1,PT: Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1551
-#EXTINF:-1,PT: Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1552
-#EXTINF:-1,PT: Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1553
-#EXTINF:-1,PT: Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1554
-#EXTINF:-1,PT: Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22maky/test111/1555
