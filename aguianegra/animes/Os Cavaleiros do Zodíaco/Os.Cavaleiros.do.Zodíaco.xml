@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]JUSTIÇA JOVEM 1 Temporda[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:248E62E85C963D85090466CD5EC51097DF84124C</link>
+<thumbnail>https://i.imgur.com/tc4ErHB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]JUSTIÇA JOVEM 2 Temporda[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B261FB66467249CF90177D1F07A2E9A354B5960</link>
+<thumbnail>https://m.media-amazon.com/images/I/61AQXRtl7KL._AC_SX569_.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+</menus>
