@@ -24,7 +24,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TOKUSATSU  [/COLOR]</title>
 <link>NA</link>
-<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/TOKUSATSU/Kamen-Rider-Zero-Tokusatsu.webp</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/TOKUSATSU/maxresdefault.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/TOKUSATSU/TOKUSATSU.xml</externallink>
 </menu>
@@ -34,5 +34,12 @@
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Kyaputen%20Tsubasa/images.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Kyaputen%20Tsubasa/Kyaputen%20Tsubasa.xml</externallink>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Justiça Jovem [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Justi%C3%A7a%20Jovem/images.jpg>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/JUSTI%C3%87A%20JOVEM/qPW031aV8CgTWB6XOkyW2M9cUyw.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Justi%C3%A7a%20Jovem/JUSTI%C3%87A%20JOVEM.xml</externallink>
 </menu>
 </menus>
