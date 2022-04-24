@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Lois e Clark 1 Temporda[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09A54DB0312C4720F88CE23CA2D2C0E3B553F225</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/4/43/Lois%26Clark.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] LUCIFER | 1 TEMPORADA [/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5B3F49F839C39DFD2F9A17B423E7E24AAB2D783B&dn</link>
+<thumbnail>https://i.ytimg.com/vi/Cu5PUoUgct4/hqdefault.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Lois e Clark 2 Temporda[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFC54BF6F1239B5B9837F8905743098A67A3F71B</link>
-<thumbnail>https://media.fstatic.com/BHktHD5lQACfW0dC-uMWj9PfZjc=/210x312/smart/media/movies/covers/2010/06/3df9c6ae95820444352f5867edd743e1.jpg</thumbnail>
+<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate] LUCIFER | 2 TEMPORADA [/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:67CD11B0CF92B35A99058B754C6EDECC3B5D8666&dn</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/11/26/12/36/1776927.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] LUCIFER | 3 TEMPORADA [/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:D32F6B735B8F0FE4857977082E268655EF506D6F&dn</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/13/Lucifer_Temporada_3_Poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] LUCIFER | 4 TEMPORADA [/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:B9238AAEBD75B66B515B5E2B28B6376E2CC5EE54&&dn</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Lucifer_Temporada_4_Poster.jpg/220px-Lucifer_Temporada_4_Poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] LUCIFER | 5 TEMPORADA [/COLOR]</title>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:fae5510c71dd215176a293d33eee2ecffbdd693d</link>
+<thumbnail>https://static1.purebreak.com.br/articles/8/87/23/8/@/328705--lucifer-tem-5-temporada-confirmada-pe-diapo-1.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
