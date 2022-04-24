@@ -2,7 +2,7 @@
 <menus>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Monstro do Pântano | 1 TEMPORADA [/COLOR]</title>
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:927d1112c5061d6bc0b496f69e72ba496fa197ab</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:927d1112c5061d6bc0b496f69e72ba496fa197ab</link>
 <thumbnail>https://cdn2.penguin.com.au/covers/original/9781779506955.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
