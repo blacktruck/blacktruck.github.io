@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Magnatas do Crime  [/COLOR]</title>
-<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Desconhecido  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9A80FDDA7E65BD14B5702E6B7EA9700376556A2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/bOcgTLEMgWu0pDhUhxR5xa6tAm5.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Spawn O Soldado do Inferno  [/COLOR]</title>
-<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35b3f92d95564033867b922477d373039860f970</link>
-<thumbnail>https://i.imgur.com/o00oOkU.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Ambulância  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0EDDF6FB31156506E294225B378B0C998C8E9D3</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/ambulance_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Ficando Vermelho [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88709AF0CF0340B89E0C9666258000F946F04876</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/turning_red_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] O Batman [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0C23E50E075C634CFD5CD8A09A82F6EEE18D72A8</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/the_batman_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Tempestade Infinita  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58FE5C1B73D06DE67C8C43369D8B31E7641A1782</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/infinite_storm_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A roupa [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:106F3D0555F19A43B540C108F6CE3AC58B6A0B9F</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/the_outfit_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Luz negra [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C620FD5694A4B0874F732970AAFE23E536F2FE8</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/blacklight_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Moonfall [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDED8E92CCA4EF5141335D59735D3BF1133B441E</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/moonfall_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Expirado [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E217839E01F73939686AFEDF5BEFBBA9127F719</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/expired_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Escolha ou morra [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE3B76766B02A0A3004DFFC93E442A7246C0126A</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/choose_or_die_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Cellar [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E074F7856F49376F852F74A0F37CBE3CF54C831C</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/the_cellar_2022/medium-cover.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Umma [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6AE0FD1EEFDB571D66E037E8D43DF31173C96001</link>
+<thumbnail>https://img.yts.mx/assets/images/movies/umma_2022/medium-cover.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
