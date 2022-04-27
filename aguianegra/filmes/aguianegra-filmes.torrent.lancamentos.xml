@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Sonic 2  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8</link>
+<thumbnail>https://i.imgur.com/N8XZvIr.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Um Dia Difícil  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6808b8c6c7c0b0191899b83c469393c46c70301</link>
+<thumbnail>https://i.imgur.com/ozm8Op4.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] O diabo que você conhece  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A573F3204823D672F83CFA16E49CD0915D2E55A8</link>
+<thumbnail>https://i.imgur.com/StUxEbt.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Desconhecido  [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9A80FDDA7E65BD14B5702E6B7EA9700376556A2</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/bOcgTLEMgWu0pDhUhxR5xa6tAm5.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/VPUjJAy.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Filhos do pecado  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F8345897D846DFA717C64B787F70AE28B0A016BB</link>
+<thumbnail>https://i.imgur.com/brIHgW1.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Vírus-32 [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC8CBC58F08903865F3A356937EF23FF00120A47</link>
+<thumbnail>https://i.imgur.com/UH8u7WK.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] 9 balas [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C96118C794F46F7382A374C3AE5AF82A0EFB73D9</link>
+<thumbnail>https://i.imgur.com/lP84FtS.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
