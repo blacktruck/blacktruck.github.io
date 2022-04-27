@@ -104,3 +104,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106345
 #EXTINF:-1 ,PT: Canal 11 FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106344
+#EXTM3U
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvmannen.es/iptv_channels/2258124_files/sporttvpluspt.png",PT: Sport TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1550
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvprofil.com/img/kanali-logo/sport-tv1-pt.png",PT: Sport TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1551
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvprofil.com/img/kanali-logo/sport-tv2-pt.png",PT: Sport TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1552
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://190.2.141.78:25461/logo_channels/sport_tv_pt_3.png",PT: Sport TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1553
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvprofil.com/img/kanali-logo/sport-tv4-pt.png",PT: Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1554
+#EXTINF:-1 group-title="Portugal" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=https://tvprofil.com/img/kanali-logo/sport-tv5-pt.png",PT: Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1555
