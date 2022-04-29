@@ -30,5 +30,28 @@
 <thumbnail>https://i.imgur.com/HlWswDH.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Ponto de inflamação[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51AD6D8EDD72C80BF419C684DE65920DC27CF074</link>
+<thumbnail>https://i.imgur.com/MksfzkC.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Zona de Morte[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2731923C1E515AD628AC73CECFC286F4E52CC29A</link>
+<thumbnail>https://i.imgur.com/92OIU7I.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rogue One: Uma História Star Wars[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC9B4318E4D45FF9B52E60D28177D58BC573CC0D</link>
+<thumbnail>https://i.imgur.com/GcXB1Ye.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Homem de Gelo: O Viajante do Tempo[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E83F0494404587874BE6763AB8950CAEC3BA350</link>
+<thumbnail>https://i.imgur.com/6ZeudTe.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
