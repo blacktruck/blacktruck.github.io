@@ -138,4 +138,16 @@
 <thumbnail>https://i.imgur.com/ZMzt3Qb.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]ID especial[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07976A85AE926743FC3D6D5FB8BB93F2D17C2B1B</link>
+<thumbnail>https://i.imgur.com/l4YZ0lM.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]lenda do lobo[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84EBC4F75BBEB24376FB33A9EF7CB382F36F5EA6</link>
+<thumbnail>https://i.imgur.com/w4wvoAH.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
