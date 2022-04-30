@@ -150,4 +150,34 @@
 <thumbnail>https://i.imgur.com/w4wvoAH.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Grande irmão[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39C74ECA88327934E887BD16CBF4A0107CF553D1</link>
+<thumbnail>https://i.imgur.com/aa40swe.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Perseguindo o Dragão[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49A66C51024C82EE08D40047794811736D00AD4C</link>
+<thumbnail>https://i.imgur.com/ihK8oUa.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]O Espadachim Perdido[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83507A157E9B30CB81299C6213BD65E48F4E18D7</link>
+<thumbnail>https://i.imgur.com/nlBz8Eu.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Macaco de Ferro[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:738BC90835B965D3A1DAB9582AE0AFC3FC067428</link>
+<thumbnail>https://i.imgur.com/nseMYP8.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Homem de Gelo[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:631C0E1DF709E1782FA9A86D6B1028D0A528B8B7</link>
+<thumbnail>https://i.imgur.com/NCn5UX6.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
