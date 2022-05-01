@@ -174,4 +174,16 @@
 <thumbnail>https://i.imgur.com/ULWm2bK.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Tigres da Ferrovia[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E958D20DC7FD204E8F23CEB609FD3CFE53C830DD</link>
+<thumbnail>https://i.imgur.com/LAxWams.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Mestre bêbado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E519CEFD55F631533067D031411729EB901A08DE</link>
+<thumbnail>https://i.imgur.com/TeBfcA1.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
