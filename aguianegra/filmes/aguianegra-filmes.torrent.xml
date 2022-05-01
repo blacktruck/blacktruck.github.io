@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A Volta do Monstro do Pântano [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb9e8b92b8cf98b6e69608f4f32f1b85e3b2e05e</link>
+<thumbnail>https://i.imgur.com/BHapTdq.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Spawn O Soldado do Inferno  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35b3f92d95564033867b922477d373039860f970</link>
+<thumbnail>https://i.imgur.com/o00oOkU.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Corrida de canhão II[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C32CC114B6E444C8074A249BCCC38405C105A0C5</link>
+<thumbnail>https://i.imgur.com/UMMu6aL.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+</menus>
