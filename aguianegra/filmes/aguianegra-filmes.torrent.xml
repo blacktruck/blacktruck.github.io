@@ -72,4 +72,16 @@
 <thumbnail>https://i.imgur.com/KJ7OL2x.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Punho Imortal: A Lenda do Wing Chun[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DC450960BBCBBA09B747C243B4B76CB1A687A6B1</link>
+<thumbnail>https://i.imgur.com/dzbrokg.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Imortal[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F07012C4C59906BCB8AD91AA9449DB197453E820</link>
+<thumbnail>https://i.imgur.com/44f52Gi.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
