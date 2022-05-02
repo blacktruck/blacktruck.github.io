@@ -102,4 +102,16 @@
 <thumbnail>https://i.imgur.com/XYvupZr.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Animal[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE782B45BC75C853BA18F8179A64AEB086FF5FD2</link>
+<thumbnail>https://i.imgur.com/CjpUEYj.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Os alpinistas[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E65AB948127C55B2A588095E5EF383C20669320A</link>
+<thumbnail>https://i.imgur.com/Vt4VVKx.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
