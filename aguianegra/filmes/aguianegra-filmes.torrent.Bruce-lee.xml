@@ -114,4 +114,17 @@
 <thumbnail>https://i.imgur.com/4AWx5i1.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]the real bruce lee[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:980acd2da7424688c1c8782e8f8f861c9940d2a5</link>
+<thumbnail>https://i.imgur.com/Smwjd1U.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]deadly fingers[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3440cc02124c9a4b61721f570f8cde4015f4b345</link>
+<thumbnail>https://i.imgur.com/10OpFMs.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
 </menus>
