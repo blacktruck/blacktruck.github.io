@@ -246,4 +246,22 @@
 <thumbnail>https://i.imgur.com/j8E683N.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Incidente Shinjuku[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43B2B4DC76F016244AA7F8C9DA3793F716484107</link>
+<thumbnail>https://i.imgur.com/MmHk4bR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]1911[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF57BAD3A464C70A4BF5CA2445A501D5756CF91B</link>
+<thumbnail>https://i.imgur.com/KMUzKbR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rob-B-Capuz[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66A080C947F3ECCBF079EE5995D2246D314D189E</link>
+<thumbnail>https://i.imgur.com/MSrBXkX.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
