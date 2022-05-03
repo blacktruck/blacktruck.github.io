@@ -259,9 +259,21 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rob-B-Capuz[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66A080C947F3ECCBF079EE5995D2246D314D189E</link>
-<thumbnail>https://i.imgur.com/MSrBXkX.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Coração de um dragão[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00D4C5ACA2891B0FACF18125B2A4E4955000F96D</link>
+<thumbnail>https://i.imgur.com/3b8cvbg.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]A hiena destemida[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B04944E27E8509430DD5E95C4E109A8ECC0A886C</link>
+<thumbnail>https://i.imgur.com/bpcxJcf.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Hiena Destemida 2[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77234BEE35326C408C64721353B74B6F5151BA3E</link>
+<thumbnail>https://i.imgur.com/hQ6BPjK.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
