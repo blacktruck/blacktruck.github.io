@@ -132,4 +132,16 @@
 <thumbnail>https://i.imgur.com/TkUtHkN.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Crianças de Shaolin[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0EF1C3A962D4853642DFA7E4DBC5DDB04976C23C</link>
+<thumbnail>https://i.imgur.com/xsT6skd.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]jogador Shaolin[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3035785C35C5845A2F7A0327873BCD5F672CF5A0</link>
+<thumbnail>https://i.imgur.com/yGZohmR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
