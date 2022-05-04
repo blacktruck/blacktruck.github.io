@@ -42,4 +42,16 @@
 <thumbnail>https://i.imgur.com/PramJ3K.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Os Mercenários 2[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D352981ECAC8C3F56BB256EB3FC72D84B6DAE55</link>
+<thumbnail>https://i.imgur.com/wLt4zWP.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]soldado Universal[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65C40C854EA986476557DF85B018BC78CE52CBAB</link>
+<thumbnail>https://i.imgur.com/4Hurhnv.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
