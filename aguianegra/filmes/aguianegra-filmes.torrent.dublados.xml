@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Sonic   [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83B86F3D4E91227150E3BD76A4FBAAA731D40BD4</link>
+<thumbnail>https://i.imgur.com/kbWXs78.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Sonic 2  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5rfjwil4ohkk22ew6epaql6ik7i47d5m</link>
+<thumbnail>https://i.imgur.com/N8XZvIr.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Magnatas do Crime  [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:141231A789FFEA164E061F53BACFF896A90A83CF</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg</thumbnail>
