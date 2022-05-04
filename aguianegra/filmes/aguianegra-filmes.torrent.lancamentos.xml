@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Os caras maus  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D309FC380AE565D7FD90E1C04EEF8638BE33ABA9</link>
+<thumbnail>https://i.imgur.com/ZpOqdfD.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Sonic 2  [/COLOR]</title>
-<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18B4DF03426697E5D540AA57D7F91AEEFC8C1378</link>
 <thumbnail>https://i.imgur.com/N8XZvIr.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
