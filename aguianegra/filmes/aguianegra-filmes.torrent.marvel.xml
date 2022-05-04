@@ -1,9 +1,165 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Capitão América: O Soldado Invernal[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Iron Man (2008)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71754637FD29B4BE433723A4A559086E2BC083DC</link>
+<thumbnail>https://en.wikipedia.org/wiki/Iron_Man_(2008_film)#/media/File:Iron_Man_(2008_film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Incredible Hulk (2008)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4AB118FC83D62E7C330CC353DBD8E12AFBFBB5E</link>
+<thumbnail>https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)#/media/File:The_Incredible_Hulk_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Iron Man 2 (2010)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B550A0A32B0749ABFADB8EB0736F03D271E876E0</link>
+<thumbnail>https://en.wikipedia.org/wiki/Iron_Man_2#/media/File:Iron_Man_2_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Thor (2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABCE88CCC2D0690078840A20398F32077C89FF0E</link>
+<thumbnail>https://en.wikipedia.org/wiki/Thor_(film)#/media/File:Thor_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Captain America: The First Avenger (2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25AA732E39DB228AA7989EE66CC487C914AEBF40</link>
+<thumbnail>https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger#/media/File:Captain_America_The_First_Avenger_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Avengers (2012)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9F759B6A26113F3745311DAD4BD332B4612EB60</link>
+<thumbnail>https://en.wikipedia.org/wiki/The_Avengers_(2012_film)#/media/File:The_Avengers_(2012_film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Iron Man 3 (2013)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70B487B9E21E2869AF831397851F45A00D3EA7CA</link>
+<thumbnail>https://en.wikipedia.org/wiki/Iron_Man_3#/media/File:Iron_Man_3_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Thor: The Dark World (2013)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6393195B9986C748E4F8E7CCB4F10C72F6CE7BBC</link>
+<thumbnail>https://en.wikipedia.org/wiki/Thor:_The_Dark_World#/media/File:Thor_The_Dark_World_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Captain America: The Winter Soldier (2014)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04A8C73349E0FE148557C3A9BA8482E0AA67AD49</link>
-<thumbnail>https://i.imgur.com/Hv099Mv.jpg</thumbnail>
+<thumbnail>https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier#/media/File:Captain_America:%20The_Winter_Soldier_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Guardians of the Galaxy (2014)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11A2AC68A11634E980F265CB1433C599D017A759</link>
+<thumbnail>https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_(film)#/media/File:Guardians_of_the_Galaxy_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Avengers: Age of Ultron (2015)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92B4D5EA2D21BC2692A2CB1E5B9FBECD489863EC</link>
+<thumbnail>https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron#/media/File:Avengers:%20Age_of_Ultron_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Ant-Man (2015)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE07FC0BC38040AC3E7440C4DE02C02A4A8E0154</link>
+<thumbnail>https://en.wikipedia.org/wiki/Ant-Man_(film)#/media/File:Ant-Man_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Captain America: Civil War (2016)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89925FB48CAE260801F35FB7175530BF6E5E055A</link>
+<thumbnail>https://en.wikipedia.org/wiki/Captain_America:_Civil_War#/media/File:Captain_America:%20Civil_War_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Doctor Strange (2016)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri="magnet:?xt=urn:btih:7BA0C6BD9B4E52EA2AD137D02394DE7D83B98091</link>
+<thumbnail>https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)#/media/File:Doctor_Strange_(2016_film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Guardians of the Galaxy Vol. 2 (2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F3E2C6A942C2C270CB7E9D5498AC9AE96F3E31E</link>
+<thumbnail>https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2#/media/File:Guardians_of_the_Galaxy_Vol_2_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Spider-Man: Homecoming (2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4415109a20908d55cd42eaf24df9aaf89f7b0f7b</link>
+<thumbnail>https://en.wikipedia.org/wiki/Spider-Man:_Homecoming#/media/File:Spider-Man_Homecoming_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Thor: Ragnarok (2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9D130CE07D0F1997CB4AE6F9EFF2A8CC07D0E97</link>
+<thumbnail>https://en.wikipedia.org/wiki/Thor:_Ragnarok#/media/File:Thor_Ragnarok_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Black Panther (2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E156CE70FEE6464549FEF653C8468AECB3E7E9F1</link>
+<thumbnail>https://en.wikipedia.org/wiki/Black_Panther_(film)#/media/File:Black_Panther_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Avengers: Infinity War (2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85c980d1de3d6e070fd5c2e3ba6a3cbacca74eb7</link>
+<thumbnail>https://en.wikipedia.org/wiki/Avengers:_Infinity_War#/media/File:Avengers_Infinity_War_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Ant-Man and the Wasp (2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F01D441E6AEF6D05A3E7C3705BFBD543D4F80695</link>
+<thumbnail>https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp#/media/File:Ant-Man_and_the_Wasp_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Captain Marvel (2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00DE6A0146A8526CB3EA004479B8EAB3B5B40245</link>
+<thumbnail>https://en.wikipedia.org/wiki/Captain_Marvel_(film)#/media/File:Captain_Marvel_(film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Avengers: Endgame (2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:223F7484D326AD8EFD3CF1E548DED524833CB77E</link>
+<thumbnail>https://en.wikipedia.org/wiki/Avengers:_Endgame#/media/File:Avengers_Endgame_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Spider-Man: Far from Home (2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:510AADAA88CA9473470CA31C7696977C5BE57DEF</link>
+<thumbnail>https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home#/media/File:Spider-Man_Far_From_Home_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Black Widow (2021)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:995ECD1010EFC8EABCDB1D0EE2FCBE1AFE63E1D5</link>
+<thumbnail>https://en.wikipedia.org/wiki/Black_Widow_(2021_film)#/media/File:Black_Widow_(2021_film)_poster.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Shang-Chi and the Legend of the Ten Rings (2021)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98B61FD9DF89D0F4D08A23C14A0DEDFE38F81EFB</link>
+<thumbnail>https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings#/media/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Eternals (2021)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F921C01B1D8BC2D5B1C13B1F03275C932BA1157E</link>
+<thumbnail>https://en.wikipedia.org/wiki/Eternals_(film)#/media/File:Eternals_(film)_poster.jpeg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Spider-Man: No Way Home (2021)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8148C169C4B84048FCF8D44AAF275F82BC33829E</link>
+<thumbnail>https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home#/media/File:Spider-Man_No_Way_Home_poster.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
