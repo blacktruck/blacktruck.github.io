@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Morbius [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbfb51f56a87c6d820314bfea14ef44fa040887</link>
+<thumbnail>https://i.imgur.com/hrw0eAX.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Sonic   [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83B86F3D4E91227150E3BD76A4FBAAA731D40BD4</link>
 <thumbnail>https://i.imgur.com/kbWXs78.jpg</thumbnail>
