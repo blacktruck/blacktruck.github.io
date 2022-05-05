@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====DESPORTO MUNDIAL=====[/B][/COLOR]
-#EXTM3U
-
-
 #EXTINF:-1,AD SPORTS 1 720 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR];&amp;buffer=5000;url=https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1,AD SPORTS 1 1080 HD
