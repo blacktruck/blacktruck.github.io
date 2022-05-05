@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" ,[B][COLOR lime]=====PORTUGAL=====[/B][/COLOR]
-#EXTM3U
-
 #EXTINF:-1 ,PT: Sporting Tv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR]&Buffer=60000&url=http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/106416
 #EXTINF:-1 ,PT: MCS ⁴ᵏ ʰ²⁶⁵
