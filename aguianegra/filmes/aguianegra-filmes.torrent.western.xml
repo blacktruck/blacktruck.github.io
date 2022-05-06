@@ -44,7 +44,7 @@
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Lonely Trail[/COLOR]</title>
-<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D5F5BD29308E85E862765580668181F03B028D64</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3F5DCCEC8F80BB3DC52DABC7EFAC57F8D30C5CC</link>
 <thumbnail>https://i.imgur.com/XikTKHl.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
@@ -96,5 +96,16 @@
 <thumbnail>https://i.imgur.com/YprHGNS.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Spikes Gang[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7250662DF6F2CF8C3B8D3895DD4E5BA3599EE74C</link>
+<thumbnail>https://i.imgur.com/QjMUv26.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Apple Dumpling Gang[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08814107FDAB8280E0B3CFF73DDE2B182B281F20</link>
+<thumbnail>https://i.imgur.com/4ny1tm1.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
