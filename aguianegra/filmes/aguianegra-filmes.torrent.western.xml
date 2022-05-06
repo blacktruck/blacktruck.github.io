@@ -68,4 +68,16 @@
 <thumbnail>https://i.imgur.com/IDVj3EK.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Out of Liberty [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0BB69B8D93B1E75FBA44D5B7D5CE56ACFB8B180</link>
+<thumbnail>https://i.imgur.com/wVfrD1h.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A Prayer for the Damned[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9B3F15A701AB0E6FA2886CAE1A280B20362C2C8</link>
+<thumbnail>https://i.imgur.com/x9uV0Ar.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
