@@ -74,9 +74,28 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Blazing Saddles[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64AFBA934FF472D39051FBB8FD7F7CF74205D1C0</link>
+<thumbnail>https://i.imgur.com/SEmpEMB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Pale Door[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86F918ADFDE2AF6251BBD1350A7775917FFAABA8</link>
+<thumbnail>https://i.imgur.com/g1cI3mL.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A Prayer for the Damned[/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9B3F15A701AB0E6FA2886CAE1A280B20362C2C8</link>
 <thumbnail>https://i.imgur.com/x9uV0Ar.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Incident at Guilt Ridge[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:835769E69344B0B8F7596C6F9408AA76E407BBFC</link>
+<thumbnail>https://i.imgur.com/YprHGNS.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
 </menus>
