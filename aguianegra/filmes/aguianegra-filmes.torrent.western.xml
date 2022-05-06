@@ -98,7 +98,7 @@
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Spikes Gang[/COLOR]</title>
-<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7250662DF6F2CF8C3B8D3895DD4E5BA3599EE74C</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48266B748518593A1F92BF04205EE563D49D8550</link>
 <thumbnail>https://i.imgur.com/QjMUv26.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
@@ -106,6 +106,18 @@
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Apple Dumpling Gang[/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08814107FDAB8280E0B3CFF73DDE2B182B281F20</link>
 <thumbnail>https://i.imgur.com/4ny1tm1.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Rio Bravo[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79577928CDD4DAC094EA99880E0AC53184CAB3B9</link>
+<thumbnail>https://i.imgur.com/I9APklu.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A Fistful of Lead[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F357F5820A501DC72951332185B0878AE15E8137</link>
+<thumbnail>https://i.imgur.com/GGTQQVt.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
