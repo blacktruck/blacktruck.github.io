@@ -3,7 +3,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Agenda[/COLOR]</title>
 <link>NA</link>
-<thumbnail>https://i.imgur.com/8UR2Wya.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
 </menu>
@@ -15,7 +15,7 @@
 <listrepeat><![CDATA[
   <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR white][makelist.param1][/COLOR][/B]</title>
   <link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param2]</link>
-  <thumbnail>https://acestreamsearch.net/images/logo.png</thumbnail>
+  <thumbnail></thumbnail>
   <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[acestream.*?">(.*?)<.*?copy="(.*?)"]]></expres>
@@ -33,7 +33,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 <thumbnail></thumbnail>
-<fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
 <menu>
@@ -48,7 +48,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[enlace":"(.*?)","imagen":"(.*?)","imagen_fondo":"(.*?)","estado":(true),"orden":(.*?),"_id":"(.*?)","nombre":"(.*?)"]]></expres>
-<page>https://kodispaintv.herokuapp.com/api/buscar/productos/60911fbf01f9ac001530be3c</page>
+<page>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetrema.api.xml</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
