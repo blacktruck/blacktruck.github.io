@@ -8,7 +8,7 @@
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR red]BUSCADOR  ACESTREAMSEARCH[/COLOR]</title>       
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR red]BUSCADOR  ACESTREAMSEARCH[/COLOR]</title>       
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -37,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]ACESTREAM [/COLOR][/B]</title> 
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]ACESTREAM [/COLOR]</title> 
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
