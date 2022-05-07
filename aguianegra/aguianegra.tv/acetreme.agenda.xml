@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<menus>
+
+<menu>
+<title>AGENDA OPC.1</title>
+<link>$doregex[agenda]</link>
+<regex>
+<name>agenda</name>
+<listrepeat><![CDATA[
+<title>[UPPERCASE][B][COLOR blue]$doregex[parseDia][/COLOR][COLOR green]$doregex[parseDeporte][/COLOR][/B][/UPPERCASE][COLOR white]$doregex[parseEvento][/COLOR][COLOR gold][agenda.param5][/COLOR] [COLOR red][agenda.param4][/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://imgur.com/K41NwJ9.png</thumbnail>
+<fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[<span class=\"fecha-bar\">([^<]+)</span>|<span class=\"box-medium\">([^<]+)</span>|<a href=\"[^\"]+\">([^<]+)</a>|<li class=\"time-bar\">([^\(]+) \(Dial [\d]+\) <span>([^<]+)</span></li>]]></expres>
+<page>https://www.movistarplus.es/deportesendirectobar</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>parseDia</name>
+<expres>$pyFunction:('' if '''[agenda.param1]'''=='' else '''### [agenda.param1] ###''')</expres>
+<page></page>
+</regex>
+<regex>
+<name>parseDeporte</name>
+<expres>$pyFunction:('' if '''[agenda.param2]'''=='' else '''## [agenda.param2] ##''')</expres>
+<page></page>
+</regex>
+<regex>
+<name>parseEvento</name>
+<expres>$pyFunction:('' if '''[agenda.param3]'''=='' else '''# [agenda.param3] #''')</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
+<menu>
+<title>AGENDA OPC.2</title>
+<link>$doregex[agenda]</link>
+<regex>
+<name>agenda</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR gold][agenda.param4][/COLOR] [COLOR red][agenda.param6][/COLOR][/B][CR][I][COLOR white][agenda.param3]-[agenda.param5][/COLOR] [COLOR blue][agenda.param2][/COLOR][/I]</title>
+<link>nolink</link>
+<thumbnail>[agenda.param1]</thumbnail>
+<fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[<div class=\"div_campeonato\"><img width='25' src='([^']+)'/><a href=\"[^\"]+\" title=\"[^\"]+\">([^<]+)</a> <span class=\"movil2\">-</span> <span class=\"movil2\">[^<]+</span></div>
+  <div class=\"c movil\"></div>
+  <div class=\"div_equipo1\"><a href=\"[^\"]+\" title=\"[^\"]+\">([^<]+)</a></div>
+  <div class=\"div_hora\">([^<]+)</div>
+  <div class=\"div_equipo2\"><a href=\"[^\"]+\" title=\"[^\"]+\">([^<]+)</a></div>
+  <div class=\"div_cadena nomovil2\"><span>([^<]+)</span></div>]]></expres>
+<page>https://www.futbolenlatele.com/indexhoy.php</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
+</menus>
