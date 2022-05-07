@@ -8,7 +8,7 @@
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR red]BUSCADOR[/COLOR][COLOR white]     ACESTREAMSEARCH[/COLOR]  [/B]</title>       
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR red]BUSCADOR  ACESTREAMSEARCH[/COLOR]</title>       
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -32,7 +32,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://acestreamsearch.net/images/logo.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
 </menu>
 
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[enlace":"(.*?)","imagen":"(.*?)","imagen_fondo":"(.*?)","estado":(true),"orden":(.*?),"_id":"(.*?)","nombre":"(.*?)"]]></expres>
 <page>https://kodispaintv.herokuapp.com/api/buscar/productos/60911fbf01f9ac001530be3c</page>
 </regex>
-<thumbnail>https://forum.acestream.media/uploads/default/original/1X/a938665959a5e0520dfc183fbddaa5e8ea21448f.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
