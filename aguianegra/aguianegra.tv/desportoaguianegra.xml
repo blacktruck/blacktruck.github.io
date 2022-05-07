@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Agenda[/COLOR]</title>
-<link>NA</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
-</menu>
-<menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR red]BUSCADOR  ACESTREAMSEARCH[/COLOR]</title>       
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR chocolate]BUSCADOR ACESTREAMSEARCH[/COLOR]</title>       
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -60,5 +53,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/8UR2Wya.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/desportoa-guianegra.gobal.xml</externallink>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Agenda[/COLOR]</title>
+<link>NA</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
 </menu>
 </menus>
