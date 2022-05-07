@@ -4,7 +4,61 @@
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Agenda[/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://i.imgur.com/8UR2Wya.png</thumbnail>
-<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetreme.agenda.xml</externallink>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR red]BUSCADOR[/COLOR][COLOR white]     ACESTREAMSEARCH[/COLOR]  [/B]</title>       
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR white][makelist.param1][/COLOR][/B]</title>
+  <link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param2]</link>
+  <thumbnail>https://acestreamsearch.net/images/logo.png</thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[acestream.*?">(.*?)<.*?copy="(.*?)"]]></expres>
+<page>https://acestreamsearch.net/en/?q=$doregex[search]</page>
+</regex>
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscar...', type=xbmcgui.INPUT_ALPHANUM)
+    return d
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://acestreamsearch.net/images/logo.png</thumbnail>
+<fanart>https://i.imgur.com/3zk1XTz.jpg</fanart>
+</menu>
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]ACESTREAM [/COLOR][/B]</title> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR white][makelist.param7][/COLOR][/B]</title>
+<link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param1]</link>
+<thumbnail>[makelist.param2]</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[enlace":"(.*?)","imagen":"(.*?)","imagen_fondo":"(.*?)","estado":(true),"orden":(.*?),"_id":"(.*?)","nombre":"(.*?)"]]></expres>
+<page>https://kodispaintv.herokuapp.com/api/buscar/productos/60911fbf01f9ac001530be3c</page>
+</regex>
+<thumbnail>https://forum.acestream.media/uploads/default/original/1X/a938665959a5e0520dfc183fbddaa5e8ea21448f.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Gobal[/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://i.imgur.com/8UR2Wya.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/desportoa-guianegra.gobal.xml</externallink>
 </menu>
 </menus>
