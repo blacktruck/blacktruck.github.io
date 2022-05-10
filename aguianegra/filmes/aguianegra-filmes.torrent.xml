@@ -270,4 +270,22 @@
 <thumbnail>https://i.imgur.com/2be8qAj.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Loaded Weapon 1[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B09B679CFF9565DED2FA6C6029484C2584EBE5AC</link>
+<thumbnail>https://i.imgur.com/gavVW9V.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Yakuza Weapon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EEACBC6421900AC66720B99EE425FC0E258C1ECD</link>
+<thumbnail>https://i.imgur.com/SgnrSlY.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Perfect Weapon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7099A42E0476BF191BCD456A9805EF10182054F3</link>
+<thumbnail>https://i.imgur.com/twnCzhE.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
