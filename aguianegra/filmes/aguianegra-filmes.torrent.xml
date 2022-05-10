@@ -294,4 +294,16 @@
 <thumbnail>https://i.imgur.com/QTrT7A4.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Hard Way[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:000CD550FFA7177765B17D5AD3E5C9B8945BBF84</link>
+<thumbnail>https://i.imgur.com/UqbOjQo.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Blunt Force Trauma[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1B9222F922BD0673920D5DD299ED04ED2A36FB0</link>
+<thumbnail>https://i.imgur.com/pmI72oh.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
