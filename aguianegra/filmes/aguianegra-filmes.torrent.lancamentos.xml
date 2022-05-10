@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Morbius  [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47430F8964AF5E6C28CFB47B8AC5DD98AD9DDCF8</link>
+<thumbnail>https://i.imgur.com/5gtsCOV.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Os caras maus  [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D309FC380AE565D7FD90E1C04EEF8638BE33ABA9</link>
 <thumbnail>https://i.imgur.com/ZpOqdfD.jpg</thumbnail>
