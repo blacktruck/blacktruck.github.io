@@ -342,4 +342,16 @@
 <thumbnail>https://i.imgur.com/foOoBwp.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Blind Date[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E28F8CFB8908CC6A7E9475987E4490E9F83230F0</link>
+<thumbnail>https://i.imgur.com/paN2jN7.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Prince[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAEB9FF4495A2889854270CF8C09D7C48A642C46</link>
+<thumbnail>https://i.imgur.com/gnQGe5n.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
