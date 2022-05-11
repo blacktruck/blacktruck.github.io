@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Traded [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ABD3D168E5779815D9285B5BB0BD187500BB60C</link>
+<thumbnail>https://i.imgur.com/IM4KjOh.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] O Homem de Laramie [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C2F21A12563500DE9F5C65EF30BF1244AFAD3E8</link>
 <thumbnail>https://i.imgur.com/9lp2ITi.jpg</thumbnail>
