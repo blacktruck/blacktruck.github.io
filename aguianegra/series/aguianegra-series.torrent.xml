@@ -35,4 +35,11 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Cavaleiro_da%20_Lua/Cavaleiro_da_Lua.xml</externallink>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] See [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/See/See.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/See/base-See.xml</externallink>
+</menu>
 </menus>
