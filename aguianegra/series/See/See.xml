@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 01 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9028e3155ac7f5653944a5108ce70258cfd96559</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 02 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a32062863bdd5269b3408b241642b3f460f4deb</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 03 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b356ce6bae62524d8d05bb64ea4ccf828c0fd31c</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 04[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19a4c28f14ee2e07016e714c0a42cd4d6f001b9a</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 05 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7241f8635389ec6823385ea2c22a7633eae6faf6</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Episódio 06 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3e85b5c7605c36012c6e64a7a9ceb7f12dfc0a</link>
+<thumbnail>https://i.imgur.com/LrwvU8N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+</menus>
