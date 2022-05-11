@@ -306,4 +306,16 @@
 <thumbnail>https://i.imgur.com/pmI72oh.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Catch Hell[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A70A9AB94FB3BE1ADB2C494BDF2925AC66C8E175</link>
+<thumbnail>https://i.imgur.com/EzwPJ7z.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Starship Rising[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6258CBBA24AC66EF2462BF9CB91210DCEB136CF7</link>
+<thumbnail>https://i.imgur.com/elSaBL6.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
