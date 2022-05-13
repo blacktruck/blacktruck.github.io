@@ -8,8 +8,8 @@
 <listrepeat><![CDATA[
   <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][B][COLOR white][makelist.param1][/COLOR][/B]</title>
   <link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param2]</link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
+  <thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[acestream.*?">(.*?)<.*?copy="(.*?)"]]></expres>
 <page>https://acestreamsearch.net/en/?q=$doregex[search]</page>
@@ -23,9 +23,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
     d = dialog.input('Buscar...', type=xbmcgui.INPUT_ALPHANUM)
     return d
 ]]></expres>
-<page></page>
+<page>https://acestreamsearch.net/en/?q=$doregex[search]</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
@@ -43,14 +43,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres><![CDATA[enlace":"(.*?)","imagen":"(.*?)","imagen_fondo":"(.*?)","estado":(true),"orden":(.*?),"_id":"(.*?)","nombre":"(.*?)"]]></expres>
 <page>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/acetrema.api.xml</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/QjmNRCL.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto Gobal[/COLOR]</title>
 <link>NA</link>
-<thumbnail>https://i.imgur.com/8UR2Wya.png</thumbnail>
+<thumbnail>https://i.imgur.com/qEsxe9W.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/desportoa-guianegra.gobal.xml</externallink>
 </menu>
