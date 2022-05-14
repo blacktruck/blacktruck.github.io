@@ -48,4 +48,22 @@
 <thumbnail>https://i.imgur.com/H3yWsdQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rocky[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B2C137856FE5B17CBF8EBA0D60E69BBCB361BE7</link>
+<thumbnail>https://i.imgur.com/ozETLtj.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rocky II[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:697B10228D4ADB88001F530EA20595F4B7454DD0</link>
+<thumbnail>https://i.imgur.com/SD6Wkj3.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rocky III[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5D2C46F8F4DB1817A4A74B5235C9AE5A02A8B44</link>
+<thumbnail>https://i.imgur.com/8Zn3y0R.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
