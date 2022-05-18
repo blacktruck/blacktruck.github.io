@@ -396,4 +396,16 @@
 <thumbnail>https://i.imgur.com/5bYQGyc.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Unstoppable[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2D8FB64A97C415EBF4EF64A675BA57C156EB449</link>
+<thumbnail>https://i.imgur.com/pgDhYUB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Flawless[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C38AB9BE19B45289BD6458C1E59E31077C8F705</link>
+<thumbnail>https://i.imgur.com/sD7I5qX.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
