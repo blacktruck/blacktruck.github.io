@@ -78,4 +78,34 @@
 <thumbnail>https://i.imgur.com/VwevmX9.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Equalizer[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE4CD297ECE7ECDEECA59462ACD825327215D2B5</link>
+<thumbnail>https://i.imgur.com/oUlnXJY.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Equalizer 2[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54C736C8A78982842550C554BB2E8A21CBB6A4A2</link>
+<thumbnail>https://i.imgur.com/Mjl4nxl.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Mo' Better Blue[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1B6B683282F60FDC30986220D9A5B9EA4B3BA71B</link>
+<thumbnail>https://i.imgur.com/UxQQA7X.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Courage Under Fire[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10217E4997F0E72042FC797848BAC22B4AEF72BF</link>
+<thumbnail>https://i.imgur.com/zVarY2p.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Devil in a Blue Dress[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:https://i.imgur.com/BvyBLdF.jpg</link>
+<thumbnail>https://i.imgur.com/BvyBLdF.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
