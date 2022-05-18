@@ -348,4 +348,22 @@
 <thumbnail>https://i.imgur.com/EyJviWR.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]A Lenda de Tarzan[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B36113D00A92367893164D60C64A7F0A1736DC2C</link>
+<thumbnail>https://i.imgur.com/7K6KY3k.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Last Dragon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF07367EE5B7D7A0E5B46D2E5D0E35E6D9AE96AD</link>
+<thumbnail>https://i.imgur.com/lDcZ8us.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Red Dragon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6EE18BFD6229D3F62FEFC1FA271799D8DF906FE</link>
+<thumbnail>https://i.imgur.com/tP21q73.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
