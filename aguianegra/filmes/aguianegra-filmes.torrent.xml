@@ -414,4 +414,16 @@
 <thumbnail>https://i.imgur.com/2NfIon4.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]O Ringue[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CB54C18E2C3D354AFBB17A3EC616664EE4D7D79</link>
+<thumbnail>https://i.imgur.com/xpciokB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Flight of the Phoenix[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64E3637B6F68783B3D81911B18DB2DF049C68496</link>
+<thumbnail>https://i.imgur.com/8MWwNRa.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Bone Tomahawk [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF408C8EBB95BB195F027F78E6300B66621C28DB</link>
+<thumbnail>https://i.imgur.com/xcPQiyO.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Traded [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ABD3D168E5779815D9285B5BB0BD187500BB60C</link>
 <thumbnail>https://i.imgur.com/IM4KjOh.jpg</thumbnail>
