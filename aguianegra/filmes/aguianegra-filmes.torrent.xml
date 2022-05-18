@@ -366,4 +366,22 @@
 <thumbnail>https://i.imgur.com/tP21q73.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Red Dragon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49E641ED54E4CB7AD75EE5DB46A74697CFDC19C7</link>
+<thumbnail>https://i.imgur.com/YGO0sJf.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Black Cobra[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:604EB0A881CCC37FEF2AB693DF6AEDEFB63C1F34</link>
+<thumbnail>https://i.imgur.com/BYDLyrV.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Black Dog[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B5C29657BAF9877F07B531434BA8095E2CAA6D2</link>
+<thumbnail>https://i.imgur.com/6HZDM34.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
