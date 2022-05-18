@@ -384,4 +384,16 @@
 <thumbnail>https://i.imgur.com/6HZDM34.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Assassins Run[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9300E5D90B18D2C00F88A72708B2074002E5124D</link>
+<thumbnail>https://i.imgur.com/xOt8x9k.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Watchmen[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:608F2DA6CA661CDA193803FB9471FF833C04F5CC</link>
+<thumbnail>https://i.imgur.com/5bYQGyc.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
