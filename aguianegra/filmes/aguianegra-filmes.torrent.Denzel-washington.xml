@@ -150,4 +150,22 @@
 <thumbnail>https://i.imgur.com/2LXA6qm.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Glory[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD70EF0BF7FF318E409ACEEE1363BDFB224118AA</link>
+<thumbnail>https://i.imgur.com/YVRRTtp.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Roman J. Israel, Esq.[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5D4C28648D6DD2A19BA8AE2BADFC62A598BA5B6</link>
+<thumbnail>https://i.imgur.com/w6fjUQL.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Carbon Copy[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55EC61CE705693F278F65C21704861E80D9F3B35</link>
+<thumbnail>https://i.imgur.com/WtBJMKY.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
