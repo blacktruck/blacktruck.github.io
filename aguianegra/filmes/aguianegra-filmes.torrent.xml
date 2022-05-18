@@ -426,4 +426,16 @@
 <thumbnail>https://i.imgur.com/8MWwNRa.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Raid: Redemption[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49E74B914876AD23503291A3CBCCC3B58DB339E7</link>
+<thumbnail>https://i.imgur.com/aFR8AvZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Raid 2[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E15CE089EEA4CB50EAE2A6D1A59BDD86FCB0EA1F</link>
+<thumbnail>https://i.imgur.com/hKFDGMv.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>

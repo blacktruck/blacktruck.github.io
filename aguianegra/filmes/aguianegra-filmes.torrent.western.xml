@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Magnificent Seven[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B4C9DB1F1ECC3AB3F4E4EF9A7D5D38D791B7F7A</link>
+<thumbnail>https://i.imgur.com/bAnrgPR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Magnificent Seven[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0618D6E5C132CBD336045F2D71B1D1582BFDAE68</link>
+<thumbnail>https://i.imgur.com/sJjenHY.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Return of the Seven[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2259997F2590B52009B8946667A5AAFC90BF2610</link>
+<thumbnail>https://i.imgur.com/EvvKcjh.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Bone Tomahawk [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF408C8EBB95BB195F027F78E6300B66621C28DB</link>
 <thumbnail>https://i.imgur.com/xcPQiyO.jpg</thumbnail>
@@ -10,6 +28,12 @@
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Blazing Saddles [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7F623E5D0EF5118121EF5C469CF09A1C0E2901B0</link>
 <thumbnail>https://i.imgur.com/6yfc41A.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Great Northfield Minnesota Raid [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522F762CBA70BB28369AECF70794042C18E1E86C</link>
+<thumbnail>https://i.imgur.com/rUPcmP5.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
