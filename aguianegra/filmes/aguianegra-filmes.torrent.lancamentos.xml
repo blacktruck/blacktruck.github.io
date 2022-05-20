@@ -7,6 +7,18 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  Doctor Strange In The Multiverse of Madness[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E1E60EC03947B505388382AE7CD5487B69A289CE</link>
+<thumbnail>https://i.imgur.com/rWmToBB.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  Memory[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D914CC46ED1A29DF13BC466A68459D0E629C4D99</link>
+<thumbnail>https://i.imgur.com/jpTGEYp.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Studio 666 [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B966B6B49674A7DD231529310C40A741E82421A</link>
 <thumbnail>https://i.imgur.com/0T38sNU.jpg</thumbnail>
@@ -342,4 +354,5 @@
 <thumbnail>https://i.imgur.com/j6tsNJs.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+
 </menus>
