@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  Trip[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F8FB0C72C23D4321B4B1D3B35BAC5E6D27F03F5</link>
+<thumbnail>https://i.imgur.com/6WWUX0N.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Devil's Tail[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2D277CB4B73F0C95C10CFF9A8BF9C3A72E14810</link>
 <thumbnail>https://i.imgur.com/JUkiKOh.jpg</thumbnail>
