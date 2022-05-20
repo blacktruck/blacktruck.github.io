@@ -20,7 +20,7 @@
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]FIREWALKER[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE6D176D24E6495BA9AC783231E2E4A5FBE78D9A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9188E986B455AE2CAE2C9EBDD465169CEB7CA600</link>
 <thumbnail>https://i.imgur.com/66ReWU2.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
@@ -50,7 +50,7 @@
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Invasion U.S.A[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2D573CA5638E273A8CE6E9F2D9BD78D31F110AA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC4B48E5D22F4DB6515EA694A7F54354D4EB8713</link>
 <thumbnail>https://i.imgur.com/rAK7CfB.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
@@ -73,9 +73,21 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Missing In Action 1, 2, 3[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF5AD1383CDF935F3327520B0A299431E9A81504</link>
-<thumbnail>https://i.imgur.com/Hv0OdND.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Missing in Action[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20EED4FDF6DA09860991BAE9D91B7E3B5755186A</link>
+<thumbnail>https://i.imgur.com/Urb2JdI.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Missing in Action 2: The Beginning[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6ED7DD53EB99BFB7374D6B70C54DBF2ED2A476F</link>
+<thumbnail>https://i.imgur.com/ZWYbQEM.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Braddock: Missing in Action III[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9514743B5F64C7869228F0C796ECD505774EEBB7</link>
+<thumbnail>https://i.imgur.com/mIGuyo4.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
@@ -106,6 +118,18 @@
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Os Mercenários 2[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0D352981ECAC8C3F56BB256EB3FC72D84B6DAE55</link>
 <thumbnail>https://i.imgur.com/1N7SFxD.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Octagon[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD3AF3B45B791728C0C84C7321053670CCFAF455</link>
+<thumbnail>https://i.imgur.com/McqFIgd.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Forest Warrior[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:457465BF8F0388FD0E6086CB62BCDE18C414DC0D</link>
+<thumbnail>https://i.imgur.com/GIW21t7.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
