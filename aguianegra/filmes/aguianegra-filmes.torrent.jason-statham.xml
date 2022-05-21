@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Blackjack[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6A44689E318FE7CAD3B66E623171A76C599AB0C</link>
-<thumbnail>https://i.imgur.com/Cnkx430.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]War[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE7A61BCD4CA0F483838563D0E77055E5E325980</link>
+<thumbnail>https://i.imgur.com/X15rZDX.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
@@ -25,9 +25,9 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Perfurações[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E97CFF38D80628EDA30B1B2CEC1922865253FF21</link>
-<thumbnail>https://i.imgur.com/3RcTAFa.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Crank: High Voltage[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59FB8B16141CAF32C0FA3F87FD0943D5C813724E</link>
+<thumbnail>https://i.imgur.com/EtSgpA3.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
