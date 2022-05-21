@@ -450,5 +450,16 @@
 <thumbnail>https://i.imgur.com/mHkmmNv.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Raw [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9864C45B0929FEE3FC2325DDBC1440BFF3EBECC8</link>
+<thumbnail>https://i.imgur.com/q8KG28Y.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Occhiali.Neri. [/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C01FD52E54FCD45A95D6EDF9FD9EE4D0FE04562</link>
+<thumbnail>https://i.imgur.com/MnUDeRG.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 </menus>
