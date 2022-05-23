@@ -246,4 +246,31 @@
 <thumbnail>https://i.imgur.com/qJ54l8b.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Antlers[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F32034A3BC3167F0562D89FE7BB9336E611F4AA</link>
+<thumbnail>https://i.imgur.com/mt0iwac.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Night House[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14558FC459ACF25E95767F8F5FAD22A0857B0DA9</link>
+<thumbnail>https://i.imgur.com/PLjwmyo.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Know Fear[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B89193D6D1DF410A9CD835029C262EBE5CE8575</link>
+<thumbnail>https://i.imgur.com/9ZfHlHZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[[COLORchocolate] The Fear] Know Fear[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FB3CFE86D03E453D73F4160C2441A6E807D7B86B</link>
+<info>A group of college seniors spending a weekend at a cottage for a psychological experiment called "fear therapy" find a human-sized wooden figure called Morty, which triggers everyone's deepest and darkest secrets and emotions.
+</info>
+<thumbnail>https://i.imgur.com/0YeCEnp.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+
 </menus>
