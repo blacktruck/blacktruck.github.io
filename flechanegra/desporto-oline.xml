@@ -1,70 +1,87 @@
 #EXTM3U
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/Canal%2011.png" group-title="Canal 11",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.50:7050/canal11|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/Canal%2011.png" group-title="Canal 11 FHD",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/Sport.TV%2B.png" group-title="SPORT TV+ ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/Sport.TV%2B.png" group-title="SPORT TV+",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="PRIMEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====PRIMEIROS-LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt1|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt4|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/sporttv6hd.jpg" group-title="SPORT TV6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt6|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="SEGUNDO-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====SEGUNDOS-LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt1|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt4|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/sporttv6hd.jpg" group-title="SPORT TV6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt6|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="TERCEIROS-LINKS SPORT TV" tvg-logo="" ,[B][COLOR lime]=====-TERCEIROS LINKS SPORT TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png" group-title="SPORT TV 1 ",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt1|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="SPORT TV 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt2|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png" group-title="SPORT TV 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt3|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/qypxry1470408244.png" group-title="SPORT TV 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt4|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" group-title="SPORT TV5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/sporttv6hd.jpg" group-title="SPORT TV6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24SPORTTV6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.173:7073/spt6|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUARTOS-LINKS Eleven_Sports" tvg-logo="" ,[B][COLOR lime]=====-QUARTOS LINKS Eleven_Sports=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS.png" group-title="ELEVEN_SPORTS 1",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_1_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_2.png" group-title="ELEVEN_SPORTS 2",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_2_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_3.png" group-title="ELEVEN_SPORTS 3",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_3_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_4.png" group-title="ELEVEN_SPORTS 4",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_4_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_5.png" group-title="ELEVEN_SPORTS 5",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_5_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/arrownegra/logos.pt/main/ELEVEN_SPORTS_6.png" group-title="ELEVEN_SPORTS 6",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://213.13.23.132/shls/LIVE%24Eleven_Sports_6_HD.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="QUINTOS-LINKS Benfica_TV" tvg-logo="" ,[B][COLOR lime]=====-QUINTOS LINKS Benfica_TV=====[/B][/COLOR]
 https://
 #EXTINF:0 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv-1200x1200.png" group-title="Benfica_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
-http://cdn3.cyclingnews.live/hls/W2.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://ccdn.ai:80/live/J5yx1/679TQJtyy/74821.m3u8
+#EXTINF:0 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv-1200x1200.png" group-title="Benfica_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://viperteam.ddns.net:25461/live/6666/6666/74562.m3u8
+#EXTINF:0 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv-1200x1200.png" group-title="Benfica_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://ccdn.ai:80/live/J5yx1/679TQJtyy/74823.m3u8
+#EXTINF:0 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/08/benfica-tv-1200x1200.png" group-title="Benfica_TV",[COLOR yello][I][B][COLOR lime]»»[/COLOR] FlechaNegra[/I][/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://ccdn.ai:80/live/J5yx1/679TQJtyy/74824.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pDDFBlw.jpg" group-title="-1 tvg-id="" tvg-name="SEIXTO-LINKS Sporting_TV" tvg-logo="" ,[B][COLOR lime]=====-SEIXTO LINKS Sporting_TV=====[/B][/COLOR]
 https://
