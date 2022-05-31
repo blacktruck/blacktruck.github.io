@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Batman[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10695711557773384bfbb444e73fbe5d9db88dc4</link>
-<thumbnail>https://i.imgur.com/swOn9Yp.jpg</thumbnail>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Velho Oeste Selvagem[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A57DEB5D904063D36DE5EC5860E768AAC0E0F16</link>
+<info>Um dia no oeste selvagem, um famoso cientista é encontrado morto. Ou melhor: decapitado por um dispositivo diabólico, ao que parece. O agente especial Artemus Gordon, ele mesmo bastante inventivo, descobre a última visão do homem e é forçado a se juntar a James West, um homem que confia em nada além de sua arma. Eles primeiro suspeitam que o General "Bloodbath" McGrath seja o responsável pelo assassinato, mas como ele não é brilhante o suficiente para inventar o dispositivo de decapitação voador, um cérebro mais maligno por trás do cenário logo prova que existe. O Dr. Arliss Loveless, que, a propósito, sequestrou os melhores cientistas do país, parece planejar tomar uma grande parte do país como sua propriedade pessoal. Mas o Dr. Loveless não pensou o suficiente sobre a possível intervenção de dois homens,</info>
+<thumbnail>https://i.imgur.com/qGSIhYu.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Hancock[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FA7F267052CF44B9B854582AA8D0DED96AE8E75</link>
+<info>O poderoso super-herói John Hancock tornou-se uma piada por causa de seu alcoolismo e falta de jeito. Ele também se tornou o homem mais odiado de Los Angeles. Embora tenha salvado muitas vidas, ele também destruiu muitas propriedades, custando milhões à cidade toda vez que entra em ação. Quando ele salva a vida do especialista em relações públicas Ray Embrey de um trem que se aproxima, o executivo fica agradecido e acredita que pode restaurar a imagem de Hancock como um verdadeiro super-herói. Ele traz o anti-herói para casa para jantar e o apresenta a seu filho Aaron, um grande fã, e sua esposa, Mary. Mas, por algum motivo misterioso, Mary não quer Hancock perto dela ou de sua família.</info>
+<thumbnail>https://i.imgur.com/FEsVO8c.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<info></info>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<info></info>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<info></info>
+<thumbnail></thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 </menus>
