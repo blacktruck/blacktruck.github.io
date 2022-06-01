@@ -2,26 +2,23 @@
 <menus>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]Batwoman 1ª Temporada [/COLOR]</title>
-<link>NA</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:127B6B961138DF793E2CD535B1F97DEF1C200A0B</link>
 <info>Batwoman S01 – Kate Kane é uma jovem lutadora altamente treinada, decidida a lutar contra o crime em Gotham City, armada apenas com sua paixão por justiça e falando sempre o que pensa. Porém, Kate precisa superar seus próprios demônios antes de se tornar um símbolo de esperança.</info>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/Batwoman-1.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/Batwoman-1.xml</externallink>
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]Batwoman 2ª Temporada [/COLOR]</title>
-<link>NA</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26B4F1EB64C27720B7E4EECC43B7EAF6A70F2CAE</link>
 <info>Kate Kane segue os passos de seu primo desaparecido, Bruce Wayne, e protege as ruas de Gotham City como Batwoman.</info>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/batwoman-2.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/Batwoman-2.xml</externallink>
 </menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]Batwoman 3ª Temporada [/COLOR]</title>
-<link>NA</link>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC81E17E67DADA2895368B6E7A21D543CF7EF452</link>
 <info>Kate Kane segue os passos de seu primo desaparecido, Bruce Wayne, e protege as ruas de Gotham City como Batwoman.</info>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/batwoman-3.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Batwoman/Batwoman-3.xml</externallink>
 </menu>
 </menus>
