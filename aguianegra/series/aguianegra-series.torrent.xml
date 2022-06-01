@@ -122,5 +122,13 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/Walker/base-Walker.xml</externallink>
 </menu>
-
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]The Boys[/COLOR]</title>
+<link>NA</link>
+<info>The Boys é uma visão irreverente do que acontece quando super-heróis, que são tão populares quanto celebridades, tão influentes quanto políticos e tão reverenciados como deuses, abusam de seus superpoderes ao invés de usá-los para o bem. É o sem poder contra o superpoder, quando os rapazes embarcam em uma jornada heroica para expor a verdade sobre “Os Sete” com o apoio da Vought.
+</info>
+<thumbnail>https://i.imgur.com/WFBBXuf.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/series/The%20Boys/The%20Boys.xml</externallink>
+</menu>
 </menus>
