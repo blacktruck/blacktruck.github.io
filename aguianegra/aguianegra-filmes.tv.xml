@@ -3,6 +3,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes m3u [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/s6GiEbv.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.tv.m3u.xml</externallink>
@@ -10,13 +11,23 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Dublados [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/4AswpJr.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.dublados.xml</externallink>
 </menu>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Comedia[/COLOR]</title>
+<link>NA</link>
+<info></info>
+<thumbnail>https://i.imgur.com/SyWgZnF.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.comedia.xml</externallink>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/SyWgZnF.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.xml</externallink>
@@ -24,6 +35,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes Western [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/0u74r2m.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.western.xml</externallink>
@@ -38,6 +50,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Lancamentos 2022 [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/lVnuzGY.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.lancamentos.xml</externallink>
@@ -45,6 +58,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Jet li [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/cpvWP88.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.jet-li.xml</externallink>
@@ -52,6 +66,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Donnie Yen [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/SI23Zgu.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Donnie-Yen.xml</externallink>
@@ -59,6 +74,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Bruce lee [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/M2IgidB.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Bruce-lee.xml</externallink>
@@ -66,6 +82,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Jackie Chan [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/eMG0wxZ.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Jackie-Chan.xml</externallink>
@@ -73,6 +90,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Jean Claude Van Damme [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/3BuvxzW.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Jean-Claude-Van-Damme.xml</externallink>
@@ -80,6 +98,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Steven Seagal [/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/sOaGXcD.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Steven-Seagal.xml</externallink>
@@ -87,6 +106,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Bruce Willis[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/IvsCSBO.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Bruce-Willis.xml</externallink>
@@ -94,6 +114,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Arnald schwarzenegger[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/dQFSdhs.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.arnaldo-schwarzenegger.xml</externallink>
@@ -101,6 +122,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Sylvester Stallone[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/k1RuoQJ.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Sylvester-Stallone.xml</externallink>
@@ -108,6 +130,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Denzel washington[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/i3dEhJ1.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Denzel-washington.xml</externallink>
@@ -115,6 +138,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Chuck Norris[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/RRC2UjV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.chuck-norris.xml</externallink>
@@ -122,6 +146,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Liam Neeson[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/Q67hLlG.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.liam-neeson.xml</externallink>
@@ -129,6 +154,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Dolph Lundgren[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/eChZ7q9.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.dolph-lundgren.xml</externallink>
@@ -136,6 +162,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção  jason statham[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/AkwLtig.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.jason-statham.xml</externallink>
@@ -143,6 +170,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção  Harrison ford[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/k3QiOmN.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.harrison-ford.xml</externallink>
@@ -150,6 +178,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção  Will smith[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/eP2IU4H.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.will-smith.xml</externallink>
@@ -157,6 +186,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção  Vin diesel[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/rAUIVLH.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.vin-diesel.xml</externallink>
@@ -164,6 +194,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção  Dwayne johnson[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/B7KGBZl.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.dwayne-johnson.xml</externallink>
@@ -171,6 +202,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Bud Spencer E Terence Hill[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/hFOGiN4.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.Bud-Spencer.xml</externallink>
@@ -178,6 +210,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção Marvel[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/cwwRKQo.png</thumbnail>
 <fanart>https://i.imgur.com/cwwRKQo.png</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.marvel.xml</externallink>
@@ -185,6 +218,7 @@
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Filmes TorrenT Coleção DC Comics[/COLOR]</title>
 <link>NA</link>
+<info></info>
 <thumbnail>https://i.imgur.com/aGfRYMN.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/filmes/aguianegra-filmes.torrent.dc-comics.xml</externallink>
