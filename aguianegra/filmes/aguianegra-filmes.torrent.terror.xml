@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Overnight[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36A97FF5639477226D50DE471A7F3783FCDE1D9F</link>
+<info>Depois que um fim de semana romântico é desviado, um jovem casal se encontra em um hotel antiquado, preso em laços de morte assassinos e como isca para um demônio.</info>
+<thumbnail>https://i.imgur.com/WkLRYDX.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  O Castelo do Lobisomem[/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV</link>
 <info>Após uma série de assassinatos e desaparecimentos na região, Horrace, Jane e o meio-lobisomem Archie são encarregados pelos problemáticos moradores locais de investigar acontecimentos estranhos em um castelo gótico próximo. Aventurando-se no castelo durante a noite, com um pequeno grupo de voluntários corajosos, eles logo descobrem uma horda de criaturas de outro mundo e uma batalha logo começa!</info>
