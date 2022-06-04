@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Tubarão - Presas Humanas[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:magnet:?xt=urn:btih:04D016CD320984D65107210297E6BB1815D649AD</link>
+<info>Um grupo de amigos aproveitando um fim de semana rouba dois jetskis correndo para o mar, terminando em uma terrível colisão frontal.</info>
+<thumbnail>https://i.imgur.com/q0anO7e.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Jaws[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A929313C950D9C18EC1E8424646F657CAC841FF</link>
 <info>Um ataque a banhistas é o sinal de que a praia da pequena cidade de Amity se tornou o refeitório de um gigantesco tubarão branco. Embora as autoridades queiram esconder os factos, a polícia local pede ajuda a de um ictiologista e um pescador veterano para caçar o animal.</info>
