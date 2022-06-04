@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  O Castelo do Lobisomem[/COLOR]</title>
+<link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV</link>
+<info>Após uma série de assassinatos e desaparecimentos na região, Horrace, Jane e o meio-lobisomem Archie são encarregados pelos problemáticos moradores locais de investigar acontecimentos estranhos em um castelo gótico próximo. Aventurando-se no castelo durante a noite, com um pequeno grupo de voluntários corajosos, eles logo descobrem uma horda de criaturas de outro mundo e uma batalha logo começa!</info>
+<thumbnail>https://i.imgur.com/mdOK02M.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]  Trip[/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5F8FB0C72C23D4321B4B1D3B35BAC5E6D27F03F5</link>
 <thumbnail>https://i.imgur.com/6WWUX0N.jpg</thumbnail>
