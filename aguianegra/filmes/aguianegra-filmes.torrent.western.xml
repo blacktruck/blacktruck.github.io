@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] West of Hell[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1A420AEBFAEDB58EF1EF4E75C3A2F8A68D56A05A</link>
+<info>Geórgia, 1872 - sete anos após o fim da Guerra Civil. Em um trem da meia-noite para Atlanta, Jericho Whitfield, um brilhante ex-escravo, planeja vingar o assassinato de sua filha - que foi escalpelada por seu antigo mestre. A missão de Jericho é escalpelar e matar Annie Hargraves - a filha adolescente rebelde e esperta do seu velho mestre. Um olho limpo para uma vingança ocular. A única coisa no caminho de Jericho é Roland Bursley, um mercenário cruel contratado para proteger Annie em sua viagem a Atlanta. Mas Roland, Annie e Jericho logo descobrem que há algo muito mais assustador do que os três no trem - e eles terão que trabalhar juntos se quiserem sobreviver à jornada da meia-noite para Atlanta.</info>
+<thumbnail>https://i.imgur.com/ge92LN3.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Magnificent Seven[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B4C9DB1F1ECC3AB3F4E4EF9A7D5D38D791B7F7A</link>
 <thumbnail>https://i.imgur.com/bAnrgPR.jpg</thumbnail>
