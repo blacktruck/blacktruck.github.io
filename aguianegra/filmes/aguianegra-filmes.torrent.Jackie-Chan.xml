@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Primeiro ataque [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19758403247C45E1ADB02C1E986BDEE0CB80D4DE</link>
+<info>Jackie, uma policial, participa de uma operação policial em um anel de espionagem internacional. Mas quando um deles (Tsui) foge, Jackie recebe ordens para prendê-lo. Isso leva Jackie por todo o mundo, começando com a irmã de Tsui na Austrália. A história o segue enquanto ele tenta se manter vivo e capturar o vilão.</info>
+<thumbnail>https://i.imgur.com/OnW6qRE.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]O Reino Proibido[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75B547FCF606793EFDA1ABC324F9E9DE862C5DE2</link>
 <thumbnail>https://i.imgur.com/saZnlBn.jpg</thumbnail>
