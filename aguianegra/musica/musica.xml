@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Music.IT" tvg-country="IT" tvg-language="Italy" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/shsihXq.png" group-title="Music",m2o TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 #EXTINF:-1 tvg-id="Music.IT" tvg-country="IT" tvg-language="Italy" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/shsihXq.png" group-title="Music",m2o TV
