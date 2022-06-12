@@ -1,0 +1,12 @@
+<playercorefactory>
+  <players>
+    <player name="VLC" type="ExternalPlayer" audio="false" video="true">
+      <filename>/usr/bin/vlc</filename>
+      <args>"{1}"</args>
+      <hidexbmc>true</hidexbmc>
+    </player>
+  </players>
+  <rules action="prepend">
+    <rule video="true" player="VLC"/>
+  </rules>
+</playercorefactory>
