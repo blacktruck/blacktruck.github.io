@@ -10,154 +10,154 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha
 #EXTINF:-1 ,Italy: m2o TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/6TjLUuF.png",1HD Music Television (404p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/P5EXpPy.jpg",7S Music (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/6h83JRO.png",9X Jalwa (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://14.199.164.20:4001/play/a0nc/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/aZ0f85I.png",9X Jhakaas (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://14.199.164.20:4001/play/a0mx/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM (480p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/gNWg9tl.png",30A Music (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",88 Stereo (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/tH7EZL4.jpg",A2i Music (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/V0uKTmB.jpeg",Afrobeats (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/kYlMQXf.png",HQM Classic (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/Dr9yqRK.png",HQM Dance (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/qYUzY3j.png",HQM Folk (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/M6IxlUn.png",HQM Gym (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/Gbthc2P.png",HQM Hip Hop (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/rm6TsqZ.png",HQM Hits (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/jPO4ens.png",HQM Jazz (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/OLjWSWg.png",HQM Kids (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/85Km7Jp.png",HQM Latin (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/cfHWiSS.png",HQM Pop (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/vQtt8yW.png",HQM Relax (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/7PHZP0a.png",HQM Remember (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/DcfYeG4.png",HQM Rock (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/b9XXucG.png",HQM Spanish (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://www.ifm.tn/images/logo.png",IFM TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://free.fullspeed.tv/iptv-query?streaming-ip=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://www.youtube.com/c/RadioIfmTunisia/live
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/Hk7EN1z.png",Inet TV (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/1FenAo5.png",Italianissimo (360p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",JAWHARA TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music (1080p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/ZDXVWVQ.png",Kalaignar Murasu (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/cgHjg1e.png",Karibeña (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mnet.png/512px-Mnet.png",MNet (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/35KJSUN.png",Mosaïque FM (480p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music (576p) [Not 24/7]
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/aZ0f85I.png",9X Jhakaas (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM (480p)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03/img1920.jpg",88 Stereo (720p) [Not 24/7]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/tH7EZL4.jpg",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/V0uKTmB.jpeg",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/kYlMQXf.png",HQM Classic (1080p)
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Dr9yqRK.png",HQM Dance (1080p)
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qYUzY3j.png",HQM Folk (1080p)
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/M6IxlUn.png",HQM Gym (1080p)
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Gbthc2P.png",HQM Hip Hop (1080p)
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rm6TsqZ.png",HQM Hits (1080p)
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/jPO4ens.png",HQM Jazz (1080p)
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/OLjWSWg.png",HQM Kids (1080p)
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/85Km7Jp.png",HQM Latin (1080p)
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cfHWiSS.png",HQM Pop (1080p)
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/vQtt8yW.png",HQM Relax (1080p)
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7PHZP0a.png",HQM Remember (1080p)
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DcfYeG4.png",HQM Rock (1080p)
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/b9XXucG.png",HQM Spanish (1080p)
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.ifm.tn/images/logo.png",IFM TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Hk7EN1z.png",Inet TV (576p) [Not 24/7]
+http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
+http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/1FenAo5.png",Italianissimo (360p) [Not 24/7]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p) [Not 24/7]
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg",JAWHARA TV (720p) [Not 24/7]
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music (1080p) [Not 24/7]
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZDXVWVQ.png",Kalaignar Murasu (576p) [Not 24/7]
+http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cgHjg1e.png",Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mnet.png/512px-Mnet.png",MNet (576p) [Not 24/7]
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/35KJSUN.png",Mosaïque FM (480p) [Not 24/7]
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/92.0.4515.131 Safari/537.36
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Pluto TV VEVO Country (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Pluto TV VEVO R&B (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Pluto TV VEVO Reggeaton & Trap (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",Pluto TV VH1 Classics (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png",Pluto TV VH1 Hip Hop Family (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png",Pluto TV VH1 I Love Reality (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/o8vx6FG.png",PMC (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/o8vx6FG.png",PMC Royale (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png",POP musik (576i)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/ZEBOeGe.png",Portalfoxmix (480p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",Public Music (576p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/LO0EZhT.png",Qello Concerts by Stingray (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/P8cVMle.jpg",Qmusic (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 group-title="Classic;Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/vAK9nDu.png",Qwest TV Classical (720p) [Geo-blocked]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/cUtToiT.png",Qwest TV Jazz & Beyond (576p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://210.210.155.37/uq2663/h/h94/01.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/Jd35KcP.png",Qwest TV Mix (720p) [Geo-blocked]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/ubEUBmB.png",Radio 21 TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/KZHsrU4.png",Radio Chalaca (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://megastreamm.com:3611/stream/play.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/512px-Radio_Italia_logo_%282020%29.svg.png",Radio Italia TV (480p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/DfugVgy.png",Radio Piter Pan TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/RMjFeGE.png",Radio PROS (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/xvMDTe9.png",Radio San Borja TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Classic Rock (1080p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray Djazz (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Everything 80s (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Flashback 70s (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hit List (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hot Country (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://www.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",Stingray Karaoke (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stingray_Naturescape.png/512px-Stingray_Naturescape.png",Stingray Naturescape (360p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Pop Adult (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Rock Alternative (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Soul Storm (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Today's Latin Pop (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Urban Beat (1080p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/DVfEmq7.png",Street Music 4U (720p)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/H5Zhdbo.png",Sumac TV (Lima) (480p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=https://i.imgur.com/BwyQR6n.png",T2 TV (720p) [Not 24/7]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan]@by_flecha_negra[/COLOR]&amp;maxbitrate=0&amp;&Buffer=20191129153332&url=http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",Pluto TV VEVO Country (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",Pluto TV VEVO R&B (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/featuredImage.jpg",Pluto TV VEVO Reggeaton & Trap (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",Pluto TV VH1 Classics (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png",Pluto TV VH1 Hip Hop Family (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
+#EXTINF:-1 group-title="Music" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png",Pluto TV VH1 I Love Reality (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/o8vx6FG.png",PMC (1080p)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/o8vx6FG.png",PMC Royale (720p) [Not 24/7]
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png",POP musik (576i)
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZEBOeGe.png",Portalfoxmix (480p) [Not 24/7]
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg",Public Music (576p) [Not 24/7]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/LO0EZhT.png",Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P8cVMle.jpg",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 group-title="Classic;Music" tvg-logo="https://i.imgur.com/vAK9nDu.png",Qwest TV Classical (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cUtToiT.png",Qwest TV Jazz & Beyond (576p)
+http://210.210.155.37/uq2663/h/h94/01.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Jd35KcP.png",Qwest TV Mix (720p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ubEUBmB.png",Radio 21 TV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/KZHsrU4.png",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact (720p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Radio_Italia_logo_%282020%29.svg/512px-Radio_Italia_logo_%282020%29.svg.png",Radio Italia TV (480p)
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DfugVgy.png",Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RMjFeGE.png",Radio PROS (720p) [Not 24/7]
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xvMDTe9.png",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true",Stingray Classic Rock (1080p) [Not 24/7]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg",Stingray Karaoke (720p)
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Stingray_Naturescape.png/512px-Stingray_Naturescape.png",Stingray Naturescape (360p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Pop Adult (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Rock Alternative (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Today's Latin Pop (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true",Stingray Urban Beat (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DVfEmq7.png",Street Music 4U (720p)
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/H5Zhdbo.png",Sumac TV (Lima) (480p) [Not 24/7]
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/BwyQR6n.png",T2 TV (720p) [Not 24/7]
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
