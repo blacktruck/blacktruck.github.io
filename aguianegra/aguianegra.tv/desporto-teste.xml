@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menus>
+<menu>
+<title>[COLOR lime]TNT Sports 1[COLOR yellow] f4mtester[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR cyan][B]@by_flecha_negra[/B][/COLOR][makelist.param1]&url=$doregex[encodedurl ]</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:.*,(.*?)\n.*(http.*)</expres>
+<page>http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</page>
+<referer>https://google.com</referer>
+<x-avançar></x-avançar>
+<agent>Kodi/18.0</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+</menu>
+
+
+</menus>
