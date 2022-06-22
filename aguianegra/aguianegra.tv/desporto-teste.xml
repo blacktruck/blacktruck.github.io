@@ -150,7 +150,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR1[/B][/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR1[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -173,7 +173,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR2[/B][/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR2[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -196,7 +196,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR3[/B][/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR3[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -219,7 +219,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR4[/B][/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] SPORTS ONLINE BR4[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
