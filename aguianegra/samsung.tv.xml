@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]TODOS OS CANAIS[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TODOS OS CANAIS[/COLOR]»»</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR khaki][channel.param3][/COLOR]  [COLOR white][channel.param4][/COLOR][/B]</title>
+  <title>[B][COLOR khaki][channel.param3][/COLOR]»»  [COLOR white][channel.param4][/COLOR]»»[/B]</title>
   <link>[channel.param5]</link>
   <thumbnail>[channel.param2]</thumbnail>
 ]]></listrepeat>
@@ -23,12 +23,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]POR CATEGORIA[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]POR CATEGORIA[/COLOR]»»</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR white][channel.param1][makelist.param1][/COLOR][/B]</title>
+  <title>[B][COLOR white][channel.param1][makelist.param1][/COLOR]»»[/B]</title>
   <link>$doregex[channel]</link>
   <thumbnail>https://i.postimg.cc/DZphy31z/samsungtvplus.png</thumbnail>
   <fanart>https://i.postimg.cc/sXCzM4Nk/samsungtvplus.jpg</fanart>
@@ -48,7 +48,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>channel</name>
 <listrepeat><![CDATA[
-  <title>[B][COLOR white][channel.param1] | [channel.param3][/COLOR][/B]</title>
+  <title>[B][COLOR white][channel.param1] | [channel.param3][/COLOR]»»[/B]</title>
   <link>[channel.param4]</link>
   <thumbnail>[channel.param2]</thumbnail>
 ]]></listrepeat>
