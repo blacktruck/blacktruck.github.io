@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[B][COLOR white]JOGOS AO VIVO[/COLOR][/B]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR chocolate]]Jogos ao vivo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 		<name>makelist</name>
 		<listrepeat><![CDATA[
 		<title>[makelist.param1] - [makelist.param2]   ($doregex[mudar])</title>
 		<link>$doregex[geturl]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
+		<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+		<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 		]]></listrepeat>
 		<expres>(\d\d:\d\d)\s+(.+?)\|\s+https(.+?)\.php</expres>
 		<page>https://sportsonline.to/prog.txt</page>
@@ -28,10 +30,12 @@
 		<expres><![CDATA[iframe\s+src\="(.+?)"]]></expres>
 		<page>https[makelist.param3].php</page>
 </regex>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
 <menu>
-        <title>TNT Sports 1</title>
+        <title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR chocolate]TNT Sports 1 [/COLOR]</title>
         <link>$doregex[resolver]</link>
         <thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/TNT_Sports.png</thumbnail>
         <genre>desporto</genre>
