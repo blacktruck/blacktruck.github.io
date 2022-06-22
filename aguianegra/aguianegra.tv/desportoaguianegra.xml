@@ -55,4 +55,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/desportoa-guianegra.gobal.xml</externallink>
 </menu>
 
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Desporto teste [/COLOR]</title>
+<link>NA</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/aguianegra.tv/desporto-teste.xml</externallink>
+</menu>
+
 </menus>
