@@ -53,7 +53,7 @@
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsonline.to/channels/pt/sporttv1.php</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
@@ -76,7 +76,7 @@
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsonline.to/channels/pt/sporttv2.php</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
@@ -99,7 +99,7 @@
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsonline.to/channels/pt/sporttv3.php</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
@@ -122,7 +122,7 @@
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsonline.to/channels/pt/sporttv4.php</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
@@ -145,7 +145,7 @@
 <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
 <referer>https://sportsonline.to/channels/pt/sporttv5.php</referer>
 </regex>
-<thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 
