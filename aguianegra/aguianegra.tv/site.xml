@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]NACIONAL[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]NACIONAL[/COLOR]»»</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[B][COLOR white][makelist.param1][/COLOR][/B]</title>
+<title>[B][COLOR white][makelist.param1][/COLOR]»»[/B]</title>
 <link>$doregex[decode]|User-Agent=iPad</link>
 <thumbnail>https:[makelist.param2]</thumbnail>  
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
@@ -35,12 +35,12 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]INTERNACIONAL[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]INTERNACIONAL[/COLOR]»»</title>
 <link>$doregex[menu]</link>
 <regex>
 <name>menu</name>
 <listrepeat><![CDATA[
-<title>[B][COLOR white][menu.param1][/COLOR][/B]</title>
+<title>[B][COLOR white][menu.param1][/COLOR]»»[/B]</title>
 <link>$doregex[decode]|User-Agent=iPad</link>
 <thumbnail>https:[menu.param2]</thumbnail>  
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
@@ -69,12 +69,12 @@
 </menu>
  
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]OUTROS[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]OUTROS[/COLOR]»»</title>
 <link>$doregex[menu]</link>
 <regex>
 <name>menu</name>
 <listrepeat><![CDATA[
-<title>[B][COLOR white][menu.param1][/COLOR][/B]</title>
+<title>[B][COLOR white][menu.param1][/COLOR]»»[/B]</title>
 <link>$doregex[decode]|User-Agent=iPad</link>
 <thumbnail>https:[menu.param2]</thumbnail>  
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
@@ -102,7 +102,7 @@
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]FOX News 2ndrun.tv [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]FOX News 2ndrun.tv [/COLOR]»»</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://www.shidurlive.com&amp;Referer=https://www.shidurlive.com/</link>
@@ -154,7 +154,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]FOX News 2ndrun.tv [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]FOX News 2ndrun.tv [/COLOR]»»</title>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <link>$doregex[m5]|User-Agent=iPad</link>
