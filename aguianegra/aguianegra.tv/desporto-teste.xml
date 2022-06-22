@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR chocolate]]Jogos ao vivo[/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate][COLOR chocolate] Jogos ao vivo[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 		<name>makelist</name>
