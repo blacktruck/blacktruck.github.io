@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-        <title>ANIME</title>
+        <title>TNT Sports 1</title>
         <link>$doregex[resolver]</link>
-        <thumbnail>https://i.imgur.com/iUsPzoW.jpg</thumbnail>
-        <genre>Animation</genre>
-        <info>Anime teste</info>
+        <thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/TNT_Sports.png</thumbnail>
+        <genre>desporto</genre>
+        <info>TNT Sports 1</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>https://i.imgur.com/W5ix2uV.png</fanart>
