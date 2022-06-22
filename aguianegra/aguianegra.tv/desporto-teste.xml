@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
-
+<menu>
+<title>[B][COLOR white]JOGOS AO VIVO[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+		<name>makelist</name>
+		<listrepeat><![CDATA[
+		<title>[makelist.param1] - [makelist.param2]   ($doregex[mudar])</title>
+		<link>$doregex[geturl]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
+		]]></listrepeat>
+		<expres>(\d\d:\d\d)\s+(.+?)\|\s+https(.+?)\.php</expres>
+		<page>https://sportsonline.to/prog.txt</page>
+</regex>
+<regex>
+        <name>geturl</name>
+        <expres>var\s*src\s*=\s*"([^"]+)</expres>
+        <page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+        <name>getunpacked</name>
+        <expres>$pyFunction:get_unpacked(page_data,'(eval.*m3u8.*)')</expres>
+        <page>$doregex[lacasitos]</page>
+        <referer>https://sportzonline.to/</referer>
+</regex>
+<regex>
+		<name>lacasitos</name>
+		<expres><![CDATA[iframe\s+src\="(.+?)"]]></expres>
+		<page>https[makelist.param3].php</page>
+</regex>
+</menu>
+</menus>
 
 <menu>
         <title>TNT Sports 1</title>
