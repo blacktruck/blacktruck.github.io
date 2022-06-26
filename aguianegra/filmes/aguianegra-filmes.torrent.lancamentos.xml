@@ -1,5 +1,13 @@
 <?xmlversion="1.0"encoding="UTF-8"standalone="yes"?>
 <menus>
+
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Rise [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AA333E967090072C88C40A7B660C9452E7D8B4B</link>
+<info>Siga três irmãos nigerianos-gregos, criados do anonimato e lançados na fama do basquete profissional. Os pais Vera e Charles Antetokounmpo se mudam da Nigéria para a Grécia em busca de uma chance de uma vida melhor para sua família. O casal trabalha duro para sustentar seus cinco filhos, enquanto a realidade da deportação de um sistema de cidadania difícil ameaça os sonhos de seus filhos. Para ganhar dinheiro suficiente para pagar as contas, a família trabalha em conjunto para vender lembranças aos turistas em Atenas. Quando surge a oportunidade, os irmãos Antetokounmpo levam suas frustrações para as quadras públicas de basquete. Individualmente, eles rapidamente percebem que, embora não tenham experiência no esporte, são jogadores de bola naturalmente talentosos. Com a ajuda de um agente de talentos, o trio decide seguir carreira na NBA.</info>
+<thumbnail>https://i.imgur.com/RZFRWEY.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 <menu>
 <title>[COLORgold]Aguianegra[/COLOR]»»[COLORchocolate]Crimes of the Future[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:793A65698B91571FFBCBF23D0EC70BA74C3AD00F</link>
