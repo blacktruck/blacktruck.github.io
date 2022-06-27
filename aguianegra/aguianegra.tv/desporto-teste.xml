@@ -104,7 +104,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 4[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 4[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
