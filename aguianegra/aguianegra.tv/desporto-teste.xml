@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][COLOR chocolate] JOGOS AO VIVO[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][COLOR chocolate] JOGOS AO VIVO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 		<name>makelist</name>
@@ -35,7 +35,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 1[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 1[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -58,7 +58,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 2[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 2[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -81,7 +81,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 3[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]SPORTS ONLINE  TV 3[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -127,7 +127,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE  TV 5[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE  TV 5[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -150,7 +150,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 1[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 1[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -173,7 +173,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 2[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 2[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -196,7 +196,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 3[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 3[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -219,7 +219,7 @@
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 4[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] SPORTS ONLINE BR 4[/COLOR]</title>
 <link>$doregex[m5]|User-Agent=Mozilla/5.0&amp;Accept=*/*&amp;Origin=https://nstream.to&amp;Referer=https://nstream.to/</link>
 <regex>
 <name>m5</name>
@@ -240,22 +240,59 @@
 <thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-
 <menu>
-        <title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][COLOR chocolate]TNT SPORTS 1 [/COLOR]»»</title>
-        <link>$doregex[resolver]</link>
-        <thumbnail>https://raw.githubusercontent.com/arrownegra/logosbr/main/logosbr/TNT_Sports.png</thumbnail>
-        <genre>desporto</genre>
-        <info>TNT Sports 1</info>
-        <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-        <fanart>https://i.imgur.com/W5ix2uV.png</fanart>
-		<regex>
-			<name>resolver</name>
-			<expres>"stream":.+?"(.*?)"</expres>
-			<page>http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8</page>
-		</regex>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TNT SPORTS[/COLOR]</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
-	
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TNT SPORTS 2[/COLOR]</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TNT SPORTS 3[/COLOR]</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TNT SPORTS 4[/COLOR]</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TNT SPORTS 5[/COLOR]</title>
+<link>https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]REAL MADRID[/COLOR]</title>
+<link>https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]ALL SPORTS[/COLOR]</title>
+<link>https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]RED BULL[/COLOR]</title>
+<link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate]TV ADQS[/COLOR]</title>
+<link>https://stmv1.srvif.com/adqstv/adqstv/chunklist_w1714442918.m3u8|user-agent=stagefright/1.2+(Linux;Android+5.1.1)</link>
+<thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 
 </menus>
