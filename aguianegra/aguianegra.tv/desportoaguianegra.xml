@@ -6,7 +6,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][B][COLOR white][makelist.param1][/COLOR]»»[/B]</title>
+  <title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][B][COLOR white][makelist.param1][/COLOR]</title>
   <link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param2]</link>
   <thumbnail>https://i.imgur.com/xIxMHi5.png</thumbnail>
   <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
@@ -35,7 +35,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title> [COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][B][COLOR white][makelist.param7][/COLOR]»»[/B]</title>
+<title> [COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate][B][COLOR white][makelist.param7][/COLOR]</title>
 <link>http://127.0.0.1:6878/ace/getstream?id=[makelist.param1]</link>
 <thumbnail>[makelist.param2]</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] Desporto teste [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] Desporto teste [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://i.imgur.com/W5ix2uV.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
