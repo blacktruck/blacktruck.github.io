@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
+
 <menu>
-  <title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] ANIME TV [/I][/B][/COLOR]</title>
-  <link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
-  <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/ANIME%20_TV.jpg</thumbnail>
-  <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] teste [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04c12cf9f7d684b9d83b2709271ebddee2a0048e$nome=[B]Bob Zoom - Coleção Desenho Infantil (2018) (1080p)[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04c12cf9f7d684b9d83b2709271ebddee2a0048e$nome=[B]Bob Zoom - Coleção Desenho Infantil (2018)  (720p)[/B]</link>
+<info></info>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] ANIME TV [/I][/B][/COLOR]</title>
+<link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/ANIME%20_TV.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
 <title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/COLOR]</title>
