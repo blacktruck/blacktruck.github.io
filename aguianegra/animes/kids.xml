@@ -1,62 +1,120 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate][B][I] ANIME TV [/I][/B][/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLOR chocolate] ANIME TV [/COLOR]</title>
 <link>https://stmv1.srvif.com/animetv/animetv/playlist.m3u8</link>
+<info>Anime TV Online o melhor site de anime para Assistir Animes Online do Br. Assista seus animes favoritos legendado ou dublado.</info>
 <thumbnail>https://raw.githubusercontent.com/arrownegra/logos.pt/main/ANIME%20_TV.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title> [COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Todd e o Livro da Maldade Pura: O Fim do Fim [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CECA0583B767612D7BB243F12E8EB1250AE4B8DE</link>
+<info>A conclusão animada para a ação ao vivo Todd e The Book Of Pure Evil Show. Todd tenta consertar sua amizade com Curtis depois de matar sua namorada. O livro voltou junto com Hannah e fala-se de um novo Pure Evil.</info>
+<thumbnail>https://i.imgur.com/vumw8KR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]O Livro da Vida [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EBD6B18A51AE1B329E81C655C40396D58AE8EC3</link>
+<info>Uma história de amor, no maior estilo Romeu e Julieta, que se passa durante a comemoração do Dia dos Mortos. Animação dirigida por Jorge R. Gutierrez.</info>
+<thumbnail>https://i.imgur.com/1BUUjHx.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Universo em Fantasia [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A8385F5D005CFD8518F120677006C8339D5CF08</link>
+<info>Um astronauta traz para casa um orbe verde brilhante para sua filha. No entanto, o orbe verde acaba com ele e encurrala a garota para seus propósitos. Afirmando encarnar o mal supremo, a esfera malévola, conhecida como Loc-Nar, aterroriza a garotinha mostrando uma série de histórias bizarras e fantásticas que ela influenciou. O primeiro é "Harry Canyon", um motorista de táxi cínico em uma esquálida e futurista Nova York que se vê envolvido com uma donzela em perigo que é implacavelmente perseguida por bandidos assassinos que desejam o Loc-Nar que seu pai arqueólogo encontrou. O segundo é "Den", que narra as aventuras de um adolescente nerd que é jogado no mundo de fantasia de Neverwhere, onde é transformado em um belo homem musculoso, desejado por belas mulheres, que deve se envolver em um conflito que gira em torno da posse de o Loc-Nar. O terceiro é "Capitão Sternn", onde o personagem-título é um patife bonito, mas irredimível, que é acusado em um julgamento que o Loc-Nar lança no caos. O quarto é "B-17", onde um avião bombardeiro da Segunda Guerra Mundial manca para casa depois de um bombardeio, apenas para ter o Loc-Nar ram nele e reviver os membros da tripulação mortos como zumbis assassinos. O próximo é "So Beautiful, So Dangerous", onde uma voluptuosa secretária do Pentágono é abduzida por alienígenas chapados e um robô supersexual. A história final é "Taarna", onde o Loc-Nar tem que vir para uma Terra futura e transforma um povo pacífico em uma horda de bárbaros assassinos que atacam com zelo genocida. Apenas o último Tarrakian, uma mulher guerreira silenciosa conhecida como Taarna, pode vingar as vítimas e parar o Loc-Nar.</info>
+<thumbnail>https://i.imgur.com/aXYsnNq.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Chickenhare e o Hamster das Trevas [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53602B55BFD7666C08EBAC4D49FFDD458C3B747E</link>
+<info>Situado em um mundo de fantasia exuberante, o filme segue as aventuras de Chickenhare, um jovem herói nascido metade galinha e metade lebre, que foi adotado pelo Rei Pedro, um famoso aventureiro lebre. Ansioso para se encaixar e se sentir amado apesar de suas diferenças, Chickenhare é obcecado por aventuras - não importa o quão desajeitado ele seja. Quando o maior vilão do Reino - seu próprio tio - escapa da prisão e ameaça derrubar seu pai, Chickenhare embarca em uma jornada épica e iniciática junto com Abe, uma tartaruga sarcástica, e Meg, uma gambá especialista em artes marciais, para detê-lo.</info>
+<thumbnail>https://i.imgur.com/fblV3A6.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Fireheart [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FF26F70A917B177D9406415D1F51C46F1D9AF81</link>
+<info>Georgia Nolan, de dezesseis anos, sonha em ser a primeira bombeira do mundo. Quando um misterioso incendiário começa a incendiar a Broadway, os bombeiros de Nova York começam a desaparecer. O pai de Georgia, Shawn, é chamado da aposentadoria pelo prefeito de Nova York para liderar a investigação sobre os desaparecimentos. Desesperada para ajudar seu pai e salvar sua cidade, Georgia se disfarça como um jovem chamado "Joe" e se junta a um pequeno grupo de bombeiros desajustados que tentam parar o incendiário.</info>
+<thumbnail>https://i.imgur.com/idx1cGw.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Metal Skin Panic Madox-01 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B070ECC84D75B61447A27B0004B947A019A40FD</link>
+<info>A nova unidade de combate do Exército, o MADOX-01, é perdida em trânsito após a queda do comboio em que estava sendo transportado. Ele acaba nas mãos de um mecânico chamado Kouji. Não leva muito tempo para se envolver, mas então ele descobre que não vai deixá-lo sair. Tudo o que ele quer fazer é ver sua namorada, mas uma divisão de tanques está pronta para recuperar o MADOX - e está pronto para se defender.
+</info>
+<thumbnail>https://i.imgur.com/gfKKrRW.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Menino Astro [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75EAE892C0FF5613B9FB9D599E99464BF17E730B</link>
+<info>Situado na futurista Metro City, Astro Boy é sobre um jovem robô com poderes incríveis criado por um cientista brilhante à imagem do filho que ele perdeu. Incapaz de cumprir as expectativas do homem enlutado, nosso herói embarca em uma jornada em busca de aceitação, experimentando a traição e um submundo de robôs gladiadores, antes de retornar para salvar Metro City e se reconciliar com o pai que o rejeitou.</info>
+<thumbnail>https://i.imgur.com/D9KTko9.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Heavy Metal 2000 [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97EFC1CC42795C7EBDC71F8C8A2C6398D5FEDADF</link>
+<info>Há muito tempo atrás, os arakacianos dominavam as galáxias. Havia terror e devastação. A fonte de sua força terrível encontrava-se em uma câmara do planeta Uroboris. A água lá contida era a promessa de vida eterna. A câmara só podia ser aberta com uma única chave que, se encontrada, levaria seu portador de volta à fonte da imortalidade mas a chave levaria à loucura quem a tocasse. Quando os arakacianos foram finalmente derrotados a câmara foi trancada e a chave lançada no espaço. Por muito tempo ela não foi encontrada, mas Tyler, um pirata do espaço, descobre o cristal verde que é a chave para a imortalidade. Enlouquecido, ele promove uma matança contra os habitantes do planeta Eden. A única sobrevivente é Julie, que jura matá-lo para vingar a morte dos pais e o seqüestro de sua irmã. Mas antes ela precisa impedir que ele chegue ao portal que o tornará imortal.</info>
+<thumbnail>https://i.imgur.com/4QVeG8g.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title> [COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]DRAGON BALL Z | TODAS AS SAGAS [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/draganball.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/saga-draganboll/base-drag.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate]DRAGON BALL | SUPER [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]DRAGON BALL | SUPER [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/dragon-ball-super.png</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/dragon-ball-super/base-dragon-super.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] NARUTO  [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] NARUTO  [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/NARUTO%20CL%C3%81SSICO/NARUTO.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/NARUTO%20CL%C3%81SSICO/NARUTO%20CL%C3%81SSICO.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] TOKUSATSU  [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TOKUSATSU  [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/TOKUSATSU/maxresdefault.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/TOKUSATSU/TOKUSATSU.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Kyaputen Tsubasa [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Kyaputen Tsubasa [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Kyaputen%20Tsubasa/images.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Kyaputen%20Tsubasa/Kyaputen%20Tsubasa.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Justiça Jovem [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Justiça Jovem [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Justi%C3%A7a%20Jovem/images.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Justi%C3%A7a%20Jovem/JUSTI%C3%87A%20JOVEM.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Os Cavaleiros do Zodíaco [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Os Cavaleiros do Zodíaco [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Os%20Cavaleiros%20do%20Zod%C3%ADaco/cavaleirosdozodiaco.webp</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Os%20Cavaleiros%20do%20Zod%C3%ADaco/Os.Cavaleiros.do.Zod%C3%ADaco.xml</externallink>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR] [COLORchocolate] Looney Tunes [/COLOR]</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Looney Tunes [/COLOR]</title>
 <link>NA</link>
 <thumbnail>https://raw.githubusercontent.com/blacktruck/blacktruck.github.io/main/aguianegra/animes/Looney-Tunes/LT.webp</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
