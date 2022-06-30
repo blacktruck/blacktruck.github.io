@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]As Voltas da Vida [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1A23E24D533440F0564CCDAD943AE52B53B824F</link>
+<info>Após descobrir que está perdendo a visão, um olheiro veterano embarca numa última viagem com a sua filha para analisar um jogador promissor e encontram um ex jogador que segue a carreira de olheiro. Agora eles terão que resolver problemas do passados e vislumbrar o futuro no que é chamado de curvas da vida.</info>
+<thumbnail>https://i.imgur.com/fgAizrF.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] A Volta do Monstro do Pântano [/COLOR]</title>
 <link> plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb9e8b92b8cf98b6e69608f4f32f1b85e3b2e05e</link>
 <info>O monstro do pântano (Dick Durock) retorna para batalha contra o malvado Dr. Arcane (Louis Jourdan) que agora está com um laboratório cheio de criaturas geneticamente modificadas. A nova afeição do mostro é pela jovem Abby Arcane (Heather Locklear).</info>
