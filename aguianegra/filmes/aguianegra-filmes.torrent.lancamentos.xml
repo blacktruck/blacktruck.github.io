@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
-
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Good Neighbor [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5D39340CCF5BB13CF43A314FA68117578C1D9DF</link>
+<info>A amizade entre dois vizinhos muito diferentes toma um rumo trágico quando David atropela uma jovem e causa sua morte.</info>
+<thumbnail>https://i.imgur.com/o8vb4D6.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Man from Toronto [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8AC2215D13AAC298980A60788F3EC7ED83D7042F</link>
+<info>O assassino mais mortal do mundo e o maior trapaceiro de Nova York são confundidos em um aluguel do Airbnb.</info>
+<thumbnail>https://i.imgur.com/DzPpiPs.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Assassinato na cidade de Yellowstone [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81856304BC42014C28D52D9B8D7EDE0882F8D3CA</link>
+<info>Um ex-escravo chega a Yellowstone City, Montana, uma desolada antiga cidade próspera agora em declínio, procurando um lugar para chamar de lar. Nesse mesmo dia, um garimpeiro local descobre ouro - e é assassinado.</info>
+<thumbnail>https://i.imgur.com/LrOq5Wc.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Vadia Aspiracional [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0A8BC624284B6EC67D563BB00843777575E94A9</link>
+<info>Encontramos Rosemary deitada no chão de sua casa, soluçando. De coração partido. A campainha toca. É um entregador de pizza. Rosemary não consegue parar de chorar. Ela quer amor, mas nunca dá certo. Felizmente para Rosemary, este entregador de pizza tem a resposta: esqueça o amor e concentre-se no sexo aleatório selvagem pela primeira vez na vida. Cortamos para uma montagem divertida de treinamento de vadias, onde o entregador de pizza ensina Rosemary seus modos vadios e Rosemary aprende a se libertar sexualmente. Rosemary acha que domina a vida de vagabunda, mas suas novas habilidades são postas à prova quando ela conhece Ned.</info>
+<thumbnail>https://i.imgur.com/3OvtVws.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] Rise [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1AA333E967090072C88C40A7B660C9452E7D8B4B</link>
