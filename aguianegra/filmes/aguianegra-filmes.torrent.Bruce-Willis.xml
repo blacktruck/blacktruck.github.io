@@ -2,7 +2,8 @@
 <menus>
 <menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] White Elephant[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18C876B24306671DA9D51E88949270CFFC55488B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18C876B24306671DA9D51E88949270CFFC55488B$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18C876B24306671DA9D51E88949270CFFC55488B$$lsname=720p</link>
 <info>Um ex-fuzileiro naval deve lutar contra sua consciência e código de honra quando é forçado a fazer coisas para a máfia.</info>
 <thumbnail>https://i.imgur.com/TKxBnMv.jpg</thumbnail>
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
