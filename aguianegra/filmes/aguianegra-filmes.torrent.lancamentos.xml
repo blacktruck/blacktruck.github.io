@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Terror on the Prairie [/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8464A1ACCAA344FAD92D64DCD9BB73007672ECAA$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2780C0FA8FABACDD2FC001C0A130322B838038D4$$lsname=720p</link>
+<info>Nas planícies de Montana, uma mulher da fronteira deve se proteger contra uma gangue implacável de foras-da-lei empenhados em vingança.</info>
+<thumbnail>https://i.imgur.com/awAWzUG.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Good Neighbor [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5D39340CCF5BB13CF43A314FA68117578C1D9DF</link>
 <info>A amizade entre dois vizinhos muito diferentes toma um rumo trágico quando David atropela uma jovem e causa sua morte.</info>
