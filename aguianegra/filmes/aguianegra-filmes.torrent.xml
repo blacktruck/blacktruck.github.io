@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Blue Thunder [COLOR yellow](1983)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0CA24931A56F73BA966F2B14ED12FF870EAFF34</link>
+<info>Blue Thunder é um helicóptero especialmente modificado. É para o trabalho policial, mas está armado e projetado para combater insurgências de rua. Seus fabricantes querem mostrar o que fará, mas precisam treinar o piloto da polícia de Los Angeles, Frank Murphy, para voar e usá-lo para permitir que opere na cidade. Murphy e o piloto do projeto têm diferenças desde o Vietnã. O conflito entre eles continua a esquentar quando Murphy começa a suspeitar que o Blue Thunder é mais do que foi divulgado.</info>
+<thumbnail>https://i.imgur.com/ilEVBub.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]As Voltas da Vida [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1A23E24D533440F0564CCDAD943AE52B53B824F</link>
 <info>Após descobrir que está perdendo a visão, um olheiro veterano embarca numa última viagem com a sua filha para analisar um jogador promissor e encontram um ex jogador que segue a carreira de olheiro. Agora eles terão que resolver problemas do passados e vislumbrar o futuro no que é chamado de curvas da vida.</info>
