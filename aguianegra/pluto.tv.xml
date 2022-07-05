@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS BRASIL [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS BRASIL [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -23,7 +23,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA BRASIL[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA BRASIL[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS CANADA [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS CANADA [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA CANADA[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA CANADA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -131,7 +131,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS GERMANY [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS GERMANY [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -154,7 +154,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA GERMANY[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA GERMANY[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -196,7 +196,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS SPAIN [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS SPAIN [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -219,7 +219,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA SPAIN[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA SPAIN[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -262,7 +262,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS FRANCE [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS FRANCE [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -285,7 +285,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA FRANCE[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA FRANCE[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -328,7 +328,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS MEXICO [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS MEXICO [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -351,7 +351,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA MEXICO[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA MEXICO[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -394,7 +394,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
 
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS USA [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS USA [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -417,7 +417,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA USA[/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA USA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -459,7 +459,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS UK [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS UK [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -482,7 +482,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA UK [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA UK [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -524,7 +524,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
 </menu>
 <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS ALL [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS ALL [/COLOR]</title>
 <link>$doregex[channel]</link>
 <regex>
 <name>channel</name>
@@ -547,7 +547,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </menu>
  
  <menu>
-<title>[COLOR gold]Aguianegra[/COLOR]»» [COLORchocolate] TODOS POR CATEGORIA ALL [/COLOR]»»</title>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] TODOS POR CATEGORIA ALL [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
