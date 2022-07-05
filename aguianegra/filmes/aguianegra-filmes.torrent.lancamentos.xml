@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Princess [COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:666095307E0C2ABE5FD3959E08996F2264DAB20C</link>
+<info>Quando uma princesa obstinada se recusa a se casar com o cruel sociopata, ela é sequestrada e trancada em uma torre remota do castelo de seu pai. Com seu pretendente vingativo tentando tomar o trono de seu pai, a princesa deve salvar o reino.</info>
+<thumbnail>https://i.imgur.com/F0pN7DC.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Last the Night [COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F0ED0314EBB5F2450AFC219C22100AA4C6C4F651</link>
+<info>Durante a pandemia, um professor esgotado à beira de um colapso ouve seus alunos tirando sarro dele em uma aula de zoom e jura vingança.</info>
+<thumbnail>https://i.imgur.com/na1Vzag.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Code Name Banshee [COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B93D0A2C7F1D5E2315A22999E248CADD48CC5052$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA1A7D446BBCAB4B6533640153B20D13B020A78C$$lsname=2060p FLHD</link>
+<info>Caleb, um ex-assassino do governo escondido, que ressurge quando seu protegido, o assassino igualmente mortal conhecido como Banshee, descobre que uma recompensa foi colocada na cabeça de Caleb.</info>
+<thumbnail>https://i.imgur.com/DSK9KUj.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Rubikon [COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2E4B15B7CBC93ABFAE6DBBA9DA6991B4B603745</link>
+<info>Após uma catástrofe na Terra, o planeta é coberto por uma névoa tóxica. A tripulação da estação espacial deve decidir se arrisca suas vidas para chegar em casa e procurar sobreviventes, ou se manter segura no "sistema de simbiose de algas" da estação.</info>
+<thumbnail>https://i.imgur.com/50A1aiR.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate] The Man from Toronto[COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8AC2215D13AAC298980A60788F3EC7ED83D7042F$$lsname=1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03D7A3F784F97932668E9196ED488689C5C39215$$lsname=720p</link>
+<info>O assassino mais mortal do mundo e o maior trapaceiro de Nova York são confundidos em um aluguel do Airbnb.</info>
+<thumbnail>https://i.imgur.com/mGkDYj4.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]Terror on the Prairie [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8464A1ACCAA344FAD92D64DCD9BB73007672ECAA$$lsname=1080p</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2780C0FA8FABACDD2FC001C0A130322B838038D4$$lsname=720p</link>
