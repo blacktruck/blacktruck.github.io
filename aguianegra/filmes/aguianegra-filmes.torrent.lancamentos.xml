@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]American Werewol[COLOR yellow](2022)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94E813DD04BE99223CC4BA9AFC584DE4F1BB067A</link>
+<info>Lobisomens Americanos, um documentário totalmente novo de Small Town Monsters, faz a pergunta: existem lobisomens reais? Dirigido por Seth Breedlove e produzido por Heather Moser, Lobisomens Americanos persegue um dos mitos que perseguem o folclore há séculos e explora as consequências do mundo real e os encontros com as criaturas malignas mais antigas que a humanidade.</info>
+<thumbnail>https://i.imgur.com/oZJkxRL.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Princess [COLOR yellow](2022)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:666095307E0C2ABE5FD3959E08996F2264DAB20C</link>
 <info>Quando uma princesa obstinada se recusa a se casar com o cruel sociopata, ela é sequestrada e trancada em uma torre remota do castelo de seu pai. Com seu pretendente vingativo tentando tomar o trono de seu pai, a princesa deve salvar o reino.</info>
