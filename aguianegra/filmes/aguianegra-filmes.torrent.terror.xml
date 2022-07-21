@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <menus>
 <menu>
+<title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]The Shed [COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D788E9A972810996D0595D675D8234EF1136B7C1</link>
+<info>A história de Stan, um adolescente órfão preso vivendo com seu avô abusivo e encarregado de proteger rotineiramente seu melhor amigo dos valentões do ensino médio. Quando Stan descobre que uma criatura assassina se refugiou dentro do galpão de ferramentas em seu quintal, ele tenta secretamente lutar contra o demônio sozinho até que seu amigo intimidado descobre a criatura e tem um plano muito mais sinistro em mente</info>
+<thumbnail>https://i.imgur.com/qyvJcre.jpg</thumbnail>
+<fanart>https://i.imgur.com/iUsPzoW.jpg</fanart>
+</menu>
+<menu>
 <title>[COLOR gold]Aguianegra[/COLOR]»»[COLORchocolate]American Werewol[COLOR yellow](2022)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94E813DD04BE99223CC4BA9AFC584DE4F1BB067A</link>
 <info>Lobisomens Americanos, um documentário totalmente novo de Small Town Monsters, faz a pergunta: existem lobisomens reais? Dirigido por Seth Breedlove e produzido por Heather Moser, Lobisomens Americanos persegue um dos mitos que perseguem o folclore há séculos e explora as consequências do mundo real e os encontros com as criaturas malignas mais antigas que a humanidade.</info>
